@@ -1,0 +1,8 @@
+{
+    "name": "Uwp",
+    "description": "uwp design",
+    "version": "1.0",
+    "author": "Doggybootsy#1333",
+    "theme": "Base.scss",
+    "license": "MIT"
+}

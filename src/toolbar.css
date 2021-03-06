@@ -1,0 +1,128 @@
+
+.platform-win .toolbar-1t6TWx{
+    margin-right: 120px !important;;
+}
+.typeWindows-1za-n7{
+    height: 0px;
+    margin: 0%;
+}
+.winButton-iRh8-Z{
+    top:13px;
+    right:5px;
+}
+.title-3qD0b- {
+  -webkit-app-region: drag;
+}
+.wordmarkWindows-1v0lYD{
+    display: none;
+}
+.canCopy-2VBT7N{
+    display: none;
+}
+.powercord-spotify .flex-1xMQg5{ display: none;}
+:not(.powercord-spotify)>.container-3baos1{height: 0%;}
+/* english only */
+[aria-label="User Settings"]{
+    z-index: 1000;
+    background: url('https://raw.githack.com/CorellanStoma/Powercord/assets/Icons/menu.svg');
+    width: 18px;
+    height: 18px;
+    opacity: 1;
+    transform: rotate(90deg);
+}
+[aria-label="User Settings"]path {
+    display: none;
+}
+.container-3baos1>.flex-1xMQg5{
+    position: absolute;
+    top:15px;
+    right:100px;
+    z-index: 1000;
+    flex-direction: column-reverse;
+}
+.container-3baos1:hover>.flex-1xMQg5{
+    position: absolute;
+    top:15px;
+    right:85px;
+    z-index: 1000;
+    flex-direction: column-reverse;
+}
+.container-3baos1>div>.button-14-BFJ:not(:nth-child(3)){
+    right:6px;
+}
+.container-3baos1>div>.button-14-BFJ:not(:nth-child(3)){
+    display: none;
+}
+.container-3baos1:hover>.flex-1xMQg5>.button-14-BFJ:not(:nth-child(3)){
+    display: flex;
+}
+.search-36MZv- {order: 1;}
+.searchBar-3dMhjb {
+    width: 28px;
+    transition: width 0.6s ease-in-out;
+    color:#fff;
+    background: none;
+}
+.focused-31_ccS .searchBar-3dMhjb,
+.open-6_Y_aH .searchBar-3dMhjb,
+.searchBar-3dMhjb:hover {
+    width: 240px;
+    background: var(--background-tertiary);
+}
+.icon-3cZ1F_{height: 24px;width: 24px;color:var(--interactive-normal);}
+.iconContainer-O4O2CN{bottom: 3px;}
+.search-36MZv-{margin-left: 0px;}
+
+[href="https://support.discord.com"]{display: none;}
+
+/* english only stuff */
+[aria-label="Member List"],[aria-label*="Mute channel"]{display: none;}
+
+[aria-label="Inbox"]{
+    margin-right:65px;
+}
+[aria-label="Inbox"]::after{
+    content: "Inbox";
+    position: absolute;
+    top:3px;
+    left:30px;
+}
+[aria-label="Pinned Messages"]{
+    margin-right:55px;
+}
+.iconWrapper-2OrFZ1[aria-label="Pinned Messages"]::after{
+    content: "Pins";
+    position: absolute;
+    top:3px;
+    left:30px;
+}
+
+
+  .button-1w5pas {
+    background: url('https://raw.githack.com/CorellanStoma/Powercord/assets/Icons/menu.svg');
+    width: 18px;
+    height: 18px;
+    position: relative;
+    opacity: 1;
+    top: 0px;
+    transform: rotate(90deg);
+  }
+  .button-1w5pas path {
+    display: none;
+  }
+
+.button-1w5pas.open-1Te94t {
+    transform: rotate(90deg);
+}
+.container-3baos1> .avatarWrapper-2yR4wp {
+    position: fixed;
+    z-index: 5;
+    top: 95px;
+    right: 85px;
+    visibility: hidden;
+}
+.container-3baos1:hover> .avatarWrapper-2yR4wp {
+    visibility: visible;
+}
+.avatarWrapper-2yR4wp> .avatar-SmRMf2.wrapper-3t9DeA {padding: 0px; }
+.container-1D34oG, .container-3Mxszk, .applicationStore-1pNvnv, .pageWrapper-1PgVDX, .wrapper-2qzCYF {z-index: 6;}

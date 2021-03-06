@@ -1,0 +1,12 @@
+@use "./DONT_TOUCH.scss";
+@use "./src/toolbar.css";
+@use "./src/form.css";
+@use "./src/coloring.css";
+@use "./src/touchup.css";
+
+:root{
+    --primary-background:#2e3136;
+    --secondary-background:#2a2b2f;
+    --secondary-background-alt:#2a2b2f;
+    --border:#202022;
+}
