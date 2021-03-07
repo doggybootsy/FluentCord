@@ -1,5 +1,4 @@
 @import url(https://raw.githack.com/Snippets-For-Discord/theme-warnings/main/fullscreen-style/dark-mode/fullscreen-style.css);
-
 :root{
     --primary-background:#2e3136;
     --secondary-background:#2a2b2f;
@@ -20,17 +19,32 @@
     color:#fff;
     background: none;
 }
+
+.typeWindows-1za-n7{
+  width:calc(100% - calc(72px + 240px));
+  position: fixed;
+  right: 0px;
+  height:46px;
+  z-index:2;
+  background:var(--secondary-background-alt)!important;margin:0px;
+}
+.platform-win .children-19S4PO,.platform-win .toolbar-1t6TWx{
+  z-index:1000000;
+}
+.winButton-iRh8-Z{top:12px;right:5px;z-index:67438274832798;}
+.wordmarkWindows-1v0lYD{display: none;}
+.platform-win .sidebar-2K8pFh {border-radius: 0px!important;}
+.platform-win .title-3qD0b-{
+  width:calc(100% - 120px);
+}
+.typeWindows-1za-n7 {!important;margin:0px;
+  border-bottom: var(--border) 1px solid;}
 .focused-31_ccS .searchBar-3dMhjb,
 .open-6_Y_aH .searchBar-3dMhjb,
 .searchBar-3dMhjb:hover {
     width: 240px;
     background: var(--background-tertiary);
 }
-.typeWindows-1za-n7{height: 0px;margin: 0%;}
-.winButton-iRh8-Z{top:13px;right:5px;}
-.title-3qD0b- {-webkit-app-region: drag;}
-.wordmarkWindows-1v0lYD{display: none;}
-.platform-win .sidebar-2K8pFh {border-radius: 0px!important;}
 .icon-3cZ1F_{height: 24px;width: 24px;color:var(--interactive-normal);}
 .iconContainer-O4O2CN{bottom: 3px;}
 .search-36MZv-{margin-left: 0px;}
@@ -163,6 +177,7 @@ foreignObject[mask="url(#svg-mask-avatar-status-mobile-32)"]{
 .modeSelected-346R90 .content-1x5b-n,.content-1x5b-n:hover {
     background-color: transparent;
 }
+
 .unread-2lAfLh{
   display:none;
 }
@@ -263,12 +278,6 @@ body{
 }
 [aria-label="Inbox"]{
   margin-right:60px;
-}
-.toolbar-1t6TWx{
-  margin-right:40px;
-}
-.platform-win .toolbar-1t6TWx{
-  margin-right:120px;
 }
 .panels-j1Uci_>.container-3baos1>.flex-1xMQg5{
   position:fixed;
