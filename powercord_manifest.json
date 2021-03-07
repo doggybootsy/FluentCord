@@ -1,0 +1,8 @@
+{
+    "name": "Fluentcord",
+    "description": "A theme based on Fluentcord",
+    "version": "1.0",
+    "author": "Doggybootsy#1333",
+    "theme": "Base.scss",
+    "license": "MIT"
+}
