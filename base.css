@@ -11,7 +11,11 @@
     --lighter-main-color: #7289da2d;
     --lighter2-main-color: #7289da73;
 }
-
+.platform-win .panels-j1Uci_>.container-3baos1>.flex-1xMQg5,
+.platform-win .children-19S4PO,
+.platform-win .toolbar-1t6TWx {
+  -webkit-app-region: no-drag;
+}
 .search-36MZv- {order: 1;}
 .searchBar-3dMhjb {
     width: 28px;
