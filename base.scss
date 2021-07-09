@@ -111,6 +111,12 @@ html {
                                         border: var(--border) 2px solid;
                                         border-radius: 6px;
                                     }
+                                    .bd-addon-card{
+                                      border: 2px solid var(--border2);
+                                    }
+                                    #bd-editor-panel{
+                                      border: 2px solid var(--border2);
+                                    }
                                     .banner-2QYc2d.bannerPremium-2hSAwz{
                                         height: 240px;
                                         &+.userInfo-iCloHO>.avatar-1uQSZT{
