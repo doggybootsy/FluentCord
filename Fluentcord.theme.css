@@ -1,0 +1,22 @@
+/**
+ * @name Fluentcord
+ * @author Doggybootsy#0001
+ * @version 1.0
+ * @description A theme based on Fluentcord
+ * @source https://github.com/doggybootsy/Fluentcord
+ */
+
+@import url('https://github.com/doggybootsy/Fluentcord/source.css');
+
+html {
+    --primary-background:#2e3136;
+    --secondary-background:#2d3035;
+    --secondary-background-alt:#2a2b2f;
+    --background-tertiary:#383d43;
+    --border:#202022;
+    --border2:#4f5257;
+
+    --main-color: #7289DA;
+    
+    --sideopacity: .95;
+}

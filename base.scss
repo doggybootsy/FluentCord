@@ -1,0 +1,977 @@
+@import "https://nyri4.github.io/Discolored/main.css";
+
+
+html {
+    --primary-background:#2e3136;
+    --secondary-background:#2d3035;
+    --secondary-background-alt:#2a2b2f;
+    --background-tertiary:#383d43;
+    --border:#202022;
+    --border2:#4f5257;
+
+    --main-color: #7289DA;
+
+    --sideopacity: .95;
+
+    background: transparent !important;
+    body {
+        background: transparent !important;
+        #app-mount {
+            background: transparent !important;
+            .layerContainer-yqaFcK{
+                width: calc(100vw - 72px);
+                margin-left: 72px;
+                visibility: hidden;
+                &>* {
+                    visibility: visible;
+                }
+                .perksModal-fSYqOq {
+                    background: var(--primary-background);
+                    &::-webkit-scrollbar {
+                        display: none;
+                    }
+                }
+                .focusLock-Ns3yie {
+                    .avatar-AvHqJA {
+                        border: 8px solid #1c1c1d;
+                        background-color: #1c1c1d;
+                    }
+                    .body-r6_QPy, .topSection-y3p-_D {
+                        background-color: #1c1c1d;
+                    }
+                }
+                .userPopout-xaxa6l{
+                    .avatar-37jOim {
+                        border: 6px solid #1c1c1d;
+                        background-color: #1c1c1d;
+                    }
+                    .headerTop-3vNv-a,.body-3HBlXn,.bodyInnerWrapper-26fQXj,.footer-3UKYOU {
+                        background-color: #1c1c1d;
+                    }
+                }
+            }
+            .app-2rEoOp {
+                background: transparent !important;
+                .bg-h5JY_x{
+                    background: transparent !important;
+                }
+                .layers-3iHuyZ {
+                    background: transparent !important;
+                    .layer-3QrUeG {
+                        background: transparent;
+                        transform: none !important;
+                        opacity: 1 !important;
+                        &.animating-rRxada *, &.animating-rRxada{
+                            pointer-events: auto !important;
+                            will-change: unset;
+                            &.stop-animations{
+                                z-index: 100 !important;
+                            }
+                            &.baseLayer-35bLyl.animating-rRxada {
+                                z-index: 130;
+                            }
+                        }
+                        &:not(:only-child):first-child{
+                            .base-3dtUhz{
+                                display: none;
+                            }
+                        }
+                        &:last-child:not(:first-child) {
+                            width: calc(100vw - 72px);
+                            margin-left: 72px;
+                            .standardSidebarView-3F1I7i{
+                                background: transparent;
+                                .sidebarRegion-VFTUkN {
+                                    flex: 0 0 auto;
+                                    position: relative;
+                                    &::after{
+                                        content: '';
+                                        top: 0;
+                                        left: 0;
+                                        right: 0;
+                                        bottom: 0;
+                                        position: absolute;
+                                        background: var(--primary-background);
+                                        opacity: var(--sideopacity);
+                                        z-index: -1;
+                                    }
+                                    .sidebarRegionScroller-3MXcoP{
+                                        background: transparent;
+                                        .sidebar-CFHs9e{
+                                            padding-top: 10px;
+                                            padding-bottom: 10px;
+                                            padding-left: 10px;
+                                        }
+                                    }
+                                }
+                                .contentRegionScroller-26nc1e {
+                                    background: var(--primary-background);
+                                    border-left: var(--border) 2px solid;
+                                    .powercord-quickcss{
+                                        border: var(--border) 2px solid;
+                                        border-radius: 6px;
+                                    }
+                                    .banner-2QYc2d.bannerPremium-2hSAwz{
+                                        height: 240px;
+                                        &+.userInfo-iCloHO>.avatar-1uQSZT{
+                                            top: 200px;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        // guilds
+                        .wrapper-3NnKdC {
+                            background: transparent;
+                            &::after{
+                                content: '';
+                                background: var(--primary-background);
+                                top: 0;
+                                left: 0;
+                                right: 0;
+                                bottom: 0;
+                                position: absolute;
+                                z-index: -1;
+                                opacity: var(--sideopacity);
+                            }
+                            .tree-2wKJdG:focus{
+                                outline: none;
+                            }
+                            .unreadMentionsIndicatorBottom-2mDYbI{
+                                margin-bottom: 130px;
+                            }
+                            .scroller-1Bvpku{
+                                background: transparent;
+                                margin-bottom: 140px;
+                                contain: unset;
+                                &::after {
+                                    content: '';
+                                    left: 11px;
+                                    width: 50px;
+                                    height: 1px;
+                                    position: fixed;
+                                    bottom: 130px;
+                                    background: var(--border2);
+                                }
+                                .listItem-GuPuDH{
+                                    .numberBadge-2s8kKX{
+                                        background-color: var(--main-color) !important;
+                                    }
+                                    .item-2hkk8m{
+                                        width: 2px;
+                                        margin: 4px;
+                                        border-radius: 10px;
+                                        &[style*="height: 40px;"],&[style*="height: 39px;"],
+                                        &[style*="height: 38px;"],&[style*="height: 37px;"]{
+                                            background: var(--main-color);
+                                        }
+                                    }
+                                    foreignObject {
+                                        mask: none;
+                                        border-radius: 50%;
+                                    }
+                                }
+                                .tutorialContainer-30WoTp{
+                                    position: fixed;
+                                    bottom: 64px;
+                                    .circleIconButton-1QV--U {
+                                        background: transparent !important;
+                                        path {
+                                            fill: hsl(139,calc(var(--saturation-factor, 1)*47.3%),43.9%) !important;
+                                            transform: scale(1.5) translate(-15%, -15%);
+                                        }
+                                    }
+                                    .item-2hkk8m{
+                                        width: 2px;
+                                        margin: 4px;
+                                        border-radius: 10px;
+                                        &[style*="height: 40px;"],&[style*="height: 39px;"],
+                                        &[style*="height: 38px;"],&[style*="height: 37px;"]{
+                                            background: hsl(139,calc(var(--saturation-factor, 1)*47.3%),43.9%);
+                                        }
+                                    }
+                                    &+div{
+                                        position: fixed;
+                                        bottom: 8px;
+                                        .circleIconButton-1QV--U {
+                                            background: transparent !important;
+                                            path {
+                                                fill: hsl(139,calc(var(--saturation-factor, 1)*47.3%),43.9%) !important;
+                                                transform: scale(1.5) translate(-15%, -15%);
+                                                d: path("M6,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM12,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM6,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM6,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM12,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM16,6c0,1.1 0.9,2 2,2s2,-0.9 2,-2 -0.9,-2 -2,-2 -2,0.9 -2,2zM12,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM18,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM18,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2z");
+                                            }
+                                        }
+                                        .item-2hkk8m{
+                                            width: 2px;
+                                            margin: 4px;
+                                            border-radius: 10px;
+                                            &[style*="height: 40px;"],&[style*="height: 39px;"],
+                                            &[style*="height: 38px;"],&[style*="height: 37px;"]{
+                                                background: hsl(139,calc(var(--saturation-factor, 1)*47.3%),43.9%);
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        // channels
+                        .sidebar-2K8pFh {
+                            background: transparent;
+                            &::after{
+                                content: '';
+                                background: var(--primary-background);
+                                top: 0;
+                                left: 0;
+                                right: 0;
+                                bottom: 0;
+                                position: absolute;
+                                z-index: -1;
+                                opacity: var(--sideopacity);
+                            }
+                            .containerDefault-3tr_sE {
+                                &::after{
+                                    content: '';
+                                    left: 0;
+                                    width: 223px;
+                                    height: 1px;
+                                    position: absolute;
+                                    top: 10px;
+                                    background: var(--border2);
+                                }
+                            }
+                            .numberBadge-2s8kKX {
+                                background: var(--main-color) !important;
+                            }
+                            .privateChannels-1nO12o {
+                                background: transparent;
+                                #private-channels {
+                                    background: transparent;
+                                    .content-3YMskv {
+                                        display: flex;
+                                        flex-wrap: wrap;
+                                        align-content: flex-start;
+                                        a {
+                                            &:not([href*="/channels/@me/"]) {
+                                                flex-grow: 1;
+                                                margin-top: 8px !important; 
+                                                margin-left: 0;
+                                                &:first-of-type {
+                                                    margin-left: 8px !important;
+                                                }
+                                                .layout-2DM8Md {
+                                                    justify-content: center;
+                                                    padding: 0 !important;
+                                                }
+                                                .avatar-3uk_u9 {
+                                                    margin: 0 !important;
+                                                }
+                                                .content-3QAtGj {
+                                                    display: none;
+                                                }
+                                                .children-gzQq2t {
+                                                    position: absolute;
+                                                    transform: translate(4px, 8px);
+                                                    box-shadow: 0 0 0 3px var(--background-secondary);
+                                                    border-radius: 100px;
+                                                }
+                                            }
+                                            &[href*="/channels/@me/"] {
+                                                width: 100%;
+                                            }
+                                        }
+                                        h2 {
+                                            width: 100%;
+                                        }
+                                    }
+                                }
+                            }
+                            .container-3w7J-x {
+                                background: transparent;
+                                .scroller-RmtA4e{
+                                    &::-webkit-scrollbar {
+                                        display: none;
+                                    }
+                                }
+                                .containerDefault--pIXnN{
+                                    .content-1x5b-n{
+                                        margin-left: 0;
+                                        margin-right: 17px;
+                                        border-radius: 0;
+                                        border-left: transparent 2px solid;
+                                    }
+                                    &.selected-3LIHYU,&:hover {
+                                        .content-1x5b-n{
+                                            border-left: var(--main-color) 2px solid;
+                                            .icon-1DeIlz{
+                                                color: var(--main-color);
+                                            }
+                                        }
+                                    }
+                                    .unread-2lAfLh{
+                                        display: none;
+                                    }
+                                }
+                            }
+                            .panels-j1Uci_ {
+                                &>.container-3baos1{
+                                    height: 0;
+                                    -webkit-app-region: none;
+                                    &:hover {
+                                        .flex-1xMQg5 * , .avatarWrapper-2yR4wp{
+                                            display: unset !important;
+                                        }
+                                    }
+                                    .avatarWrapper-2yR4wp{
+                                        position: fixed;
+                                        right: 0;
+                                        z-index: 1;
+                                        display: none;
+                                        top: 136px;
+                                        foreignObject{
+                                            mask: none;
+                                            border-radius: 0 0 4px 4px;
+                                        }
+                                    }
+                                    .canCopy-2VBT7N{
+                                        display: none;
+                                    }
+                                    .flex-1xMQg5{
+                                        position: fixed;
+                                        right: 8px;
+                                        flex-direction: column-reverse;
+                                        background: var(--secondary-background-alt);
+                                        border-radius: 4px 4px 0 0;
+                                        top: 8px;
+                                        &::after {
+                                            content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><path fill="rgb(185,187,190)" d="M39 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S42.309 30 39 30zM9 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S12.309 30 9 30zM24 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S27.309 30 24 30z"></path></svg>') !important;
+                                            width:  26px;
+                                            height: 26px;
+                                            padding: 3px;
+                                        }
+                                        * {
+                                            display: none;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        // chat
+                        .container-1r6BKw.themed-ANHk51 {
+                            background: var(--secondary-background-alt);
+                            z-index: 0;
+                            border-bottom: var(--border) 2px solid;
+                            height: 50px;
+                            .children-19S4PO::after{
+                                background: linear-gradient(90deg,rgba(54,57,63,0) 0,var(--secondary-background-alt));                                    
+                            }
+                            .toolbar-1t6TWx {
+                                .search-36MZv- {
+                                    order: 1;
+                                    .iconContainer-O4O2CN{
+                                        bottom: 4px;
+                                        .icon-3cZ1F_{
+                                            transition: all 0.6s ease;
+                                        }
+                                    }
+                                    .search-2oPWTC{
+                                        &:not(.open-6_Y_aH) .searchBar-3dMhjb {
+                                            width: 28px;
+                                            transition: all 0.6s ease-in-out;
+                                            background: none;
+                                            .icon-3cZ1F_{
+                                                color:var(--interactive-normal);
+                                                height: 23px;
+                                                width: 23px;
+                                                transform: translateX(-3px);
+                                            }
+                                        }
+                                        &.open-6_Y_aH .searchBar-3dMhjb{
+                                            width: 240px;
+                                            background: var(--background-tertiary);
+                                            transition: all 0.6s ease-in-out;
+                                            .icon-3cZ1F_{
+                                                height: 16px;
+                                                width: 16px;
+                                                top:4px;
+                                            }
+                                        }
+                                    }
+                                }
+                                [aria-label='Pinned Messages'], [aria-label='已标注消息'], [aria-label='已釘選的訊息'], [aria-label='Připnuté zprávy'], [aria-label='Fastgjorte beskeder'], [aria-label='Vastgepinde berichten'], [aria-label='Messages épinglés'], [aria-label='Angepinnte Nachrichten'], [aria-label='Καρφιτσωμένα μηνύματα'], [aria-label='Kitűzött üzenetek'], [aria-label='Messaggi attaccati'], [aria-label='ピン留めされたメッセージ'], [aria-label='고정된 메시지'], [aria-label='Przypięte wiadomości'], [aria-label='Mensagens fixadas'], [aria-label='Закреплённые сообщения'], [aria-label='Mensajes fijados'], [aria-label='Fästa meddelanden'], [aria-label='Sabitlenmiş Mesajlar'], [aria-label='Закачени съобщения'], [aria-label='Закріплені повідомлення'], [aria-label='Kiinnitetyt viestit'], [aria-label='Festede meldinger'], [aria-label='Prikvačene poruke'], [aria-label='Mesaje fixate'], [aria-label='Prisegtos Žinutės'], [aria-label='ข้อความที่ปักหมุด'], [aria-label='Tin Nhắn Đã Được Ghim'], [aria-label='पिन किए गए मैसेज']{
+                                    display: flex;
+                                    .iconBadge-qZ4Ksk{
+                                        position: absolute;
+                                        left: 14px;
+                                    }
+                                    &::after {
+                                        content: var(--pins-text);
+                                        height: 50%;
+                                        transform: translateY(-75%);
+                                        top: 50%;
+                                        position: relative;
+                                    }
+                                }
+                                [aria-label='Inbox'], [aria-label='收件箱'], [aria-label='收件匣'], [aria-label='Příchozí'], [aria-label='Indbakke'], [aria-label='Boîte de réception'], [aria-label='Posteingang'], [aria-label='Εισερχόμενα'], [aria-label='Bejövő üzenetek'], [aria-label='Messaggi ricevuti'], [aria-label='受信ボックス'], [aria-label='받은 편지함'], [aria-label='Skrzynka odbiorcza'], [aria-label='Caixa de Entrada'], [aria-label='Почта'], [aria-label='Bandeja de entrada'], [aria-label='Inkorg'], [aria-label='Gelen Kutusu'], [aria-label='Входяща поща'], [aria-label='Вхідні'], [aria-label='Saapuneet'], [aria-label='Innboks'], [aria-label='Ulazna pošta'], [aria-label='Gautos žinutės'], [aria-label='กล่องขาเข้า'], [aria-label='Hộp thư đến'], [aria-label='इनबॉक्स']{
+                                    display: flex;
+                                    &::after {
+                                        content: var(--inbox-text);
+                                        height: 50%;
+                                        transform: translateY(-75%);
+                                        top: 50%;
+                                        position: relative;
+                                    }
+                                }
+                                .iconWrapper-2OrFZ1[aria-label='Start Voice Call'], .iconWrapper-2OrFZ1[aria-label='开始语音通话'], .iconWrapper-2OrFZ1[aria-label='開始語音通話'], .iconWrapper-2OrFZ1[aria-label='Zahájit hlasový hovor'], .iconWrapper-2OrFZ1[aria-label='Start taleopkald'], .iconWrapper-2OrFZ1[aria-label='Spraakoproep starten'], .iconWrapper-2OrFZ1[aria-label='Démarrer un appel vocal'], .iconWrapper-2OrFZ1[aria-label='Sprachanruf starten'], .iconWrapper-2OrFZ1[aria-label='Έναρξη φωνητικής κλήσης'], .iconWrapper-2OrFZ1[aria-label='Hanghívás indítása'], .iconWrapper-2OrFZ1[aria-label='Avvia la chiamata vocale'], .iconWrapper-2OrFZ1[aria-label='音声通話を開始'], .iconWrapper-2OrFZ1[aria-label='음성 통화 시작하기'], .iconWrapper-2OrFZ1[aria-label='Rozpocznij połączenie głosowe'], .iconWrapper-2OrFZ1[aria-label='Iniciar chamada de voz'], .iconWrapper-2OrFZ1[aria-label='Начать голосовой звонок'], .iconWrapper-2OrFZ1[aria-label='Iniciar llamada de voz'], .iconWrapper-2OrFZ1[aria-label='Påbörja röstsamtal'], .iconWrapper-2OrFZ1[aria-label='Sesli Arama Başlat'], .iconWrapper-2OrFZ1[aria-label='Започни гласово обаждане'], .iconWrapper-2OrFZ1[aria-label='Почати голосовий виклик'], .iconWrapper-2OrFZ1[aria-label='Aloita äänipuhelu'], .iconWrapper-2OrFZ1[aria-label='Start et taleanrop'], .iconWrapper-2OrFZ1[aria-label='Započni glasovni poziv'], .iconWrapper-2OrFZ1[aria-label='Începe un apel vocal'], .iconWrapper-2OrFZ1[aria-label='Pradėti skambutį'], .iconWrapper-2OrFZ1[aria-label='เริ่มการโทรด้วยเสียง'], .iconWrapper-2OrFZ1[aria-label='Bắt Đầu Cuộc Gọi Thoại'], .iconWrapper-2OrFZ1[aria-label='वॉयस कॉल को स्टार्ट करें']{
+                                    display: flex;
+                                    &::after {
+                                        content: var(--audio-text);
+                                        height: 50%;
+                                        transform: translateY(-75%);
+                                        top: 50%;
+                                        position: relative;
+                                    }
+                                }
+                                .iconWrapper-2OrFZ1[aria-label='Start Video Call'], .iconWrapper-2OrFZ1[aria-label='开始视频通话'], .iconWrapper-2OrFZ1[aria-label='開始視訊通話'], .iconWrapper-2OrFZ1[aria-label='Zahájit videohovor'], .iconWrapper-2OrFZ1[aria-label='Start videoopkald'], .iconWrapper-2OrFZ1[aria-label='Videogesprek starten'], .iconWrapper-2OrFZ1[aria-label='Démarrer un appel vidéo'], .iconWrapper-2OrFZ1[aria-label='Videoanruf starten'], .iconWrapper-2OrFZ1[aria-label='Έναρξη βιντεοκλήσης'], .iconWrapper-2OrFZ1[aria-label='Videohívás indítása'], .iconWrapper-2OrFZ1[aria-label='Avvia la videochiamata'], .iconWrapper-2OrFZ1[aria-label='ビデオ通話を開始'], .iconWrapper-2OrFZ1[aria-label='영상 통화 시작하기'], .iconWrapper-2OrFZ1[aria-label='Rozpocznij rozmowę wideo'], .iconWrapper-2OrFZ1[aria-label='Iniciar chamada de vídeo'], .iconWrapper-2OrFZ1[aria-label='Начать видеозвонок'], .iconWrapper-2OrFZ1[aria-label='Iniciar videollamada'], .iconWrapper-2OrFZ1[aria-label='Påbörja videosamtal'], .iconWrapper-2OrFZ1[aria-label='Görüntülü Arama Başlat'], .iconWrapper-2OrFZ1[aria-label='Започни видео обаждане'], .iconWrapper-2OrFZ1[aria-label='Розпочати відеовиклик'], .iconWrapper-2OrFZ1[aria-label='Aloita videopuhelu'], .iconWrapper-2OrFZ1[aria-label='Start en videosamtale'], .iconWrapper-2OrFZ1[aria-label='Započni video poziv'], .iconWrapper-2OrFZ1[aria-label='Începe un apel video'], .iconWrapper-2OrFZ1[aria-label='Pradėti vaizdo skambutį'], .iconWrapper-2OrFZ1[aria-label='เริ่มวิดีโอคอล'], .iconWrapper-2OrFZ1[aria-label='Bắt Đầu Cuộc Gọi Video'], .iconWrapper-2OrFZ1[aria-label='वीडियो कॉल स्टार्ट करें']{
+                                    display: flex;
+                                    &::after {
+                                        content: var(--video-text);
+                                        height: 50%;
+                                        transform: translateY(-75%);
+                                        top: 50%;
+                                        position: relative;
+                                    }
+                                }
+                                a, [aria-label^='Mute channel '], [aria-label^='静音频道 '], [aria-label^='靜音頻道 '], [aria-label^='Ztlumit kanál '], [aria-label^='Gør kanal stum '], [aria-label^='Kanaal  dempen'], [aria-label^='Rendre le salon  muet'], [aria-label^='Kanal  stummschalten'], [aria-label^='Σίγαση καναλιού '], [aria-label^=' csatorna némítása'], [aria-label^='Silenzia canale '], [aria-label^='チャンネルをミュートする'], [aria-label^=' 채널 알림 끄기'], [aria-label^='Wycisz kanał '], [aria-label^='Silenciar canal '], [aria-label^='Заглушить канал '], [aria-label^='Tysta kanal '], [aria-label^=' kanalını sustur'], [aria-label^='Заглушаване на канал '], [aria-label^='Заглушити канал '], [aria-label^='Mykistä kanava '], [aria-label^='Demp kanal '], [aria-label^='Utišaj kanal '], [aria-label^='Amuțește canalul '], [aria-label^='Nutildyti kanalą '], [aria-label^='ปิดการแจ้งเตือนช่อง '], [aria-label^='Tắt âm kênh '], [aria-label^='चैनल म्यूट करें '], [aria-label='Member List'], [aria-label='成员名单'], [aria-label='成員名單'], [aria-label='Seznam členů'], [aria-label='Medlemsliste'], [aria-label='Ledenlijst'], [aria-label='Liste des membres'], [aria-label='Mitgliederliste'], [aria-label='Λίστα μελών'], [aria-label='Tagok listája'], [aria-label='Lista dei membri'], [aria-label='メンバーリスト'], [aria-label='멤버 목록'], [aria-label='Lista członków'], [aria-label='Lista de membros'], [aria-label='Список участников'], [aria-label='Lista de miembros'], [aria-label='Medlemslista'], [aria-label='Üye Listesi'], [aria-label='Списък с членове'], [aria-label='Список учасників'], [aria-label='Jäsenluettelo'], [aria-label='Popis članova'], [aria-label='Lista membrilor'], [aria-label='Narių Sąrašas'], [aria-label='รายชื่อสมาชิก'], [aria-label='Danh sách thành viên'], [aria-label='मेम्बर लिस्ट'] {
+                                    display: none;
+                                }
+                            }
+                        }
+                        .tabBody-3YRQ8W{
+                            background: var(--primary-background);
+                            &::before{
+                                display: none;
+                            }
+                            .nowPlayingColumn-2sl4cE{
+                                background-color: var(--secondary-background);
+                                .container-lRFx4q{
+                                    background-color: var(--secondary-background);
+                                    .scroller-2ZPeAD{
+                                        border-left: 2px solid var(--border);
+                                    }
+                                }
+                            }
+                        }
+                        .pageContent-1xgXch{
+                            .stageSection-3mAD8V{
+                                background: var(--primary-background);
+                            }
+                            .nowPlayingSidebar-2OFn0o{
+                                background-color: var(--secondary-background);
+                                .container-lRFx4q{
+                                    background-color: var(--secondary-background);
+                                    .scroller-2ZPeAD{
+                                        border-left: 2px solid var(--border);
+                                    }
+                                }
+                            }
+                        }
+                        .libraryHeader-3g95kE~.scrollerBase-289Jih, .stickyHeader-1pqx0j, .headerBar-1YYOfi~.scrollerBase-289Jih{
+                            background: var(--primary-background);
+                            &::-webkit-scrollbar {
+                                display: none;
+                            }
+                        }
+                        .applicationStore-1pNvnv{
+                            background: var(--primary-background);
+                        }
+                        .pageWrapper-1PgVDX>.scroller-1d5FgU{
+                            background: var(--primary-background);
+                            .footer-2jdoRS{
+                                padding-bottom: 20px;
+                            }
+                            &::-webkit-scrollbar {
+                                display: none;
+                            }
+                        }
+                        .chat-3bRxxu {
+                            border-left: var(--border) 2px solid;
+                            .container-1r6BKw.themed-ANHk51 {
+                                background: var(--secondary-background-alt);
+                                z-index: 0;
+                                border-bottom: var(--border) 2px solid;
+                                height: 50px;
+                                .children-19S4PO::after{
+                                    background: linear-gradient(90deg,rgba(54,57,63,0) 0,var(--secondary-background-alt));                                    
+                                }
+                                &>.toolbar-1t6TWx:last-child, &>.toolbar-1t6TWx:nth-last-child(2) {
+                                    margin-right: 40px;
+                                }
+                                .toolbar-1t6TWx {
+                                    .search-36MZv- {
+                                        order: 1;
+                                        .iconContainer-O4O2CN{
+                                            bottom: 4px;
+                                            .icon-3cZ1F_{
+                                                transition: all 0.6s ease;
+                                            }
+                                        }
+                                        .search-2oPWTC{
+                                            &:not(.open-6_Y_aH) .searchBar-3dMhjb {
+                                                width: 28px;
+                                                transition: all 0.6s ease-in-out;
+                                                background: none;
+                                                .icon-3cZ1F_{
+                                                    color:var(--interactive-normal);
+                                                    height: 23px;
+                                                    width: 23px;
+                                                    transform: translateX(-3px);
+                                                }
+                                            }
+                                            &.open-6_Y_aH .searchBar-3dMhjb{
+                                                width: 240px;
+                                                background: var(--background-tertiary);
+                                                transition: all 0.6s ease-in-out;
+                                                .icon-3cZ1F_{
+                                                    height: 16px;
+                                                    width: 16px;
+                                                    top:4px;
+                                                }
+                                            }
+                                        }
+                                    }
+                                    [aria-label='Pinned Messages'], [aria-label='已标注消息'], [aria-label='已釘選的訊息'], [aria-label='Připnuté zprávy'], [aria-label='Fastgjorte beskeder'], [aria-label='Vastgepinde berichten'], [aria-label='Messages épinglés'], [aria-label='Angepinnte Nachrichten'], [aria-label='Καρφιτσωμένα μηνύματα'], [aria-label='Kitűzött üzenetek'], [aria-label='Messaggi attaccati'], [aria-label='ピン留めされたメッセージ'], [aria-label='고정된 메시지'], [aria-label='Przypięte wiadomości'], [aria-label='Mensagens fixadas'], [aria-label='Закреплённые сообщения'], [aria-label='Mensajes fijados'], [aria-label='Fästa meddelanden'], [aria-label='Sabitlenmiş Mesajlar'], [aria-label='Закачени съобщения'], [aria-label='Закріплені повідомлення'], [aria-label='Kiinnitetyt viestit'], [aria-label='Festede meldinger'], [aria-label='Prikvačene poruke'], [aria-label='Mesaje fixate'], [aria-label='Prisegtos Žinutės'], [aria-label='ข้อความที่ปักหมุด'], [aria-label='Tin Nhắn Đã Được Ghim'], [aria-label='पिन किए गए मैसेज']{
+                                        display: flex;
+                                        .iconBadge-qZ4Ksk{
+                                            position: absolute;
+                                            left: 14px;
+                                        }
+                                        &::after {
+                                            content: var(--pins-text);
+                                            height: 50%;
+                                            transform: translateY(-75%);
+                                            top: 50%;
+                                            position: relative;
+                                        }
+                                    }
+                                    [aria-label='Inbox'], [aria-label='收件箱'], [aria-label='收件匣'], [aria-label='Příchozí'], [aria-label='Indbakke'], [aria-label='Boîte de réception'], [aria-label='Posteingang'], [aria-label='Εισερχόμενα'], [aria-label='Bejövő üzenetek'], [aria-label='Messaggi ricevuti'], [aria-label='受信ボックス'], [aria-label='받은 편지함'], [aria-label='Skrzynka odbiorcza'], [aria-label='Caixa de Entrada'], [aria-label='Почта'], [aria-label='Bandeja de entrada'], [aria-label='Inkorg'], [aria-label='Gelen Kutusu'], [aria-label='Входяща поща'], [aria-label='Вхідні'], [aria-label='Saapuneet'], [aria-label='Innboks'], [aria-label='Ulazna pošta'], [aria-label='Gautos žinutės'], [aria-label='กล่องขาเข้า'], [aria-label='Hộp thư đến'], [aria-label='इनबॉक्स']{
+                                        display: flex;
+                                        &::after {
+                                            content: var(--inbox-text);
+                                            height: 50%;
+                                            transform: translateY(-75%);
+                                            top: 50%;
+                                            position: relative;
+                                        }
+                                    }
+                                    .iconWrapper-2OrFZ1[aria-label='Start Voice Call'], .iconWrapper-2OrFZ1[aria-label='开始语音通话'], .iconWrapper-2OrFZ1[aria-label='開始語音通話'], .iconWrapper-2OrFZ1[aria-label='Zahájit hlasový hovor'], .iconWrapper-2OrFZ1[aria-label='Start taleopkald'], .iconWrapper-2OrFZ1[aria-label='Spraakoproep starten'], .iconWrapper-2OrFZ1[aria-label='Démarrer un appel vocal'], .iconWrapper-2OrFZ1[aria-label='Sprachanruf starten'], .iconWrapper-2OrFZ1[aria-label='Έναρξη φωνητικής κλήσης'], .iconWrapper-2OrFZ1[aria-label='Hanghívás indítása'], .iconWrapper-2OrFZ1[aria-label='Avvia la chiamata vocale'], .iconWrapper-2OrFZ1[aria-label='音声通話を開始'], .iconWrapper-2OrFZ1[aria-label='음성 통화 시작하기'], .iconWrapper-2OrFZ1[aria-label='Rozpocznij połączenie głosowe'], .iconWrapper-2OrFZ1[aria-label='Iniciar chamada de voz'], .iconWrapper-2OrFZ1[aria-label='Начать голосовой звонок'], .iconWrapper-2OrFZ1[aria-label='Iniciar llamada de voz'], .iconWrapper-2OrFZ1[aria-label='Påbörja röstsamtal'], .iconWrapper-2OrFZ1[aria-label='Sesli Arama Başlat'], .iconWrapper-2OrFZ1[aria-label='Започни гласово обаждане'], .iconWrapper-2OrFZ1[aria-label='Почати голосовий виклик'], .iconWrapper-2OrFZ1[aria-label='Aloita äänipuhelu'], .iconWrapper-2OrFZ1[aria-label='Start et taleanrop'], .iconWrapper-2OrFZ1[aria-label='Započni glasovni poziv'], .iconWrapper-2OrFZ1[aria-label='Începe un apel vocal'], .iconWrapper-2OrFZ1[aria-label='Pradėti skambutį'], .iconWrapper-2OrFZ1[aria-label='เริ่มการโทรด้วยเสียง'], .iconWrapper-2OrFZ1[aria-label='Bắt Đầu Cuộc Gọi Thoại'], .iconWrapper-2OrFZ1[aria-label='वॉयस कॉल को स्टार्ट करें']{
+                                        display: flex;
+                                        &::after {
+                                            content: var(--audio-text);
+                                            height: 50%;
+                                            transform: translateY(-75%);
+                                            top: 50%;
+                                            position: relative;
+                                        }
+                                    }
+                                    .iconWrapper-2OrFZ1[aria-label='Start Video Call'], .iconWrapper-2OrFZ1[aria-label='开始视频通话'], .iconWrapper-2OrFZ1[aria-label='開始視訊通話'], .iconWrapper-2OrFZ1[aria-label='Zahájit videohovor'], .iconWrapper-2OrFZ1[aria-label='Start videoopkald'], .iconWrapper-2OrFZ1[aria-label='Videogesprek starten'], .iconWrapper-2OrFZ1[aria-label='Démarrer un appel vidéo'], .iconWrapper-2OrFZ1[aria-label='Videoanruf starten'], .iconWrapper-2OrFZ1[aria-label='Έναρξη βιντεοκλήσης'], .iconWrapper-2OrFZ1[aria-label='Videohívás indítása'], .iconWrapper-2OrFZ1[aria-label='Avvia la videochiamata'], .iconWrapper-2OrFZ1[aria-label='ビデオ通話を開始'], .iconWrapper-2OrFZ1[aria-label='영상 통화 시작하기'], .iconWrapper-2OrFZ1[aria-label='Rozpocznij rozmowę wideo'], .iconWrapper-2OrFZ1[aria-label='Iniciar chamada de vídeo'], .iconWrapper-2OrFZ1[aria-label='Начать видеозвонок'], .iconWrapper-2OrFZ1[aria-label='Iniciar videollamada'], .iconWrapper-2OrFZ1[aria-label='Påbörja videosamtal'], .iconWrapper-2OrFZ1[aria-label='Görüntülü Arama Başlat'], .iconWrapper-2OrFZ1[aria-label='Започни видео обаждане'], .iconWrapper-2OrFZ1[aria-label='Розпочати відеовиклик'], .iconWrapper-2OrFZ1[aria-label='Aloita videopuhelu'], .iconWrapper-2OrFZ1[aria-label='Start en videosamtale'], .iconWrapper-2OrFZ1[aria-label='Započni video poziv'], .iconWrapper-2OrFZ1[aria-label='Începe un apel video'], .iconWrapper-2OrFZ1[aria-label='Pradėti vaizdo skambutį'], .iconWrapper-2OrFZ1[aria-label='เริ่มวิดีโอคอล'], .iconWrapper-2OrFZ1[aria-label='Bắt Đầu Cuộc Gọi Video'], .iconWrapper-2OrFZ1[aria-label='वीडियो कॉल स्टार्ट करें']{
+                                        display: flex;
+                                        &::after {
+                                            content: var(--video-text);
+                                            height: 50%;
+                                            transform: translateY(-75%);
+                                            top: 50%;
+                                            position: relative;
+                                        }
+                                    }
+                                    a, [aria-label^='Mute channel '], [aria-label^='静音频道 '], [aria-label^='靜音頻道 '], [aria-label^='Ztlumit kanál '], [aria-label^='Gør kanal stum '], [aria-label^='Kanaal  dempen'], [aria-label^='Rendre le salon  muet'], [aria-label^='Kanal  stummschalten'], [aria-label^='Σίγαση καναλιού '], [aria-label^=' csatorna némítása'], [aria-label^='Silenzia canale '], [aria-label^='チャンネルをミュートする'], [aria-label^=' 채널 알림 끄기'], [aria-label^='Wycisz kanał '], [aria-label^='Silenciar canal '], [aria-label^='Заглушить канал '], [aria-label^='Tysta kanal '], [aria-label^=' kanalını sustur'], [aria-label^='Заглушаване на канал '], [aria-label^='Заглушити канал '], [aria-label^='Mykistä kanava '], [aria-label^='Demp kanal '], [aria-label^='Utišaj kanal '], [aria-label^='Amuțește canalul '], [aria-label^='Nutildyti kanalą '], [aria-label^='ปิดการแจ้งเตือนช่อง '], [aria-label^='Tắt âm kênh '], [aria-label^='चैनल म्यूट करें '], [aria-label='Member List'], [aria-label='成员名单'], [aria-label='成員名單'], [aria-label='Seznam členů'], [aria-label='Medlemsliste'], [aria-label='Ledenlijst'], [aria-label='Liste des membres'], [aria-label='Mitgliederliste'], [aria-label='Λίστα μελών'], [aria-label='Tagok listája'], [aria-label='Lista dei membri'], [aria-label='メンバーリスト'], [aria-label='멤버 목록'], [aria-label='Lista członków'], [aria-label='Lista de membros'], [aria-label='Список участников'], [aria-label='Lista de miembros'], [aria-label='Medlemslista'], [aria-label='Üye Listesi'], [aria-label='Списък с членове'], [aria-label='Список учасників'], [aria-label='Jäsenluettelo'], [aria-label='Popis članova'], [aria-label='Lista membrilor'], [aria-label='Narių Sąrašas'], [aria-label='รายชื่อสมาชิก'], [aria-label='Danh sách thành viên'], [aria-label='मेम्बर लिस्ट'] {
+                                        display: none;
+                                    }
+                                }
+                            }
+                            .content-yTz4x3{
+                                background: var(--primary-background);
+                                &::before{
+                                    display: none;
+                                }
+                            }
+                            .chatContent-a9vAAp{
+                                border-right: var(--border) 2px solid;
+                                .jumpToPresentBar-G1R9s6{
+                                    visibility: hidden;
+                                    bottom:15px;
+                                    .barButtonIcon-3t4V3d{
+                                        visibility: visible;
+                                        padding:2px;
+                                        background-color: var(--background-tertiary);
+                                        border-radius: 50%;
+                                        transform: scale(1.7);
+                                        &:hover,&:focus{
+                                            opacity: .4;
+                                        }
+                                    }
+                                }
+                                .wrapper-3vR61M, .wrapper-1F5TKx {
+                                    background: var(--primary-background) !important;
+                                }
+                                .messagesWrapper-1sRNjr {
+                                    margin-bottom: 10px;
+                                    .scroller-2LSbBU {
+                                        &::-webkit-scrollbar {
+                                            display: none;
+                                        }
+                                        .mentioned-xhSam7 {
+                                            background: transparent;
+                                            &::before {
+                                                background: var(--main-color);
+                                            }
+                                            &::after{
+                                                content: '';
+                                                top: 0;
+                                                left: 0;
+                                                right: 0;
+                                                bottom: 0;
+                                                position: absolute;
+                                                background: var(--main-color);
+                                                opacity: .2;
+                                                z-index: -1;
+                                            }
+                                        }
+                                        .embedFull-2tM8-- {
+                                            background: var(--secondary-background-alt);
+                                        }
+                                        div:not(.repliedTextPreview-2NBljf)>.markup-2BOw-j.messageContent-2qWWxC:not(:empty) {
+                                            background: var(--background-tertiary);
+                                            margin-left: 0;
+                                            padding-left: 0;
+                                            width: fit-content;
+                                            padding: 8px;
+                                            border-radius: 0 4px 4px 0;
+                                            display: inline-block;
+                                            blockquote, pre{
+                                                max-width: 100%;
+                                            }
+                                        }
+                                        .wrapper-2aW0bm {
+                                            border-radius: 8px;
+                                        }
+                                    }
+                                }
+                                .form-2fGMdU {
+                                    padding-top: 10px;
+                                    border-top: var(--border2) 2px solid;
+                                    &::before{
+                                        background: -webkit-gradient(linear,left top,left bottom,from(rgba(54,57,63,0)),to(var(--primary-background)));
+                                    }
+                                    .attachWrapper-2TRKBi{
+                                        order: 1;
+                                        padding-left: 8px;
+                                        .attachButton-2WznTc{
+                                            padding-right: 0;
+                                        }
+                                        path {
+                                            d: path("M 38.1875 6.71875 C 36.261719 6.8125 34.34375 7.648438 32.84375 9.09375 C 32.8125 9.125 32.78125 9.15625 32.75 9.1875 C 32.746094 9.191406 32.722656 9.183594 32.71875 9.1875 C 32.675781 9.238281 32.632813 9.289063 32.59375 9.34375 C 32.550781 9.394531 32.507813 9.445313 32.46875 9.5 L 13.65625 28.40625 C 13.613281 28.457031 13.570313 28.507813 13.53125 28.5625 C 11.761719 30.480469 11.796875 33.515625 13.65625 35.375 C 15.5625 37.285156 18.75 37.285156 20.65625 35.375 C 20.75 35.28125 20.832031 35.175781 20.90625 35.0625 C 20.996094 34.996094 21.078125 34.921875 21.15625 34.84375 L 35.25 20.9375 C 35.878906 20.34375 36.054688 19.410156 35.683594 18.628906 C 35.3125 17.847656 34.484375 17.390625 33.625 17.5 C 33.171875 17.558594 32.753906 17.765625 32.4375 18.09375 L 18.34375 32 C 18.285156 32.070313 18.234375 32.140625 18.1875 32.21875 C 18.167969 32.230469 18.144531 32.238281 18.125 32.25 C 18.113281 32.269531 18.105469 32.292969 18.09375 32.3125 C 17.992188 32.375 17.898438 32.449219 17.8125 32.53125 C 17.433594 32.910156 16.878906 32.914063 16.5 32.53125 C 16.121094 32.152344 16.117188 31.601563 16.5 31.21875 L 35.59375 12.03125 C 35.636719 11.980469 35.679688 11.929688 35.71875 11.875 C 37.363281 10.359375 39.558594 10.371094 40.78125 11.59375 C 40.867188 11.675781 40.960938 11.75 41.0625 11.8125 C 41.074219 11.824219 41.082031 11.832031 41.09375 11.84375 C 41.152344 11.921875 41.214844 11.996094 41.28125 12.0625 C 42.425781 13.207031 42.234375 15.621094 40.625 17.3125 C 40.59375 17.34375 40.5625 17.375 40.53125 17.40625 L 19.84375 38.625 C 19.777344 38.671875 19.714844 38.726563 19.65625 38.78125 C 16.972656 41.464844 12.351563 41.789063 9.78125 39.21875 C 7.261719 36.699219 7.523438 32.140625 10.09375 29.4375 C 10.136719 29.398438 10.179688 29.355469 10.21875 29.3125 L 27.25 12.46875 C 27.878906 11.875 28.054688 10.941406 27.683594 10.160156 C 27.3125 9.378906 26.484375 8.921875 25.625 9.03125 C 25.171875 9.089844 24.753906 9.296875 24.4375 9.625 L 7.5 26.375 C 7.46875 26.40625 7.4375 26.4375 7.40625 26.46875 C 7.363281 26.519531 7.320313 26.570313 7.28125 26.625 C 3.234375 30.820313 2.683594 37.78125 6.9375 42.03125 C 11.160156 46.253906 18.082031 45.804688 22.28125 41.8125 C 22.324219 41.78125 22.367188 41.75 22.40625 41.71875 C 22.417969 41.707031 22.425781 41.699219 22.4375 41.6875 C 22.457031 41.667969 22.480469 41.644531 22.5 41.625 C 22.5 41.613281 22.5 41.605469 22.5 41.59375 L 22.625 41.46875 C 22.667969 41.417969 22.710938 41.367188 22.75 41.3125 L 43.40625 20.21875 C 43.554688 20.082031 43.679688 19.925781 43.78125 19.75 C 46.417969 16.734375 46.992188 12.148438 44.09375 9.25 C 44.042969 9.207031 43.992188 9.164063 43.9375 9.125 C 43.847656 8.988281 43.742188 8.863281 43.625 8.75 C 42.148438 7.273438 40.160156 6.621094 38.1875 6.71875 Z");
+                                            transform: scale(.5) translate(-12px, -12px);
+                                        }
+                                    }
+                                    .attachedBars-tZDmyV{
+                                        position: absolute;
+                                        top: 0;
+                                        transform: translateY(-150%);
+                                        border-radius: 8px !important;
+                                        border: var(--border) 2px solid;
+                                        .replyBar-1YLQ2F{
+                                            border-radius: 8px !important;
+                                        }
+                                    }.hasConnectedBar-1MrFne{
+                                        border-radius: 8px;
+                                    }
+                                    .buttons-3JBrkn{
+                                        &::before {
+                                            top:    8px;
+                                            bottom: 8px;
+                                            position: absolute;
+                                            content: '';
+                                            width: 1px;
+                                            background: var(--border2);
+                                        }
+                                    }
+                                    .stickerButton-3OEgwj, [aria-label='Send a gift'], [aria-label='发送礼物'], [aria-label='發送禮物'], [aria-label='Odeslat dárek'], [aria-label='Send en gave'], [aria-label='Verstuur een cadeau'], [aria-label='Envoyer un cadeau'], [aria-label='Ein Geschenk senden'], [aria-label='Στείλτε ένα δώρο'], [aria-label='Ajándék küldése'], [aria-label='Invia un regalo'], [aria-label='ギフトを贈る'], [aria-label='선물 보내기'], [aria-label='Wyślij prezent'], [aria-label='Enviar um presente'], [aria-label='Отправить подарок'], [aria-label='Enviar un regalo'], [aria-label='Skicka en gåva'], [aria-label='Bir hediye gönder'], [aria-label='Изпрати подарък'], [aria-label='Надіслати подарунок'], [aria-label='Lähetä lahja'], [aria-label='Pošalji poklon'], [aria-label='Trimite un cadou'], [aria-label='Siųsti dovaną'], [aria-label='ส่งของขวัญ'], [aria-label='Tặng một món quà'], [aria-label='गिफ्ट भेजें']{
+                                        display: none;
+                                    }
+                                }
+                            }
+                            .membersWrap-2h-GB4{
+                                background-color: var(--secondary-background);
+                                .members-1998pB{
+                                    &::-webkit-scrollbar{
+                                        display: none;
+                                    }
+                                    .membersGroup-v9BXpm{
+                                        position: relative;
+                                        background-color: var(--secondary-background);
+                                        &:not(:nth-child(2)):after{
+                                            content: '';
+                                            left: 10px;
+                                            width: 220px;
+                                            height: 1px;
+                                            position: absolute;
+                                            top: 10px;
+                                            background: var(--border2);
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        .searchResultsWrap-3-pOjs {
+                            z-index: 0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &.platform-osx{
+        .wrapper-3NnKdC {
+            margin-top: 0;
+            padding-top: 32px;
+        }
+    }
+    &.platform-win{
+        .wordmarkWindows-1v0lYD {
+            display: none;
+        }
+        .toolbar-1t6TWx:last-child, .toolbar-1t6TWx:nth-last-child(2) {
+            margin-right: 120px !important;
+        }
+        .typeWindows-1za-n7{
+            position: fixed;
+            top: 15px;
+            right: 8px;
+            margin: 0;
+            -webkit-app-region: none;
+            .winButton-iRh8-Z{
+                height: 26px;
+            }
+        }
+        .avatarWrapper-2yR4wp{
+            right: 88px !important;
+        }
+        .panels-j1Uci_>.container-3baos1>.flex-1xMQg5{
+            right: 96px !important;
+            -webkit-app-region: none;
+        }
+        .title-3qD0b-{
+            -webkit-app-region: drag;
+            *{
+                -webkit-app-region: none;
+            }
+        }
+    }
+    .mention-1f5kbO {
+        background: var(--main-color) !important;
+        &:active {
+            opacity: .9;
+        }
+    }
+    [mask="url(#svg-mask-status-idle)"], [mask="url(#svg-mask-status-dnd)"], [mask="url(#svg-mask-status-offline)"], [mask="url(#svg-mask-status-streaming)"]{
+        mask: url(#svg-mask-status-online);
+    }
+
+    // I18n | These may be wrong i used google translate
+    // Danish
+    &[lang^="da"] {
+        --pins-text:  'Pins';
+        --inbox-text: 'Indbakke';
+        --video-text: 'Video';
+        --audio-text: 'Lyd';
+    }
+    // Germany
+    &[lang^="de"] {
+        --pins-text:  'Stecknadeln';
+        --inbox-text: 'Posteingang';
+        --video-text: 'Video';
+        --audio-text: 'Audio';
+    }
+    // English
+    &[lang^="en"] {
+        --pins-text:  'Pins';
+        --inbox-text: 'Inbox';
+        --video-text: 'Video';
+        --audio-text: 'Audio';
+    }
+    // Spanish
+    &[lang^="es"] {
+        --pins-text:  'Patas';
+        --inbox-text: 'Bandeja de entrada';
+        --video-text: 'Video';
+        --audio-text: 'Audio';
+    }
+    // French
+    &[lang^="fr"] {
+        --pins-text:  'Épingles';
+        --inbox-text: 'Boîte de réception';
+        --video-text: 'Vidéo';
+        --audio-text: "l'audio";
+    }
+    // Croation
+    &[lang^="hr"] {
+        --pins-text:  'Igle';
+        --inbox-text: 'Pristigla pošta';
+        --video-text: 'Video';
+        --audio-text: 'Audio';
+    }
+    // itatilan
+    &[lang^="it"] {
+        --pins-text:  'spilli';
+        --inbox-text: 'Posta in arrivo';
+        --video-text: 'Video';
+        --audio-text: 'Audio';
+    }
+    // Lithuanian
+    &[lang^="lt"] {
+        --pins-text:  'Kaiščiai';
+        --inbox-text: 'Pašto dėžutę';
+        --video-text: 'Vaizdo įrašas';
+        --audio-text: 'Garso įrašas';
+    }
+    // Hungarian
+    &[lang^="hu"] {
+        --pins-text:  'Csapok';
+        --inbox-text: 'Beérkező levelek';
+        --video-text: 'Videó';
+        --audio-text: 'Hang';
+    }
+    // Dutch
+    &[lang^="nl"] {
+        --pins-text:  'Pinnen';
+        --inbox-text: 'Postvak IN';
+        --video-text: 'Video';
+        --audio-text: 'Audio';
+    }
+    // Norwegian
+    &[lang^="no"] {
+        --pins-text:  'Pins';
+        --inbox-text: 'Innboks';
+        --video-text: 'Video';
+        --audio-text: 'Lyd';
+    }
+    // Polish
+    &[lang^="pl"] {
+        --pins-text:  'Szpilki';
+        --inbox-text: 'W pudełku';
+        --video-text: 'Wideo';
+        --audio-text: 'Audio';
+    }
+    // Portuguese
+    &[lang^="pt"] {
+        --pins-text:  'Alfinetes';
+        --inbox-text: 'Caixa de entrada';
+        --video-text: 'Vídeo';
+        --audio-text: 'Áudio';
+    }
+    // Romanian
+    &[lang^="ro"] {
+        --pins-text:  'Pinii';
+        --inbox-text: 'Inbox';
+        --video-text: 'Video';
+        --audio-text: 'Audio';
+    }
+    // Finnish
+    &[lang^="fi"] {
+        --pins-text:  'Nastat';
+        --inbox-text: 'Saapuneet';
+        --video-text: 'Video';
+        --audio-text: 'Audio';
+    }
+    // Swedish
+    &[lang^="sv"] {
+        --pins-text:  'Stift';
+        --inbox-text: 'Inkorg';
+        --video-text: 'Video';
+        --audio-text: 'Audio';
+    }
+    // Vietnamese
+    &[lang^="vi"] {
+        --pins-text:  'Ghim';
+        --inbox-text: 'Hộp thư đến';
+        --video-text: 'Video';
+        --audio-text: 'Âm thanh';
+    }
+    // Turkish
+    &[lang^="tr"] {
+        --pins-text:  'Pimler';
+        --inbox-text: 'Gelen kutusu';
+        --video-text: 'Video';
+        --audio-text: 'Ses';
+    }
+    // Czech
+    &[lang^="cs"] {
+        --pins-text:  'Špendlíky';
+        --inbox-text: 'Doručená pošta';
+        --video-text: 'Video';
+        --audio-text: 'Zvuk';
+    }
+    // Greek
+    &[lang^="el"] {
+        --pins-text:  'Καρφίτσες';
+        --inbox-text: 'Inbox';
+        --video-text: 'βίντεο';
+        --audio-text: 'Ήχος';
+    }
+    // Bulgarian
+    &[lang^="bg"] {
+        --pins-text:  'Щифтове';
+        --inbox-text: 'Входящи';
+        --video-text: 'Видео';
+        --audio-text: 'Аудио';
+    }
+    // Russian
+    &[lang^="ru"] {
+        --pins-text:  'Булавки';
+        --inbox-text: 'Входящие';
+        --video-text: 'видео';
+        --audio-text: 'Аудио';
+    }
+    // Ukrainian
+    &[lang^="uk"] {
+        --pins-text:  'Шпильки';
+        --inbox-text: 'Вхідні';
+        --video-text: 'Відео';
+        --audio-text: 'Аудіо';
+    }
+    // Hindi
+    &[lang^="hi"] {
+        --pins-text:  'पिंस';
+        --inbox-text: 'इनबॉक्स';
+        --video-text: 'वीडियो';
+        --audio-text: 'ऑडियो';
+    }
+    // Thai
+    &[lang^="th"] {
+        --pins-text:  'พิน';
+        --inbox-text: 'กล่องจดหมาย';
+        --video-text: 'วีดีโอ';
+        --audio-text: 'เครื่องเสียง';
+    }
+    // Chinese
+    &[lang^="zh"] {
+        --pins-text:  '引脚';
+        --inbox-text: '收件箱';
+        --video-text: '视频';
+        --audio-text: '音频';
+    }
+    // Japanese
+    &[lang^="ja"] {
+        --pins-text:  'ピン';
+        --inbox-text: '受信トレイ';
+        --video-text: 'ビデオ';
+        --audio-text: 'オーディオ';
+    }
+    // Korean
+    &[lang^="ko"] {
+        --pins-text:  '다리';
+        --inbox-text: '받은 편지함';
+        --video-text: '비디오';
+        --audio-text: '오디오';
+    }
+}

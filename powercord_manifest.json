@@ -3,6 +3,6 @@
     "description": "A theme based on Fluentcord",
     "version": "1.0",
     "author": "Doggybootsy#1333",
-    "theme": "Base.css",
+    "theme": "base.scss",
     "license": "MIT"
 }
