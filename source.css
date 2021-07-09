@@ -7,7 +7,8 @@ html {
   --border: #202022;
   --border2: #4f5257;
   --main-color: #7289DA;
-  --sideopacity: 0.95;
+  --guilds_opacity: 0.95;
+  --channel_opacity: 0.95;
   background: transparent !important;
   --brand-experiment: var(--main-color);
 }
@@ -91,7 +92,7 @@ html body #app-mount .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG:last-child:not(:fi
   bottom: 0;
   position: absolute;
   background: var(--primary-background);
-  opacity: var(--sideopacity);
+  opacity: var(--channel_opacity);
   z-index: -1;
 }
 html body #app-mount .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP {
@@ -147,7 +148,7 @@ html body #app-mount .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG .wrapper-3NnKdC::a
   bottom: 0;
   position: absolute;
   z-index: -1;
-  opacity: var(--sideopacity);
+  opacity: var(--guilds_opacity);
 }
 html body #app-mount .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG .wrapper-3NnKdC .tree-2wKJdG:focus {
   outline: none;
@@ -235,7 +236,7 @@ html body #app-mount .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG .sidebar-2K8pFh::a
   bottom: 0;
   position: absolute;
   z-index: -1;
-  opacity: var(--sideopacity);
+  opacity: var(--channel_opacity);
 }
 html body #app-mount .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG .sidebar-2K8pFh .containerDefault-3tr_sE::after {
   content: '';
