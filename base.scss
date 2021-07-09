@@ -5,13 +5,14 @@ html {
     --primary-background:#2e3136;
     --secondary-background:#2d3035;
     --secondary-background-alt:#2a2b2f;
-    --background-tertiary:#383d43;
+    --background-tertiary2:#383d43;
     --border:#202022;
     --border2:#4f5257;
 
     --main-color: #7289DA;
 
     --sideopacity: .95;
+
 
     background: transparent !important;
     body {
@@ -67,7 +68,7 @@ html {
                             &.stop-animations{
                                 z-index: 100 !important;
                             }
-                            &.baseLayer-35bLyl.animating-rRxada {
+                            &.baseLayer-35bLyl.animating-rRxada:first-child {
                                 z-index: 130;
                             }
                         }
@@ -97,10 +98,20 @@ html {
                                     }
                                     .sidebarRegionScroller-3MXcoP{
                                         background: transparent;
+                                        &::-webkit-scrollbar {
+                                            display: none;
+                                        }
                                         .sidebar-CFHs9e{
                                             padding-top: 10px;
                                             padding-bottom: 10px;
                                             padding-left: 10px;
+                                            .item-PXvHYJ {
+                                                border-radius: 0;
+                                                border-left: 2px solid transparent;
+                                                &:hover, &.selected-3s45Ha {
+                                                    border-left: 2px solid var(--main-color);
+                                                }
+                                            }
                                         }
                                     }
                                 }
@@ -110,6 +121,9 @@ html {
                                     .powercord-quickcss{
                                         border: var(--border) 2px solid;
                                         border-radius: 6px;
+                                    }
+                                    .item-26Dhrx {
+                                        border: 2px solid var(--border);
                                     }
                                     .bd-addon-card{
                                       border: 2px solid var(--border2);
@@ -252,6 +266,38 @@ html {
                                 background: transparent;
                                 #private-channels {
                                     background: transparent;
+                                    margin-right: 10px;
+                                    &::-webkit-scrollbar {
+                                        display: none;
+                                    }
+                                    .privateChannelsHeaderContainer-3NB1K1 {
+                                        position: relative;
+                                        &::after{
+                                            content: '';
+                                            left: 0;
+                                            width: 223px;
+                                            height: 1px;
+                                            position: absolute;
+                                            top: 10px;
+                                            background: var(--border2);
+                                        }
+                                        & ~ .channel-2QD9_O {
+                                            margin: 0;
+                                            .layout-2DM8Md {
+                                                border-radius: 0;
+                                                border-left: 2px solid transparent;
+                                            }
+                                            &.selected-aXhQR6, &:hover {
+                                                .layout-2DM8Md {
+                                                    border-radius: 0;
+                                                    border-left: 2px solid var(--main-color);
+                                                    .closeIcon-rycxaQ{
+                                                        color: var(--main-color);
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
                                     .content-3YMskv {
                                         display: flex;
                                         flex-wrap: wrap;
@@ -361,6 +407,9 @@ html {
                                 }
                             }
                         }
+                        .container-1D34oG, .container-1a3EgQ, .container-3Mxszk {
+                            border-left: var(--border) 2px solid;
+                        }
                         // chat
                         .container-1r6BKw.themed-ANHk51 {
                             background: var(--secondary-background-alt);
@@ -371,6 +420,7 @@ html {
                                 background: linear-gradient(90deg,rgba(54,57,63,0) 0,var(--secondary-background-alt));                                    
                             }
                             .toolbar-1t6TWx {
+                                margin-right: 40px;
                                 .search-36MZv- {
                                     order: 1;
                                     .iconContainer-O4O2CN{
@@ -393,7 +443,7 @@ html {
                                         }
                                         &.open-6_Y_aH .searchBar-3dMhjb{
                                             width: 240px;
-                                            background: var(--background-tertiary);
+                                            background: var(--background-tertiary2);
                                             transition: all 0.6s ease-in-out;
                                             .icon-3cZ1F_{
                                                 height: 16px;
@@ -489,6 +539,7 @@ html {
                         }
                         .applicationStore-1pNvnv{
                             background: var(--primary-background);
+                            border-left: var(--border) 2px solid;
                         }
                         .pageWrapper-1PgVDX>.scroller-1d5FgU{
                             background: var(--primary-background);
@@ -501,99 +552,6 @@ html {
                         }
                         .chat-3bRxxu {
                             border-left: var(--border) 2px solid;
-                            .container-1r6BKw.themed-ANHk51 {
-                                background: var(--secondary-background-alt);
-                                z-index: 0;
-                                border-bottom: var(--border) 2px solid;
-                                height: 50px;
-                                .children-19S4PO::after{
-                                    background: linear-gradient(90deg,rgba(54,57,63,0) 0,var(--secondary-background-alt));                                    
-                                }
-                                &>.toolbar-1t6TWx:last-child, &>.toolbar-1t6TWx:nth-last-child(2) {
-                                    margin-right: 40px;
-                                }
-                                .toolbar-1t6TWx {
-                                    .search-36MZv- {
-                                        order: 1;
-                                        .iconContainer-O4O2CN{
-                                            bottom: 4px;
-                                            .icon-3cZ1F_{
-                                                transition: all 0.6s ease;
-                                            }
-                                        }
-                                        .search-2oPWTC{
-                                            &:not(.open-6_Y_aH) .searchBar-3dMhjb {
-                                                width: 28px;
-                                                transition: all 0.6s ease-in-out;
-                                                background: none;
-                                                .icon-3cZ1F_{
-                                                    color:var(--interactive-normal);
-                                                    height: 23px;
-                                                    width: 23px;
-                                                    transform: translateX(-3px);
-                                                }
-                                            }
-                                            &.open-6_Y_aH .searchBar-3dMhjb{
-                                                width: 240px;
-                                                background: var(--background-tertiary);
-                                                transition: all 0.6s ease-in-out;
-                                                .icon-3cZ1F_{
-                                                    height: 16px;
-                                                    width: 16px;
-                                                    top:4px;
-                                                }
-                                            }
-                                        }
-                                    }
-                                    [aria-label='Pinned Messages'], [aria-label='已标注消息'], [aria-label='已釘選的訊息'], [aria-label='Připnuté zprávy'], [aria-label='Fastgjorte beskeder'], [aria-label='Vastgepinde berichten'], [aria-label='Messages épinglés'], [aria-label='Angepinnte Nachrichten'], [aria-label='Καρφιτσωμένα μηνύματα'], [aria-label='Kitűzött üzenetek'], [aria-label='Messaggi attaccati'], [aria-label='ピン留めされたメッセージ'], [aria-label='고정된 메시지'], [aria-label='Przypięte wiadomości'], [aria-label='Mensagens fixadas'], [aria-label='Закреплённые сообщения'], [aria-label='Mensajes fijados'], [aria-label='Fästa meddelanden'], [aria-label='Sabitlenmiş Mesajlar'], [aria-label='Закачени съобщения'], [aria-label='Закріплені повідомлення'], [aria-label='Kiinnitetyt viestit'], [aria-label='Festede meldinger'], [aria-label='Prikvačene poruke'], [aria-label='Mesaje fixate'], [aria-label='Prisegtos Žinutės'], [aria-label='ข้อความที่ปักหมุด'], [aria-label='Tin Nhắn Đã Được Ghim'], [aria-label='पिन किए गए मैसेज']{
-                                        display: flex;
-                                        .iconBadge-qZ4Ksk{
-                                            position: absolute;
-                                            left: 14px;
-                                        }
-                                        &::after {
-                                            content: var(--pins-text);
-                                            height: 50%;
-                                            transform: translateY(-75%);
-                                            top: 50%;
-                                            position: relative;
-                                        }
-                                    }
-                                    [aria-label='Inbox'], [aria-label='收件箱'], [aria-label='收件匣'], [aria-label='Příchozí'], [aria-label='Indbakke'], [aria-label='Boîte de réception'], [aria-label='Posteingang'], [aria-label='Εισερχόμενα'], [aria-label='Bejövő üzenetek'], [aria-label='Messaggi ricevuti'], [aria-label='受信ボックス'], [aria-label='받은 편지함'], [aria-label='Skrzynka odbiorcza'], [aria-label='Caixa de Entrada'], [aria-label='Почта'], [aria-label='Bandeja de entrada'], [aria-label='Inkorg'], [aria-label='Gelen Kutusu'], [aria-label='Входяща поща'], [aria-label='Вхідні'], [aria-label='Saapuneet'], [aria-label='Innboks'], [aria-label='Ulazna pošta'], [aria-label='Gautos žinutės'], [aria-label='กล่องขาเข้า'], [aria-label='Hộp thư đến'], [aria-label='इनबॉक्स']{
-                                        display: flex;
-                                        &::after {
-                                            content: var(--inbox-text);
-                                            height: 50%;
-                                            transform: translateY(-75%);
-                                            top: 50%;
-                                            position: relative;
-                                        }
-                                    }
-                                    .iconWrapper-2OrFZ1[aria-label='Start Voice Call'], .iconWrapper-2OrFZ1[aria-label='开始语音通话'], .iconWrapper-2OrFZ1[aria-label='開始語音通話'], .iconWrapper-2OrFZ1[aria-label='Zahájit hlasový hovor'], .iconWrapper-2OrFZ1[aria-label='Start taleopkald'], .iconWrapper-2OrFZ1[aria-label='Spraakoproep starten'], .iconWrapper-2OrFZ1[aria-label='Démarrer un appel vocal'], .iconWrapper-2OrFZ1[aria-label='Sprachanruf starten'], .iconWrapper-2OrFZ1[aria-label='Έναρξη φωνητικής κλήσης'], .iconWrapper-2OrFZ1[aria-label='Hanghívás indítása'], .iconWrapper-2OrFZ1[aria-label='Avvia la chiamata vocale'], .iconWrapper-2OrFZ1[aria-label='音声通話を開始'], .iconWrapper-2OrFZ1[aria-label='음성 통화 시작하기'], .iconWrapper-2OrFZ1[aria-label='Rozpocznij połączenie głosowe'], .iconWrapper-2OrFZ1[aria-label='Iniciar chamada de voz'], .iconWrapper-2OrFZ1[aria-label='Начать голосовой звонок'], .iconWrapper-2OrFZ1[aria-label='Iniciar llamada de voz'], .iconWrapper-2OrFZ1[aria-label='Påbörja röstsamtal'], .iconWrapper-2OrFZ1[aria-label='Sesli Arama Başlat'], .iconWrapper-2OrFZ1[aria-label='Започни гласово обаждане'], .iconWrapper-2OrFZ1[aria-label='Почати голосовий виклик'], .iconWrapper-2OrFZ1[aria-label='Aloita äänipuhelu'], .iconWrapper-2OrFZ1[aria-label='Start et taleanrop'], .iconWrapper-2OrFZ1[aria-label='Započni glasovni poziv'], .iconWrapper-2OrFZ1[aria-label='Începe un apel vocal'], .iconWrapper-2OrFZ1[aria-label='Pradėti skambutį'], .iconWrapper-2OrFZ1[aria-label='เริ่มการโทรด้วยเสียง'], .iconWrapper-2OrFZ1[aria-label='Bắt Đầu Cuộc Gọi Thoại'], .iconWrapper-2OrFZ1[aria-label='वॉयस कॉल को स्टार्ट करें']{
-                                        display: flex;
-                                        &::after {
-                                            content: var(--audio-text);
-                                            height: 50%;
-                                            transform: translateY(-75%);
-                                            top: 50%;
-                                            position: relative;
-                                        }
-                                    }
-                                    .iconWrapper-2OrFZ1[aria-label='Start Video Call'], .iconWrapper-2OrFZ1[aria-label='开始视频通话'], .iconWrapper-2OrFZ1[aria-label='開始視訊通話'], .iconWrapper-2OrFZ1[aria-label='Zahájit videohovor'], .iconWrapper-2OrFZ1[aria-label='Start videoopkald'], .iconWrapper-2OrFZ1[aria-label='Videogesprek starten'], .iconWrapper-2OrFZ1[aria-label='Démarrer un appel vidéo'], .iconWrapper-2OrFZ1[aria-label='Videoanruf starten'], .iconWrapper-2OrFZ1[aria-label='Έναρξη βιντεοκλήσης'], .iconWrapper-2OrFZ1[aria-label='Videohívás indítása'], .iconWrapper-2OrFZ1[aria-label='Avvia la videochiamata'], .iconWrapper-2OrFZ1[aria-label='ビデオ通話を開始'], .iconWrapper-2OrFZ1[aria-label='영상 통화 시작하기'], .iconWrapper-2OrFZ1[aria-label='Rozpocznij rozmowę wideo'], .iconWrapper-2OrFZ1[aria-label='Iniciar chamada de vídeo'], .iconWrapper-2OrFZ1[aria-label='Начать видеозвонок'], .iconWrapper-2OrFZ1[aria-label='Iniciar videollamada'], .iconWrapper-2OrFZ1[aria-label='Påbörja videosamtal'], .iconWrapper-2OrFZ1[aria-label='Görüntülü Arama Başlat'], .iconWrapper-2OrFZ1[aria-label='Започни видео обаждане'], .iconWrapper-2OrFZ1[aria-label='Розпочати відеовиклик'], .iconWrapper-2OrFZ1[aria-label='Aloita videopuhelu'], .iconWrapper-2OrFZ1[aria-label='Start en videosamtale'], .iconWrapper-2OrFZ1[aria-label='Započni video poziv'], .iconWrapper-2OrFZ1[aria-label='Începe un apel video'], .iconWrapper-2OrFZ1[aria-label='Pradėti vaizdo skambutį'], .iconWrapper-2OrFZ1[aria-label='เริ่มวิดีโอคอล'], .iconWrapper-2OrFZ1[aria-label='Bắt Đầu Cuộc Gọi Video'], .iconWrapper-2OrFZ1[aria-label='वीडियो कॉल स्टार्ट करें']{
-                                        display: flex;
-                                        &::after {
-                                            content: var(--video-text);
-                                            height: 50%;
-                                            transform: translateY(-75%);
-                                            top: 50%;
-                                            position: relative;
-                                        }
-                                    }
-                                    a, [aria-label^='Mute channel '], [aria-label^='静音频道 '], [aria-label^='靜音頻道 '], [aria-label^='Ztlumit kanál '], [aria-label^='Gør kanal stum '], [aria-label^='Kanaal  dempen'], [aria-label^='Rendre le salon  muet'], [aria-label^='Kanal  stummschalten'], [aria-label^='Σίγαση καναλιού '], [aria-label^=' csatorna némítása'], [aria-label^='Silenzia canale '], [aria-label^='チャンネルをミュートする'], [aria-label^=' 채널 알림 끄기'], [aria-label^='Wycisz kanał '], [aria-label^='Silenciar canal '], [aria-label^='Заглушить канал '], [aria-label^='Tysta kanal '], [aria-label^=' kanalını sustur'], [aria-label^='Заглушаване на канал '], [aria-label^='Заглушити канал '], [aria-label^='Mykistä kanava '], [aria-label^='Demp kanal '], [aria-label^='Utišaj kanal '], [aria-label^='Amuțește canalul '], [aria-label^='Nutildyti kanalą '], [aria-label^='ปิดการแจ้งเตือนช่อง '], [aria-label^='Tắt âm kênh '], [aria-label^='चैनल म्यूट करें '], [aria-label='Member List'], [aria-label='成员名单'], [aria-label='成員名單'], [aria-label='Seznam členů'], [aria-label='Medlemsliste'], [aria-label='Ledenlijst'], [aria-label='Liste des membres'], [aria-label='Mitgliederliste'], [aria-label='Λίστα μελών'], [aria-label='Tagok listája'], [aria-label='Lista dei membri'], [aria-label='メンバーリスト'], [aria-label='멤버 목록'], [aria-label='Lista członków'], [aria-label='Lista de membros'], [aria-label='Список участников'], [aria-label='Lista de miembros'], [aria-label='Medlemslista'], [aria-label='Üye Listesi'], [aria-label='Списък с членове'], [aria-label='Список учасників'], [aria-label='Jäsenluettelo'], [aria-label='Popis članova'], [aria-label='Lista membrilor'], [aria-label='Narių Sąrašas'], [aria-label='รายชื่อสมาชิก'], [aria-label='Danh sách thành viên'], [aria-label='मेम्बर लिस्ट'] {
-                                        display: none;
-                                    }
-                                }
-                            }
                             .content-yTz4x3{
                                 background: var(--primary-background);
                                 &::before{
@@ -606,9 +564,10 @@ html {
                                     visibility: hidden;
                                     bottom:15px;
                                     .barButtonIcon-3t4V3d{
+                                        border: var(--border) 2px solid;
                                         visibility: visible;
                                         padding:2px;
-                                        background-color: var(--background-tertiary);
+                                        background-color: var(--background-tertiary2);
                                         border-radius: 50%;
                                         transform: scale(1.7);
                                         &:hover,&:focus{
@@ -645,8 +604,8 @@ html {
                                         .embedFull-2tM8-- {
                                             background: var(--secondary-background-alt);
                                         }
-                                        div:not(.repliedTextPreview-2NBljf)>.markup-2BOw-j.messageContent-2qWWxC:not(:empty) {
-                                            background: var(--background-tertiary);
+                                        .message-2qnXI6:not(.systemMessage-1I9LCe)>div:not(.repliedTextPreview-2NBljf)>.markup-2BOw-j.messageContent-2qWWxC:not(:empty) {
+                                            background: var(--background-tertiary2);
                                             margin-left: 0;
                                             padding-left: 0;
                                             width: fit-content;
@@ -657,8 +616,23 @@ html {
                                                 max-width: 100%;
                                             }
                                         }
+                                        .systemMessage-1I9LCe{
+                                            &>div{
+                                                width: fit-content;
+                                                margin: auto;
+                                                &>.markup-2BOw-j.messageContent-2qWWxC:not(:empty) {
+                                                    background: var(--background-tertiary2);
+                                                    margin-left: 0;
+                                                    padding-left: 0;
+                                                    width: fit-content;
+                                                    padding: 4px 8px;
+                                                    border-radius: 4px;
+                                                    display: inline-block;
+                                                }
+                                            }
+                                        }
                                         .wrapper-2aW0bm {
-                                            border-radius: 8px;
+                                            border-radius: 16px;
                                         }
                                     }
                                 }
@@ -688,7 +662,8 @@ html {
                                         .replyBar-1YLQ2F{
                                             border-radius: 8px !important;
                                         }
-                                    }.hasConnectedBar-1MrFne{
+                                    }
+                                    .hasConnectedBar-1MrFne{
                                         border-radius: 8px;
                                     }
                                     .buttons-3JBrkn{
@@ -712,6 +687,15 @@ html {
                                     &::-webkit-scrollbar{
                                         display: none;
                                     }
+                                    .botTag-3W9SuW {
+                                        padding-right: 0;
+                                        .botText-1526X_:not(:only-child){
+                                            display: none;
+                                        }
+                                        .botText-1526X_{
+                                            padding-right: 3px;
+                                        }
+                                    }
                                     .membersGroup-v9BXpm{
                                         position: relative;
                                         background-color: var(--secondary-background);
@@ -730,6 +714,7 @@ html {
                         }
                         .searchResultsWrap-3-pOjs {
                             z-index: 0;
+                            background-color: var(--secondary-background);
                         }
                     }
                 }
@@ -779,10 +764,36 @@ html {
             opacity: .9;
         }
     }
+    
     [mask="url(#svg-mask-status-idle)"], [mask="url(#svg-mask-status-dnd)"], [mask="url(#svg-mask-status-offline)"], [mask="url(#svg-mask-status-streaming)"]{
         mask: url(#svg-mask-status-online);
     }
-
+    // Buttons
+    .lookFilled-1Gx00P.colorBrand-3pXr91 {
+        background: var(--main-color) !important;
+        &:hover {
+            opacity: .9;
+            &:active {
+                opacity: .8;
+            }
+        }
+    }
+    // Switches
+    .container-3auIfb{
+        &[style*="67"],&[style*="68"],&[style*="69"],&[style*="70"],&[style*="71"],&[style*="72"],&[style*="73"],&[style*="74"],
+        &[style*="75"],&[style*="76"],&[style*="77"],&[style*="78"],&[style*="79"],&[style*="80"],&[style*="81"],&[style*="82"],
+        &[style*="83"],&[style*="84"],&[style*="85"],&[style*="86"],&[style*="87"],&[style*="88"],&[style*="89"],&[style*="90"],
+        &[style*="91"],&[style*="92"],&[style*="93"],&[style*="94"],&[style*="95"],&[style*="96"],&[style*="97"],&[style*="98"],
+        &[style*="99"],&[style*="100"],&[style*="101"],&[style*="102"],&[style*="103"],&[style*="104"],&[style*="105"],&[style*="106"],
+        &[style="opacity: 1; background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"]{
+            background: var(--main-color) !important;
+            svg>path{
+                fill: var(--main-color) !important;
+            }
+        }
+    }
+    // 
+    --brand-experiment: var(--main-color);
     // I18n | These may be wrong i used google translate
     // Danish
     &[lang^="da"] {
