@@ -19,4 +19,8 @@ html {
     --main-color: #7289DA;
     
     --sideopacity: .95;
+
+    /* DONT TOUCH */
+
+    --version-1-0-0: none;
 }

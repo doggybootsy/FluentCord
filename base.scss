@@ -14,12 +14,30 @@ html {
     --guilds_opacity: .95;
     --channel_opacity: .95;
 
+    /* DONT TOUCH */
+
+    --version-1-0-0: none;
 
     background: transparent !important;
     body {
         background: transparent !important;
         #app-mount {
             background: transparent !important;
+            &::before {
+                content: 'Your version of FLuentcord is outdated';
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                z-index: 10000;
+                background: var(--secondary-background-alt);
+                color: var(--text-normal);
+                padding: 10px;
+                font-size: 2rem;
+                border-radius: 8px;
+                border: var(--border2) 4px solid;
+                display: var(--version-1-0-0, block);
+            }
             .layerContainer-yqaFcK{
                 width: calc(100vw - 72px);
                 margin-left: 72px;

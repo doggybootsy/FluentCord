@@ -9,6 +9,8 @@ html {
   --main-color: #7289DA;
   --guilds_opacity: 0.95;
   --channel_opacity: 0.95;
+  /* DONT TOUCH */
+  --version-1-0-0: none;
   background: transparent !important;
   --brand-experiment: var(--main-color);
 }
@@ -17,6 +19,21 @@ html body {
 }
 html body #app-mount {
   background: transparent !important;
+}
+html body #app-mount::before {
+  content: 'Your version of FLuentcord is outdated';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10000;
+  background: var(--secondary-background-alt);
+  color: var(--text-normal);
+  padding: 10px;
+  font-size: 2rem;
+  border-radius: 8px;
+  border: var(--border2) 4px solid;
+  display: var(--version-1-0-0, block);
 }
 html body #app-mount .layerContainer-yqaFcK {
   width: calc(100vw - 72px);
