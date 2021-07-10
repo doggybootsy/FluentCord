@@ -1,6 +1,4 @@
 @import "https://nyri4.github.io/Discolored/main.css";
-
-
 html {
     --primary-background:#2e3136;
     --secondary-background:#2d3035;
@@ -11,7 +9,7 @@ html {
 
     --main-color: #7289DA;
 
-    --guilds_opacity: .95;
+    --guilds_opacity:  .95;
     --channel_opacity: .95;
 
     /* DONT TOUCH */
@@ -59,14 +57,72 @@ html {
                     .body-r6_QPy, .topSection-y3p-_D {
                         background-color: #1c1c1d;
                     }
+                    .modal-3O0aXp {
+                        background: var(--primary-background);
+                    }
                 }
                 .userPopout-xaxa6l{
                     .avatar-37jOim {
                         border: 6px solid #1c1c1d;
                         background-color: #1c1c1d;
+                        &>*{
+                            transform: translateX(1px);
+                        }
+                        &+* {
+                            transform: translateX(1px);
+                        }
                     }
-                    .headerTop-3vNv-a,.body-3HBlXn,.bodyInnerWrapper-26fQXj,.footer-3UKYOU {
-                        background-color: #1c1c1d;
+                    .avatarWrapper-3r9PdD {
+                        left: 100px;
+                    }
+                    .profileBadges-ohc0Vu {
+                        max-width: 92px;
+                    }
+                    .px-10SIf7.botTag-2WPJ74{
+                        padding-right: 0;
+                        background: transparent;
+                        .botText-1526X_{
+                            padding-right: 3px;
+                            padding-left: 3px;
+                            border-radius: 4px;
+                            &:not(:only-child){
+                                display: none;
+                            }
+                        }
+                        &>*{
+                            background: var(--brand-experiment);
+                        }
+                        .botTagVerified-1klIIt {
+                            border-radius: 50%;
+                            margin-right: 5px;
+                        }
+                    }
+                    .role-2irmRk {
+                        position: relative;
+                        border-radius: 6px;
+                        .roleCircle-3xAZ1j {
+                            position: absolute;
+                            content: '';
+                            top: 0;
+                            left: 0;
+                            right: 0;
+                            bottom: 0;
+                            width: unset;
+                            height: unset;
+                            margin: 0;
+                            border-radius: 5px;
+                            z-index: 0;
+                            opacity: .5;
+                            &:not(:empty):hover {
+                                z-index: 2;
+                                opacity: 1;
+                                cursor: pointer;
+                            }
+                            &+div {
+                                z-index: 1;
+                                margin: 0;
+                            }
+                        }
                     }
                 }
             }
@@ -120,6 +176,10 @@ html {
                                         &::-webkit-scrollbar {
                                             display: none;
                                         }
+                                        .info-1VyQPT .colorMuted-HdFt4q:nth-child(2)::after {
+                                            content: '\a''Fluentcord 1.0.0';
+                                            white-space: pre;
+                                        }
                                         .sidebar-CFHs9e{
                                             padding-top: 10px;
                                             padding-bottom: 10px;
@@ -134,6 +194,12 @@ html {
                                         }
                                     }
                                 }
+                                .bd-addon-card{
+                                  border: 2px solid var(--border2);
+                                }
+                                #bd-editor-panel{
+                                  border: 2px solid var(--border2);
+                                }
                                 .contentRegionScroller-26nc1e {
                                     background: var(--primary-background);
                                     border-left: var(--border) 2px solid;
@@ -141,14 +207,8 @@ html {
                                         border: var(--border) 2px solid;
                                         border-radius: 6px;
                                     }
-                                    .item-26Dhrx {
+                                    .item-26Dhrx, .connection-1fbD7X, .powercord-entities-manage-tabs,.guild-Hq0WWA, .paymentPane-3bwJ6A {
                                         border: 2px solid var(--border);
-                                    }
-                                    .bd-addon-card{
-                                      border: 2px solid var(--border2);
-                                    }
-                                    #bd-editor-panel{
-                                      border: 2px solid var(--border2);
                                     }
                                     .banner-2QYc2d.bannerPremium-2hSAwz{
                                         height: 240px;
@@ -255,6 +315,9 @@ html {
                         }
                         // channels
                         .sidebar-2K8pFh {
+                            .header-2V-4Sw {
+                                box-shadow: unset;
+                            }
                             background: transparent;
                             &::after{
                                 content: '';
@@ -342,7 +405,6 @@ html {
                                                 .children-gzQq2t {
                                                     position: absolute;
                                                     transform: translate(4px, 8px);
-                                                    box-shadow: 0 0 0 3px var(--background-secondary);
                                                     border-radius: 100px;
                                                 }
                                             }
@@ -384,6 +446,10 @@ html {
                                 }
                             }
                             .panels-j1Uci_ {
+                                background: transparent;
+                                &>*{
+                                    position: relative;
+                                }
                                 &>.container-3baos1{
                                     height: 0;
                                     -webkit-app-region: none;
@@ -462,7 +528,7 @@ html {
                                         }
                                         &.open-6_Y_aH .searchBar-3dMhjb{
                                             width: 240px;
-                                            background: var(--background-tertiary2);
+                                            background: var(--primary-background);
                                             transition: all 0.6s ease-in-out;
                                             .icon-3cZ1F_{
                                                 height: 16px;
@@ -474,6 +540,10 @@ html {
                                 }
                                 [aria-label='Pinned Messages'], [aria-label='已标注消息'], [aria-label='已釘選的訊息'], [aria-label='Připnuté zprávy'], [aria-label='Fastgjorte beskeder'], [aria-label='Vastgepinde berichten'], [aria-label='Messages épinglés'], [aria-label='Angepinnte Nachrichten'], [aria-label='Καρφιτσωμένα μηνύματα'], [aria-label='Kitűzött üzenetek'], [aria-label='Messaggi attaccati'], [aria-label='ピン留めされたメッセージ'], [aria-label='고정된 메시지'], [aria-label='Przypięte wiadomości'], [aria-label='Mensagens fixadas'], [aria-label='Закреплённые сообщения'], [aria-label='Mensajes fijados'], [aria-label='Fästa meddelanden'], [aria-label='Sabitlenmiş Mesajlar'], [aria-label='Закачени съобщения'], [aria-label='Закріплені повідомлення'], [aria-label='Kiinnitetyt viestit'], [aria-label='Festede meldinger'], [aria-label='Prikvačene poruke'], [aria-label='Mesaje fixate'], [aria-label='Prisegtos Žinutės'], [aria-label='ข้อความที่ปักหมุด'], [aria-label='Tin Nhắn Đã Được Ghim'], [aria-label='पिन किए गए मैसेज']{
                                     display: flex;
+                                    path {
+                                        d: path("M 18.490234 3.9882812 A 1.50015 1.50015 0 0 0 17.685547 4.2402344 C 11.858859 8.0105649 7.3440265 12.509956 4.2128906 17.728516 A 1.5006126 1.5006126 0 1 0 6.7871094 19.271484 C 7.0116514 18.897248 7.2968064 18.552264 7.5371094 18.185547 C 8.3297502 19.01346 13.716739 24.640715 16.066406 27.095703 C 16.169734 27.203716 16.216708 27.337956 16.195312 27.511719 L 16.197266 27.511719 C 16.067101 28.563422 16.004391 29.674443 16 30.492188 C 15.98569 33.39309 16.750905 36.045436 18.097656 38.269531 C 19.283005 40.226735 22.058785 40.513481 23.658203 38.914062 L 30.226562 32.347656 L 40.439453 42.560547 A 1.50015 1.50015 0 1 0 42.560547 40.439453 L 32.347656 30.226562 L 38.914062 23.658203 C 40.513481 22.058785 40.226735 19.283005 38.269531 18.097656 C 36.045391 16.751554 33.394252 15.986053 30.494141 16 L 30.492188 16 C 29.637805 16.0038 28.599773 16.121762 27.611328 16.275391 C 27.439998 16.301921 27.287467 16.251531 27.175781 16.144531 L 18.257812 7.6054688 C 18.644754 7.3393819 18.913153 7.0194385 19.314453 6.7597656 A 1.50015 1.50015 0 0 0 18.490234 3.9882812 z M 15.892578 9.4960938 L 25.101562 18.310547 C 25.895878 19.071545 27.001644 19.405706 28.070312 19.240234 A 1.50015 1.50015 0 0 0 28.070312 19.238281 C 28.958606 19.100212 29.943143 19.002381 30.505859 19 A 1.50015 1.50015 0 0 0 30.507812 19 C 32.876913 18.98831 34.9575 19.600476 36.714844 20.664062 C 37.02964 20.854713 37.071546 21.258528 36.792969 21.537109 L 21.537109 36.792969 C 21.258476 37.071551 20.854714 37.02964 20.664062 36.714844 C 19.600814 34.958939 18.988312 32.876911 19 30.507812 C 19.0036 29.835556 19.06195 28.785156 19.173828 27.880859 A 1.50015 1.50015 0 0 0 19.173828 27.878906 C 19.300433 26.850669 18.969047 25.789471 18.234375 25.021484 C 15.769681 22.446314 9.5747171 15.976099 9.2890625 15.677734 C 11.075322 13.425416 13.43404 11.438384 15.892578 9.4960938 z");
+                                        transform: scale(.5);
+                                    }
                                     .iconBadge-qZ4Ksk{
                                         position: absolute;
                                         left: 14px;
@@ -488,6 +558,9 @@ html {
                                 }
                                 [aria-label='Inbox'], [aria-label='收件箱'], [aria-label='收件匣'], [aria-label='Příchozí'], [aria-label='Indbakke'], [aria-label='Boîte de réception'], [aria-label='Posteingang'], [aria-label='Εισερχόμενα'], [aria-label='Bejövő üzenetek'], [aria-label='Messaggi ricevuti'], [aria-label='受信ボックス'], [aria-label='받은 편지함'], [aria-label='Skrzynka odbiorcza'], [aria-label='Caixa de Entrada'], [aria-label='Почта'], [aria-label='Bandeja de entrada'], [aria-label='Inkorg'], [aria-label='Gelen Kutusu'], [aria-label='Входяща поща'], [aria-label='Вхідні'], [aria-label='Saapuneet'], [aria-label='Innboks'], [aria-label='Ulazna pošta'], [aria-label='Gautos žinutės'], [aria-label='กล่องขาเข้า'], [aria-label='Hộp thư đến'], [aria-label='इनबॉक्स']{
                                     display: flex;
+                                    path {
+                                        d: path("M 12 2 C 6.486 2 2 6.486 2 12 C 2 17.515 6.486 22 12 22 C 14.039 22 15.993 21.398 17.652 20.259 L 16.521 18.611 C 15.195 19.519 13.633 20 12 20 C 7.589 20 4 16.411 4 12 C 4 7.589 7.589 4 12 4 C 16.411 4 20 7.589 20 12 V 12.782 C 20 14.17 19.402 15 18.4 15 L 18.398 15.018 C 18.338 15.005 18.273 15 18.209 15 H 18 C 17.437 15 16.6 14.182 16.6 13.631 V 12 C 16.6 9.464 14.537 7.4 12 7.4 C 9.463 7.4 7.4 9.463 7.4 12 C 7.4 14.537 9.463 16.6 12 16.6 C 13.234 16.6 14.35 16.106 15.177 15.313 C 15.826 16.269 16.93 17 18 17 L 18.002 16.981 C 18.064 16.994 18.129 17 18.195 17 H 18.4 C 20.552 17 22 15.306 22 12.782 V 12 C 22 6.486 17.514 2 12 2 Z M 12 14.599 C 10.566 14.599 9.4 13.433 9.4 11.999 C 9.4 10.565 10.566 9.399 12 9.399 C 13.434 9.399 14.6 10.565 14.6 11.999 C 14.6 13.433 13.434 14.599 12 14.599 Z");
+                                    }
                                     &::after {
                                         content: var(--inbox-text);
                                         height: 50%;
@@ -498,6 +571,10 @@ html {
                                 }
                                 .iconWrapper-2OrFZ1[aria-label='Start Voice Call'], .iconWrapper-2OrFZ1[aria-label='开始语音通话'], .iconWrapper-2OrFZ1[aria-label='開始語音通話'], .iconWrapper-2OrFZ1[aria-label='Zahájit hlasový hovor'], .iconWrapper-2OrFZ1[aria-label='Start taleopkald'], .iconWrapper-2OrFZ1[aria-label='Spraakoproep starten'], .iconWrapper-2OrFZ1[aria-label='Démarrer un appel vocal'], .iconWrapper-2OrFZ1[aria-label='Sprachanruf starten'], .iconWrapper-2OrFZ1[aria-label='Έναρξη φωνητικής κλήσης'], .iconWrapper-2OrFZ1[aria-label='Hanghívás indítása'], .iconWrapper-2OrFZ1[aria-label='Avvia la chiamata vocale'], .iconWrapper-2OrFZ1[aria-label='音声通話を開始'], .iconWrapper-2OrFZ1[aria-label='음성 통화 시작하기'], .iconWrapper-2OrFZ1[aria-label='Rozpocznij połączenie głosowe'], .iconWrapper-2OrFZ1[aria-label='Iniciar chamada de voz'], .iconWrapper-2OrFZ1[aria-label='Начать голосовой звонок'], .iconWrapper-2OrFZ1[aria-label='Iniciar llamada de voz'], .iconWrapper-2OrFZ1[aria-label='Påbörja röstsamtal'], .iconWrapper-2OrFZ1[aria-label='Sesli Arama Başlat'], .iconWrapper-2OrFZ1[aria-label='Започни гласово обаждане'], .iconWrapper-2OrFZ1[aria-label='Почати голосовий виклик'], .iconWrapper-2OrFZ1[aria-label='Aloita äänipuhelu'], .iconWrapper-2OrFZ1[aria-label='Start et taleanrop'], .iconWrapper-2OrFZ1[aria-label='Započni glasovni poziv'], .iconWrapper-2OrFZ1[aria-label='Începe un apel vocal'], .iconWrapper-2OrFZ1[aria-label='Pradėti skambutį'], .iconWrapper-2OrFZ1[aria-label='เริ่มการโทรด้วยเสียง'], .iconWrapper-2OrFZ1[aria-label='Bắt Đầu Cuộc Gọi Thoại'], .iconWrapper-2OrFZ1[aria-label='वॉयस कॉल को स्टार्ट करें']{
                                     display: flex;
+                                    path {
+                                        d: path("M 27.216797 6.1015625 C 27.084935 6.1013567 26.952471 6.1110209 26.820312 6.1289062 C 26.29168 6.2004472 25.770296 6.4185563 25.339844 6.8007812 A 1.50015 1.50015 0 0 0 25.339844 6.8027344 L 16.117188 15 L 9.5 15 C 7.0324991 15 5 17.032499 5 19.5 L 5 28.5 C 5 30.967501 7.0324991 33 9.5 33 L 16.117188 33 L 25.339844 41.197266 C 26.200649 41.96254 27.421458 42.075139 28.345703 41.660156 C 29.269948 41.245173 30 40.257378 30 39.105469 L 30 8.8945312 C 30 7.7430679 29.271967 6.7549754 28.347656 6.3398438 C 28.00104 6.1841693 27.612384 6.10218 27.216797 6.1015625 z M 27 9.3398438 L 27 38.660156 L 17.683594 30.378906 A 1.50015 1.50015 0 0 0 16.6875 30 L 9.5 30 C 8.6535009 30 8 29.346499 8 28.5 L 8 19.5 C 8 18.653501 8.6535009 18 9.5 18 L 16.6875 18 A 1.50015 1.50015 0 0 0 17.683594 17.621094 L 27 9.3398438 z M 38.755859 11.980469 A 1.50015 1.50015 0 0 0 37.429688 14.193359 C 40.888956 20.818098 40.888956 27.181902 37.429688 33.806641 A 1.50015 1.50015 0 1 0 40.089844 35.193359 C 43.930574 27.838098 43.930574 20.161902 40.089844 12.806641 A 1.50015 1.50015 0 0 0 38.755859 11.980469 z M 34.171875 16.996094 A 1.50015 1.50015 0 0 0 32.880859 19.138672 C 34.397398 22.45712 34.395303 25.559819 32.873047 28.878906 A 1.50015 1.50015 0 1 0 35.599609 30.130859 C 37.437342 26.123947 37.440802 21.898177 35.609375 17.890625 A 1.50015 1.50015 0 0 0 34.171875 16.996094 z");
+                                        transform: scale(.5);
+                                    }
                                     &::after {
                                         content: var(--audio-text);
                                         height: 50%;
@@ -508,6 +585,10 @@ html {
                                 }
                                 .iconWrapper-2OrFZ1[aria-label='Start Video Call'], .iconWrapper-2OrFZ1[aria-label='开始视频通话'], .iconWrapper-2OrFZ1[aria-label='開始視訊通話'], .iconWrapper-2OrFZ1[aria-label='Zahájit videohovor'], .iconWrapper-2OrFZ1[aria-label='Start videoopkald'], .iconWrapper-2OrFZ1[aria-label='Videogesprek starten'], .iconWrapper-2OrFZ1[aria-label='Démarrer un appel vidéo'], .iconWrapper-2OrFZ1[aria-label='Videoanruf starten'], .iconWrapper-2OrFZ1[aria-label='Έναρξη βιντεοκλήσης'], .iconWrapper-2OrFZ1[aria-label='Videohívás indítása'], .iconWrapper-2OrFZ1[aria-label='Avvia la videochiamata'], .iconWrapper-2OrFZ1[aria-label='ビデオ通話を開始'], .iconWrapper-2OrFZ1[aria-label='영상 통화 시작하기'], .iconWrapper-2OrFZ1[aria-label='Rozpocznij rozmowę wideo'], .iconWrapper-2OrFZ1[aria-label='Iniciar chamada de vídeo'], .iconWrapper-2OrFZ1[aria-label='Начать видеозвонок'], .iconWrapper-2OrFZ1[aria-label='Iniciar videollamada'], .iconWrapper-2OrFZ1[aria-label='Påbörja videosamtal'], .iconWrapper-2OrFZ1[aria-label='Görüntülü Arama Başlat'], .iconWrapper-2OrFZ1[aria-label='Започни видео обаждане'], .iconWrapper-2OrFZ1[aria-label='Розпочати відеовиклик'], .iconWrapper-2OrFZ1[aria-label='Aloita videopuhelu'], .iconWrapper-2OrFZ1[aria-label='Start en videosamtale'], .iconWrapper-2OrFZ1[aria-label='Započni video poziv'], .iconWrapper-2OrFZ1[aria-label='Începe un apel video'], .iconWrapper-2OrFZ1[aria-label='Pradėti vaizdo skambutį'], .iconWrapper-2OrFZ1[aria-label='เริ่มวิดีโอคอล'], .iconWrapper-2OrFZ1[aria-label='Bắt Đầu Cuộc Gọi Video'], .iconWrapper-2OrFZ1[aria-label='वीडियो कॉल स्टार्ट करें']{
                                     display: flex;
+                                    path {
+                                        d: path("M 10.5 5 C 9.671 5 9 5.671 9 6.5 L 9 7.1835938 C 6.1450231 7.8673225 4 10.444794 4 13.5 L 4 34.5 C 4 38.071938 6.9280619 41 10.5 41 L 37.5 41 C 41.071938 41 44 38.071938 44 34.5 L 44 13.5 C 44 9.9280619 41.071938 7 37.5 7 L 19 7 L 19 6.5 C 19 5.671 18.329 5 17.5 5 L 10.5 5 z M 10.5 10 L 37.5 10 C 39.450062 10 41 11.549938 41 13.5 L 41 34.5 C 41 36.450062 39.450062 38 37.5 38 L 10.5 38 C 8.5499381 38 7 36.450062 7 34.5 L 7 13.5 C 7 11.549938 8.5499381 10 10.5 10 z M 12.5 15 A 1.50015 1.50015 0 1 0 12.5 18 L 15.5 18 A 1.50015 1.50015 0 1 0 15.5 15 L 12.5 15 z M 28 15 C 23.047202 15 19 19.047206 19 24 C 19 28.952794 23.047202 33 28 33 C 32.952798 33 37 28.952794 37 24 C 37 19.047206 32.952798 15 28 15 z M 28 18 C 31.331479 18 34 20.668523 34 24 C 34 27.331477 31.331479 30 28 30 C 24.668521 30 22 27.331477 22 24 C 22 20.668523 24.668521 18 28 18 z");
+                                        transform: scale(.5);
+                                    }
                                     &::after {
                                         content: var(--video-text);
                                         height: 50%;
@@ -650,8 +731,42 @@ html {
                                                 }
                                             }
                                         }
+                                        .botTag-2WPJ74 {
+                                            padding-right: 0;
+                                            background: transparent;
+                                            .botText-1526X_{
+                                                padding-right: 3px;
+                                                padding-left: 3px;
+                                                border-radius: 4px;
+                                                &:not(:only-child){
+                                                    display: none;
+                                                }
+                                            }
+                                            &>*{
+                                                background: var(--brand-experiment);
+                                            }
+                                            .botTagVerified-1klIIt {
+                                                border-radius: 50%;
+                                                margin-right: 5px;
+                                            }
+                                        }
                                         .wrapper-2aW0bm {
-                                            border-radius: 16px;
+                                            background: transparent;
+                                            box-shadow: unset;
+                                            &>div{
+                                                margin-left: 8px;
+                                                box-shadow: var(--elevation-stroke);
+                                                border-radius: 16px;
+                                                background: var(--secondary-background-alt);
+                                                border: none;
+                                                height: 24px;
+                                                &.powercord-snippet-apply {
+                                                    div {
+                                                        transform: translateY(2px);
+                                                        border-radius: 16px;
+                                                    }
+                                                }
+                                            }
                                         }
                                     }
                                 }
@@ -660,6 +775,29 @@ html {
                                     border-top: var(--border2) 2px solid;
                                     &::before{
                                         background: -webkit-gradient(linear,left top,left bottom,from(rgba(54,57,63,0)),to(var(--primary-background)));
+                                    }
+                                    .autocomplete-1vrmpx {
+                                        .scroller-lynW5A {
+                                            padding-top: 2rem;
+                                            display: flex; 
+                                            flex-wrap: wrap;
+                                            
+                                            &>.base-1pYU8j {
+                                                position: absolute;
+                                                top: 0;
+                                                left: 0;
+                                                right: 0;
+                                            }
+                                            .autocompleteRowVertical-q1K4ky {
+                                                height: 39px;
+                                                margin: 0 8px;
+                                                padding: 0;
+                                                flex: 1 1 32%;
+                                                &:nth-last-child(2):not(:nth-child(n)){
+                                                    margin-right: 0;
+                                                }
+                                            }
+                                        }
                                     }
                                     .attachWrapper-2TRKBi{
                                         order: 1;
@@ -708,11 +846,21 @@ html {
                                     }
                                     .botTag-3W9SuW {
                                         padding-right: 0;
-                                        .botText-1526X_:not(:only-child){
-                                            display: none;
-                                        }
+                                        background: transparent;
                                         .botText-1526X_{
                                             padding-right: 3px;
+                                            padding-left: 3px;
+                                            border-radius: 4px;
+                                            &:not(:only-child){
+                                                display: none;
+                                            }
+                                        }
+                                        &>*{
+                                            background: var(--brand-experiment);
+                                        }
+                                        .botTagVerified-1klIIt {
+                                            border-radius: 50%;
+                                            margin-right: 5px;
                                         }
                                     }
                                     .membersGroup-v9BXpm{
@@ -783,7 +931,14 @@ html {
             opacity: .9;
         }
     }
-    
+    // popouts
+    [id="message-actions-pin"] {
+        path {
+            d: path("M 18.490234 3.9882812 A 1.50015 1.50015 0 0 0 17.685547 4.2402344 C 11.858859 8.0105649 7.3440265 12.509956 4.2128906 17.728516 A 1.5006126 1.5006126 0 1 0 6.7871094 19.271484 C 7.0116514 18.897248 7.2968064 18.552264 7.5371094 18.185547 C 8.3297502 19.01346 13.716739 24.640715 16.066406 27.095703 C 16.169734 27.203716 16.216708 27.337956 16.195312 27.511719 L 16.197266 27.511719 C 16.067101 28.563422 16.004391 29.674443 16 30.492188 C 15.98569 33.39309 16.750905 36.045436 18.097656 38.269531 C 19.283005 40.226735 22.058785 40.513481 23.658203 38.914062 L 30.226562 32.347656 L 40.439453 42.560547 A 1.50015 1.50015 0 1 0 42.560547 40.439453 L 32.347656 30.226562 L 38.914062 23.658203 C 40.513481 22.058785 40.226735 19.283005 38.269531 18.097656 C 36.045391 16.751554 33.394252 15.986053 30.494141 16 L 30.492188 16 C 29.637805 16.0038 28.599773 16.121762 27.611328 16.275391 C 27.439998 16.301921 27.287467 16.251531 27.175781 16.144531 L 18.257812 7.6054688 C 18.644754 7.3393819 18.913153 7.0194385 19.314453 6.7597656 A 1.50015 1.50015 0 0 0 18.490234 3.9882812 z M 15.892578 9.4960938 L 25.101562 18.310547 C 25.895878 19.071545 27.001644 19.405706 28.070312 19.240234 A 1.50015 1.50015 0 0 0 28.070312 19.238281 C 28.958606 19.100212 29.943143 19.002381 30.505859 19 A 1.50015 1.50015 0 0 0 30.507812 19 C 32.876913 18.98831 34.9575 19.600476 36.714844 20.664062 C 37.02964 20.854713 37.071546 21.258528 36.792969 21.537109 L 21.537109 36.792969 C 21.258476 37.071551 20.854714 37.02964 20.664062 36.714844 C 19.600814 34.958939 18.988312 32.876911 19 30.507812 C 19.0036 29.835556 19.06195 28.785156 19.173828 27.880859 A 1.50015 1.50015 0 0 0 19.173828 27.878906 C 19.300433 26.850669 18.969047 25.789471 18.234375 25.021484 C 15.769681 22.446314 9.5747171 15.976099 9.2890625 15.677734 C 11.075322 13.425416 13.43404 11.438384 15.892578 9.4960938 z");
+            transform: scale(.5);
+        }
+    }
+    // Masks
     [mask="url(#svg-mask-status-idle)"], [mask="url(#svg-mask-status-dnd)"], [mask="url(#svg-mask-status-offline)"], [mask="url(#svg-mask-status-streaming)"]{
         mask: url(#svg-mask-status-online);
     }
