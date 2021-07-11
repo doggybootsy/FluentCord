@@ -37,6 +37,17 @@ html {
                 border: var(--border2) 4px solid;
                 display: var(--version-1-0-0, block);
             }
+            &::before {
+                content: '';
+                width: calc(100vw - 322);
+                background: var(--primary-background);
+                height: 100vh;
+                position: fixed;
+                left: 322px;
+                right: 0;
+                top: 0;
+                bottom: 0;
+            }
             .layerContainer-yqaFcK{
                 width: calc(100vw - 72px);
                 margin-left: 72px;
@@ -72,6 +83,9 @@ html {
                         &+* {
                             transform: translateX(1px);
                         }
+                    }
+                    .note-1oo11U ~ div>.colorStandard-2KCXvj{
+                        font-size: .85em;
                     }
                     .avatarWrapper-3r9PdD {
                         left: 100px;
@@ -169,7 +183,7 @@ html {
                                             display: none;
                                         }
                                         .info-1VyQPT .colorMuted-HdFt4q:nth-child(2)::after {
-                                            content: '\a''Fluentcord 1.0.0';
+                                            content: '\a''Fluentcord 1.0.0 ' var(--version-type, 'Stable');
                                             white-space: pre;
                                         }
                                         .sidebar-CFHs9e{
@@ -759,12 +773,6 @@ html {
                                                 background: var(--secondary-background-alt);
                                                 border: none;
                                                 height: 24px;
-                                                &.powercord-snippet-apply {
-                                                    div {
-                                                        transform: translateY(2px);
-                                                        border-radius: 16px;
-                                                    }
-                                                }
                                             }
                                         }
                                     }
@@ -774,29 +782,6 @@ html {
                                     border-top: var(--border2) 2px solid;
                                     &::before{
                                         background: -webkit-gradient(linear,left top,left bottom,from(rgba(54,57,63,0)),to(var(--primary-background)));
-                                    }
-                                    .autocomplete-1vrmpx {
-                                        .scroller-lynW5A {
-                                            padding-top: 2rem;
-                                            display: flex; 
-                                            flex-wrap: wrap;
-                                            
-                                            &>.base-1pYU8j {
-                                                position: absolute;
-                                                top: 0;
-                                                left: 0;
-                                                right: 0;
-                                            }
-                                            .autocompleteRowVertical-q1K4ky {
-                                                height: 39px;
-                                                margin: 0 8px;
-                                                padding: 0;
-                                                flex: 1 1 32%;
-                                                &:nth-last-child(2):not(:nth-child(n)){
-                                                    margin-right: 0;
-                                                }
-                                            }
-                                        }
                                     }
                                     .attachWrapper-2TRKBi{
                                         order: 1;
@@ -846,7 +831,7 @@ html {
                                     .membersGroup-v9BXpm{
                                         position: relative;
                                         background-color: var(--secondary-background);
-                                        &:not(:nth-child(2)):after{
+                                        &::after{
                                             content: '';
                                             left: 10px;
                                             width: 220px;
@@ -861,6 +846,12 @@ html {
                         }
                         .searchResultsWrap-3-pOjs {
                             z-index: 0;
+                            background-color: var(--secondary-background);
+                        }
+                        .container-NdaZbY {
+                            position: sticky;
+                            bottom: 0;
+                            z-index: 1;
                             background-color: var(--secondary-background);
                         }
                     }
@@ -917,7 +908,7 @@ html {
         background: transparent;
         .botText-1526X_{
             padding-right: 3px;
-            padding-left: 3px;
+            padding-left:  4px;
             border-radius: 4px;
             &:not(:only-child){
                 display: none;
@@ -929,6 +920,31 @@ html {
         .botTagVerified-1klIIt {
             border-radius: 50%;
             margin-right: 5px;
+            -webkit-mask-image: url("data:image/svg+xml,%3Csvg width='15' height='15' viewBox='0 0 16 15.2' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m16 7.6c0 .79-1.28 1.38-1.52 2.09s.44 2 0 2.59-1.84.35-2.46.8-.79 1.84-1.54 2.09-1.67-.8-2.47-.8-1.75 1-2.47.8-.92-1.64-1.54-2.09-2-.18-2.46-.8.23-1.84 0-2.59-1.54-1.3-1.54-2.09 1.28-1.38 1.52-2.09-.44-2 0-2.59 1.85-.35 2.48-.8.78-1.84 1.53-2.12 1.67.83 2.47.83 1.75-1 2.47-.8.91 1.64 1.53 2.09 2 .18 2.46.8-.23 1.84 0 2.59 1.54 1.3 1.54 2.09z' fill='white'/%3E%3C/svg%3E%0A");
+        }
+    }
+    // Auto complete
+    .autocomplete-1vrmpx {
+        .scroller-lynW5A {
+            padding-top: 2rem;
+            display: flex; 
+            flex-wrap: wrap;
+            &>.base-1pYU8j {
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+            }
+            .autocompleteRowVertical-q1K4ky {
+                height: 39px;
+                margin: 0 8px;
+                padding: 0;
+                flex: 1 1 32%;
+                max-width: 46%;
+                &:nth-last-child(2):not(:nth-child(n)){
+                    margin-right: 0;
+                }
+            }
         }
     }
     // popouts
