@@ -22,6 +22,6 @@ go [here](https://github.com/doggybootsy/FluentCord/Fluentcord.theme.css) and `c
 
 # Translation is wrong?
 
-Make a pr with a fix or even just make issue with a fix
+Make a pr with a fix or even just make issue with a fix and do both the sass and css files
 
 I used Google translate
