@@ -12,6 +12,7 @@ html {
     --guilds_opacity:  .95;
     --channel_opacity: .95;
 
+
     /* DONT TOUCH */
 
     --version-1-0-0: none;
@@ -78,24 +79,15 @@ html {
                     .profileBadges-ohc0Vu {
                         max-width: 92px;
                     }
-                    .px-10SIf7.botTag-2WPJ74{
-                        padding-right: 0;
-                        background: transparent;
-                        .botText-1526X_{
-                            padding-right: 3px;
-                            padding-left: 3px;
-                            border-radius: 4px;
-                            &:not(:only-child){
-                                display: none;
-                            }
-                        }
-                        &>*{
-                            background: var(--brand-experiment);
-                        }
-                        .botTagVerified-1klIIt {
-                            border-radius: 50%;
-                            margin-right: 5px;
-                        }
+                    .headerTag-3GFl76 {
+                        width: fit-content;
+                        margin: auto;
+                    }
+                    .customStatus-oN4ZZY,.nickname-3M3Jfa {
+                        width: fit-content;
+                        margin-left: auto;
+                        margin-right: auto;
+                        text-align: center;
                     }
                     .role-2irmRk {
                         position: relative;
@@ -112,7 +104,7 @@ html {
                             margin: 0;
                             border-radius: 5px;
                             z-index: 0;
-                            opacity: .5;
+                            opacity: .4;
                             &:not(:empty):hover {
                                 z-index: 2;
                                 opacity: 1;
@@ -363,7 +355,7 @@ html {
                                             top: 10px;
                                             background: var(--border2);
                                         }
-                                        & ~ .channel-2QD9_O {
+                                        &~.channel-2QD9_O {
                                             margin: 0;
                                             .layout-2DM8Md {
                                                 border-radius: 0;
@@ -414,6 +406,32 @@ html {
                                         }
                                         h2 {
                                             width: 100%;
+                                        }
+                                    }
+                                }
+                            }
+                            .categoryItem-1QIroW {
+                                margin: 0;
+                                border-radius: 0;
+                                height: 34px;
+                                &>div {
+                                    background: transparent;
+                                    width: 223px;
+                                    border-left: 2px solid transparent;
+                                    height: 32px;
+                                    margin-top: 1px;
+                                    padding: 0;
+                                    .avatar-3uk_u9>svg {
+                                        transform: scale(.8);
+                                    }
+                                }
+                                &.selectedCategoryItem-FHKU_o, &:hover {
+                                    &>div {
+                                        background: var(--background-modifier-selected);
+                                        border-radius: 0;
+                                        border-left: 2px solid var(--main-color);
+                                        .avatar-3uk_u9>svg {
+                                            color: var(--main-color);
                                         }
                                     }
                                 }
@@ -731,25 +749,6 @@ html {
                                                 }
                                             }
                                         }
-                                        .botTag-2WPJ74 {
-                                            padding-right: 0;
-                                            background: transparent;
-                                            .botText-1526X_{
-                                                padding-right: 3px;
-                                                padding-left: 3px;
-                                                border-radius: 4px;
-                                                &:not(:only-child){
-                                                    display: none;
-                                                }
-                                            }
-                                            &>*{
-                                                background: var(--brand-experiment);
-                                            }
-                                            .botTagVerified-1klIIt {
-                                                border-radius: 50%;
-                                                margin-right: 5px;
-                                            }
-                                        }
                                         .wrapper-2aW0bm {
                                             background: transparent;
                                             box-shadow: unset;
@@ -844,25 +843,6 @@ html {
                                     &::-webkit-scrollbar{
                                         display: none;
                                     }
-                                    .botTag-3W9SuW {
-                                        padding-right: 0;
-                                        background: transparent;
-                                        .botText-1526X_{
-                                            padding-right: 3px;
-                                            padding-left: 3px;
-                                            border-radius: 4px;
-                                            &:not(:only-child){
-                                                display: none;
-                                            }
-                                        }
-                                        &>*{
-                                            background: var(--brand-experiment);
-                                        }
-                                        .botTagVerified-1klIIt {
-                                            border-radius: 50%;
-                                            margin-right: 5px;
-                                        }
-                                    }
                                     .membersGroup-v9BXpm{
                                         position: relative;
                                         background-color: var(--secondary-background);
@@ -929,6 +909,26 @@ html {
         background: var(--main-color) !important;
         &:active {
             opacity: .9;
+        }
+    }
+    // Bot tags
+    .botTag-2WPJ74{
+        padding-right: 0;
+        background: transparent;
+        .botText-1526X_{
+            padding-right: 3px;
+            padding-left: 3px;
+            border-radius: 4px;
+            &:not(:only-child){
+                display: none;
+            }
+        }
+        &>*{
+            background: var(--brand-experiment);
+        }
+        .botTagVerified-1klIIt {
+            border-radius: 50%;
+            margin-right: 5px;
         }
     }
     // popouts
