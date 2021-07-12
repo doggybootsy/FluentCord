@@ -9,18 +9,15 @@
 @import url('https://doggybootsy.github.io/FluentCord/source.css');
 
 html {
-    --primary-background:#2e3136;
-    --secondary-background:#2d3035;
-    --secondary-background-alt:#2a2b2f;
-    --background-tertiary:#383d43;
-    --border:#202022;
-    --border2:#4f5257;
-
+    --primary-background: #2e3136;
+    --secondary-background: #2d3035;
+    --secondary-background-alt: #2a2b2f;
+    --background-tertiary2: #383d43;
+    --border: #202022;
+    --border2: #4f5257;
     --main-color: #7289DA;
-    
-    --sideopacity: .95;
-
+    --guilds_opacity: 0.95;
+    --channel_opacity: 0.95;
     /* DONT TOUCH */
-
     --version-1-0-0: none;
-}
+  }
