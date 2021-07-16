@@ -10,7 +10,7 @@ Powercord:
 `cd powercord/src/powercord/themes && git clone https://github.com/doggybootsy/FluentCord`
 
 Betterdiscord: 
-go [here](https://github.com/doggybootsy/FluentCord/Fluentcord.theme.css) and `ctrl`+`s` 
+go [here](https://betterdiscord.app/Download?id=369)
 
 # Previews
 
