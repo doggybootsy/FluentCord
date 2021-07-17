@@ -1,0 +1,21 @@
+.membersWrap-2h-GB4{
+    background-color: var(--secondary-background);
+    .members-1998pB{
+        &::-webkit-scrollbar{
+            display: none;
+        }
+        .membersGroup-v9BXpm{
+            position: relative;
+            background-color: var(--secondary-background);
+            &::after{
+                content: '';
+                left: 10px;
+                width: 220px;
+                height: 1px;
+                position: absolute;
+                top: 10px;
+                background: var(--border2);
+            }
+        }
+    }
+}

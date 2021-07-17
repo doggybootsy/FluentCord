@@ -1,0 +1,20 @@
+.sidebar-2K8pFh {
+    position: relative;
+    @import './privatechannels.scss';
+    @import './channels.scss';
+    @import './discover.scss';
+    @import './panel.scss';
+    @import './category.scss';
+    background: transparent;
+    &::after{
+        content: '';
+        background: var(--primary-background);
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        position: absolute;
+        z-index: -1;
+        opacity: var(--channel_opacity);
+    }
+}

@@ -1,0 +1,20 @@
+.chat-3bRxxu {
+    border-left: var(--border) 2px solid;
+    .content-yTz4x3{
+        background: var(--primary-background);
+        &::before{
+            display: none;
+        }
+    }
+    .chatContent-a9vAAp{
+        border-right: var(--border) 2px solid;
+        .wrapper-3vR61M, .wrapper-1F5TKx {
+            background: var(--primary-background) !important;
+        }
+    }
+    @import './form/import.scss';
+    @import './search/import.scss';
+    @import './messages/import.scss';
+    @import './jump\ to\ present.scss';
+}
+@import './toolbar/import.scss';

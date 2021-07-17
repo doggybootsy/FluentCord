@@ -1,0 +1,31 @@
+.container-3w7J-x {
+    background: transparent;
+    .scroller-RmtA4e{
+        &::-webkit-scrollbar {
+            display: none;
+        }
+    }
+    .containerDefault--pIXnN{
+        .content-1x5b-n{
+            margin-left: 0;
+            margin-right: 17px;
+            border-radius: 0;
+            border-left: transparent 2px solid;
+        }
+        .list-2luk8a {
+            padding-left: 8px;
+            padding-right: 16px;
+        }
+        &.selected-3LIHYU,&:hover {
+            .content-1x5b-n{
+                border-left: var(--main-color) 2px solid;
+                .icon-1DeIlz{
+                    color: var(--main-color);
+                }
+            }
+        }
+        .unread-2lAfLh{
+            display: none;
+        }
+    }
+}

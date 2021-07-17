@@ -1,0 +1,23 @@
+.layer-3QrUeG{
+    &:last-child:not(:first-child) {
+        width: calc(100vw - 72px);
+        margin-left: 72px;
+        .standardSidebarView-3F1I7i{
+            background: transparent;
+            @import './bd.scss';
+            @import './content.scss';
+            @import './pc.scss';
+            @import './sidebar.scss';
+        }
+    }
+    &.animating-rRxada *, &.animating-rRxada{
+        pointer-events: auto !important;
+        will-change: unset;
+        &.stop-animations{
+            z-index: 100 !important;
+        }
+        &.baseLayer-35bLyl.animating-rRxada:first-child {
+            z-index: 130;
+        }
+    }
+}

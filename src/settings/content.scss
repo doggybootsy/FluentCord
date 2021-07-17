@@ -1,0 +1,13 @@
+.contentRegionScroller-26nc1e {
+    background: var(--primary-background);
+    border-left: var(--border) 2px solid;
+    .item-26Dhrx, .connection-1fbD7X, .powercord-entities-manage-tabs,.guild-Hq0WWA, .paymentPane-3bwJ6A {
+        border: 2px solid var(--border);
+    }
+    .banner-2QYc2d.bannerPremium-2hSAwz{
+        height: 240px;
+        &+.userInfo-iCloHO>.avatar-1uQSZT{
+            top: 200px;
+        }
+    }
+}

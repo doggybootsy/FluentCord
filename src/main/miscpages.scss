@@ -1,0 +1,54 @@
+.libraryHeader-3g95kE~.scrollerBase-289Jih, .stickyHeader-1pqx0j, .headerBar-1YYOfi~.scrollerBase-289Jih{
+    background: var(--primary-background);
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
+.peopleList-3c4jOR::-webkit-scrollbar{
+    display: none;
+}
+.applicationStore-1pNvnv{
+    background: var(--primary-background);
+    border-left: var(--border) 2px solid;
+}
+.pageWrapper-1PgVDX>.scroller-1d5FgU{
+    background: var(--primary-background);
+    .footer-2jdoRS{
+        padding-bottom: 20px;
+    }
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
+.pageContent-1xgXch{
+    .stageSection-3mAD8V{
+        background: var(--primary-background);
+    }
+    .nowPlayingSidebar-2OFn0o{
+        background-color: var(--secondary-background);
+        .container-lRFx4q{
+            background-color: var(--secondary-background);
+            .scroller-2ZPeAD{
+                border-left: 2px solid var(--border);
+            }
+        }
+    }
+}
+.container-1D34oG, .container-1a3EgQ, .container-3Mxszk {
+    border-left: var(--border) 2px solid;
+}
+.tabBody-3YRQ8W{
+    background: var(--primary-background);
+    &::before{
+        display: none;
+    }
+    .nowPlayingColumn-2sl4cE{
+        background-color: var(--secondary-background);
+        .container-lRFx4q{
+            background-color: var(--secondary-background);
+            .scroller-2ZPeAD{
+                border-left: 2px solid var(--border);
+            }
+        }
+    }
+}

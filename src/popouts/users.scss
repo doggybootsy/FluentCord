@@ -1,0 +1,58 @@
+.userPopout-xaxa6l{
+    .avatar-37jOim {
+        border: 6px solid #1c1c1d;
+        background-color: #1c1c1d;
+        &>*{
+            transform: translateX(1px);
+        }
+        &+* {
+            transform: translateX(1px);
+        }
+    }
+    .note-1oo11U ~ div>.colorStandard-2KCXvj{
+        font-size: .85em;
+    }
+    .avatarWrapper-3r9PdD {
+        left: 100px;
+    }
+    .profileBadges-ohc0Vu {
+        max-width: 92px;
+    }
+    .headerTag-3GFl76 {
+        width: fit-content;
+        margin: auto;
+    }
+    .customStatus-oN4ZZY,.nickname-3M3Jfa {
+        width: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .role-2irmRk {
+        position: relative;
+        border-radius: 6px;
+        .roleCircle-3xAZ1j {
+            position: absolute;
+            content: '';
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            width: unset;
+            height: unset;
+            margin: 0;
+            border-radius: 5px;
+            z-index: 0;
+            opacity: .4;
+            &:not(:empty):hover {
+                z-index: 2;
+                opacity: 1;
+                cursor: pointer;
+            }
+            &+div {
+                z-index: 1;
+                margin: 0;
+            }
+        }
+    }
+}

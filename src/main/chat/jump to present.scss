@@ -1,0 +1,15 @@
+.jumpToPresentBar-G1R9s6{
+    visibility: hidden;
+    bottom:15px;
+    .barButtonIcon-3t4V3d{
+        border: var(--border) 2px solid;
+        visibility: visible;
+        padding:2px;
+        background-color: var(--background-tertiary2);
+        border-radius: 50%;
+        transform: scale(1.7);
+        &:hover,&:focus{
+            opacity: .4;
+        }
+    }
+}

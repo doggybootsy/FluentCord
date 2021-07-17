@@ -1,0 +1,10 @@
+.buttons-3JBrkn{
+    &::before {
+        top:    8px;
+        bottom: 8px;
+        position: absolute;
+        content: '';
+        width: 1px;
+        background: var(--border2);
+    }
+}

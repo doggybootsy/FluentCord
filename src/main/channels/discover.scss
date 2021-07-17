@@ -1,0 +1,26 @@
+.categoryItem-1QIroW {
+    margin: 0;
+    border-radius: 0;
+    height: 34px;
+    &>div {
+        background: transparent;
+        width: 223px;
+        border-left: 2px solid transparent;
+        height: 32px;
+        margin-top: 1px;
+        padding: 0;
+        .avatar-3uk_u9>svg {
+            transform: scale(.8);
+        }
+    }
+    &.selectedCategoryItem-FHKU_o, &:hover {
+        &>div {
+            background: var(--background-modifier-selected);
+            border-radius: 0;
+            border-left: 2px solid var(--main-color);
+            .avatar-3uk_u9>svg {
+                color: var(--main-color);
+            }
+        }
+    }
+}

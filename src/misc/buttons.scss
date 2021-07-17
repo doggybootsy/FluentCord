@@ -1,0 +1,9 @@
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+    background: var(--main-color) !important;
+    &:hover {
+        opacity: .9;
+        &:active {
+            opacity: .8;
+        }
+    }
+}

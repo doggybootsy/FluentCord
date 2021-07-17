@@ -1,0 +1,15 @@
+.systemMessage-1I9LCe{
+    &>div{
+        width: fit-content;
+        margin: auto;
+        &>.markup-2BOw-j.messageContent-2qWWxC:not(:empty) {
+            background: var(--background-tertiary2);
+            margin-left: 0;
+            padding-left: 0;
+            width: fit-content;
+            padding: 4px 8px;
+            border-radius: 4px;
+            display: inline-block;
+        }
+    }
+}

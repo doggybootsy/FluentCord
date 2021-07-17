@@ -1,0 +1,26 @@
+.messagesWrapper-1sRNjr {
+    margin-bottom: 10px;
+    .scroller-2LSbBU {
+        &::-webkit-scrollbar {
+            display: none;
+        }
+        @import './mention.scss';
+        @import './regular.scss';
+        @import './system.scss';
+        .embedFull-2tM8-- {
+            background: var(--secondary-background-alt);
+        }
+        .wrapper-2aW0bm {
+            background: transparent;
+            box-shadow: unset;
+            &>div{
+                margin-left: 8px;
+                box-shadow: var(--elevation-stroke);
+                border-radius: 16px;
+                background: var(--secondary-background-alt);
+                border: none;
+                height: 24px;
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+.containerDefault-3tr_sE {
+    &::after{
+        content: '';
+        left: 0;
+        width: 223px;
+        height: 1px;
+        position: absolute;
+        top: 10px;
+        background: var(--border2);
+    }
+}
