@@ -24,17 +24,6 @@ html {
         background: transparent !important;
         #app-mount {
             background: transparent !important;
-            &::before {
-                content: '';
-                width: calc(100vw - 310px);
-                background: var(--primary-background);
-                height: 100vh;
-                position: fixed;
-                left: 310px;
-                right: 0;
-                top: 0;
-                bottom: 0;
-            }
             .app-2rEoOp {
                 background: transparent !important;
                 .bg-h5JY_x{

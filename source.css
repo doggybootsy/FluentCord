@@ -1079,17 +1079,6 @@ html body {
 html body #app-mount {
   background: transparent !important;
 }
-html body #app-mount::before {
-  content: "";
-  width: calc(100vw - 310px);
-  background: var(--primary-background);
-  height: 100vh;
-  position: fixed;
-  left: 310px;
-  right: 0;
-  top: 0;
-  bottom: 0;
-}
 html body #app-mount .app-2rEoOp {
   background: transparent !important;
 }
