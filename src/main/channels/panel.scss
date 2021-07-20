@@ -33,7 +33,10 @@
             border-radius: 4px 4px 0 0;
             top: 8px;
             &::after {
-                content: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><path fill="rgb(185,187,190)" d="M39 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S42.309 30 39 30zM9 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S12.309 30 9 30zM24 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S27.309 30 24 30z"></path></svg>') !important;
+                content: '' !important;
+                -webkit-mask-image: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><path fill="rgb(185,187,190)" d="M39 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S42.309 30 39 30zM9 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S12.309 30 9 30zM24 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S27.309 30 24 30z"></path></svg>');
+                -webkit-mask-repeat: no-repeat;
+                background: var(--interactive-normal);
                 width:  26px;
                 height: 26px;
                 padding: 3px;

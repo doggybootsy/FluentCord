@@ -1,9 +1,5 @@
 [aria-label='Pinned Messages'], [aria-label='已标注消息'], [aria-label='已釘選的訊息'], [aria-label='Připnuté zprávy'], [aria-label='Fastgjorte beskeder'], [aria-label='Vastgepinde berichten'], [aria-label='Messages épinglés'], [aria-label='Angepinnte Nachrichten'], [aria-label='Καρφιτσωμένα μηνύματα'], [aria-label='Kitűzött üzenetek'], [aria-label='Messaggi attaccati'], [aria-label='ピン留めされたメッセージ'], [aria-label='고정된 메시지'], [aria-label='Przypięte wiadomości'], [aria-label='Mensagens fixadas'], [aria-label='Закреплённые сообщения'], [aria-label='Mensajes fijados'], [aria-label='Fästa meddelanden'], [aria-label='Sabitlenmiş Mesajlar'], [aria-label='Закачени съобщения'], [aria-label='Закріплені повідомлення'], [aria-label='Kiinnitetyt viestit'], [aria-label='Festede meldinger'], [aria-label='Prikvačene poruke'], [aria-label='Mesaje fixate'], [aria-label='Prisegtos Žinutės'], [aria-label='ข้อความที่ปักหมุด'], [aria-label='Tin Nhắn Đã Được Ghim'], [aria-label='पिन किए गए मैसेज']{
     display: flex;
-    path {
-        d: path("M10.059 2.445a1.5 1.5 0 0 0-2.386.354l-2.02 3.79l-2.811.937a.5.5 0 0 0-.196.828L4.793 10.5l-2.647 2.647L2 14l.854-.146L5.5 11.207l2.146 2.147a.5.5 0 0 0 .828-.196l.937-2.81l3.779-2.024a1.5 1.5 0 0 0 .354-2.38L10.06 2.444zm-1.504.824a.5.5 0 0 1 .796-.118l3.485 3.498a.5.5 0 0 1-.118.794L8.764 9.559a.5.5 0 0 0-.238.283l-.744 2.233l-3.856-3.856l2.232-.744a.5.5 0 0 0 .283-.24L8.555 3.27z");
-        transform: scale(1.5);
-    }
     .iconBadge-qZ4Ksk{
         position: absolute;
         left: 14px;
@@ -16,4 +12,8 @@
         position: relative;
         padding: 0 4px;
     }
+}
+path[d="M22 12L12.101 2.10101L10.686 3.51401L12.101 4.92901L7.15096 9.87801V9.88001L5.73596 8.46501L4.32196 9.88001L8.56496 14.122L2.90796 19.778L4.32196 21.192L9.97896 15.536L14.222 19.778L15.636 18.364L14.222 16.95L19.171 12H19.172L20.586 13.414L22 12Z"] {
+    d: path("M10.059 2.445a1.5 1.5 0 0 0-2.386.354l-2.02 3.79l-2.811.937a.5.5 0 0 0-.196.828L4.793 10.5l-2.647 2.647L2 14l.854-.146L5.5 11.207l2.146 2.147a.5.5 0 0 0 .828-.196l.937-2.81l3.779-2.024a1.5 1.5 0 0 0 .354-2.38L10.06 2.444zm-1.504.824a.5.5 0 0 1 .796-.118l3.485 3.498a.5.5 0 0 1-.118.794L8.764 9.559a.5.5 0 0 0-.238.283l-.744 2.233l-3.856-3.856l2.232-.744a.5.5 0 0 0 .283-.24L8.555 3.27z");
+    transform: scale(1.5);
 }
