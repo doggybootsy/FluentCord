@@ -1,13 +1,13 @@
 @-moz-document domain("discord.com") {
     /* ==UserStyle==
-    @name           Fluentcord
+    @name           FluentCord
     @namespace      https://github.com/doggybootsy/Fluentcord
     @version        1.0.0
     @description    A theme based on Fluentcord
     @author         Doggybootsy#1333
     ==/UserStyle== */
 
-    @import url('https://doggybootsy.github.io/Fluentcord/dist/compiled.css');
+    @import url('https://doggybootsy.github.io/FluentCord/dist/compiled.css');
 
 :root{
     --primary-background: #2e3136;

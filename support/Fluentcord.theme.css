@@ -1,5 +1,5 @@
 /**
- * @name Fluentcord
+ * @name FluentCord
  * @author  Doggybootsy#1333 
  * @version 1.0.0 
  * @description A theme based on Fluentcord 
@@ -7,7 +7,7 @@
  * @website https://doggybootsy.github.io/
  */
 
-@import url('https://doggybootsy.github.io/Fluentcord/dist/compiled.css');
+@import url('https://doggybootsy.github.io/FluentCord/dist/compiled.css');
 
 :root{
     --primary-background: #2e3136;
