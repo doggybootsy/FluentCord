@@ -1,14 +1,20 @@
 const manifest = require('./manifest');
 const fs = require('fs');
-
+function VersionWarning(spr) {
+	if (manifest.Has_Version_warning === true) {
+		return `	${spr}/* Do not touch */\n	${spr}--version-${manifest.version.replaceAll('.', '-')}: none;`
+	} else {
+		return ''
+	}
+}
 function Root(spr) {
 	if (manifest.root && spr != undefined) {
 		const vars = Object.keys(manifest.root).map(e => `${spr}    --${e}: ${manifest.root[e]};`).join(`\n`);
-		return `${spr}:root{\n${vars}\n${spr}}`
+		return `${spr}:root{\n${vars}${VersionWarning('') == '' ? '' : `\n`}${VersionWarning(spr)}\n${spr}}`
 	} else {
 		if (manifest.root) {
             const vars = Object.keys(manifest.root).map(e => `    --${e}: ${manifest.root[e]};`).join(`\n`);
-            return `:root{\n${vars}\n}`
+            return `:root{\n${vars}${VersionWarning('') == '' ? '' : `\n`}${VersionWarning('')}\n}`
         }
         else {return ''}
 	}

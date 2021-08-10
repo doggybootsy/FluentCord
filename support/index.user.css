@@ -18,6 +18,7 @@
 	    --main-color: #7289DA;
 	    --guilds_opacity: .95;
 	    --channel_opacity: .95;
-	    --version-1-0-0: none;
+		/* Do not touch */
+		--version-1-0-0: none;
 	}
 }

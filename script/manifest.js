@@ -15,6 +15,7 @@ module.exports = {
     tags: [
         "Fluent", "Transparent", "Dark"
     ],
+    Has_Version_warning: true,
     root: {
         "primary-background": "#2e3136",
         "secondary-background": "#2d3035",
@@ -23,7 +24,6 @@ module.exports = {
         "border2": "#4f5257",
         "main-color": "#7289DA",
         "guilds_opacity": ".95",
-        "channel_opacity": ".95",
-        "version-1-0-0": "none"
+        "channel_opacity": ".95"
     }
 };
