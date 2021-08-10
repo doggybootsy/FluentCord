@@ -1,0 +1,24 @@
+{
+  "name": "fluentcord",
+  "version": "1.0.0",
+  "description": "A theme based on Fluentcord",
+  "main": "./script/index.js",
+  "scripts": {
+    "test": "sass --watch ./src/index.scss:./dist/compiled.css --style compressed",
+    "manifest": "node .",
+    "build": "sass ./src/index.scss:./dist/compiled.css --style compressed && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doggybootsy/FluentCord.git"
+  },
+  "keywords": [
+    "Fluentcord"
+  ],
+  "author": "Doggybootsy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doggybootsy/FluentCord/issues"
+  },
+  "homepage": "https://github.com/doggybootsy/FluentCord#readme"
+}

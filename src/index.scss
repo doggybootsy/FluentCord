@@ -1,6 +1,10 @@
-@import "https://nyri4.github.io/Discolored/main.css";
-
-@import './src/import.scss';
+@import './os/import.scss',
+        './popouts/import.scss',
+        './main/import.scss',
+        './i18n.sass',
+        './misc/import.scss',
+        './settings/import.scss',
+        url("https://nyri4.github.io/Discolored/main.css");
 
 html {
     --primary-background:#2e3136;

@@ -2,6 +2,15 @@
     &:last-child:not(:first-child) {
         width: calc(100vw - 72px);
         margin-left: 72px;
+        &::before {
+            content: '';
+            position: fixed;
+            left: 292px;
+            top: 0;
+            right: 102px;
+            height: 32px;
+            -webkit-app-region: drag;
+        }
         .standardSidebarView-3F1I7i{
             background: transparent;
             @import './bd.scss';
@@ -13,12 +22,6 @@
     &.animating-rRxada *, &.animating-rRxada{
         pointer-events: auto !important;
         will-change: unset;
-        &.stop-animations{
-            z-index: 100 !important;
-        }
-        &.baseLayer-35bLyl.animating-rRxada:first-child {
-            z-index: 130;
-        }
     }
     &:not(:only-child) .base-3dtUhz{
         display: none;
