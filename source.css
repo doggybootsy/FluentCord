@@ -1,12 +1,1 @@
-body::before {
-  content: "I changed my repository to a new format,redownload the theme";
-  position: fixed;
-  z-index: 1000000000;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%,-50%);
-  font-size: 3rem;
-  pointer-events: none;
-  text-align: center;
-  color: var(--text-normal);
-}
+@import url('https://doggybootsy.github.io/FluentCord/dist/compiled.css');
