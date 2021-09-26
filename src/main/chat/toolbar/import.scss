@@ -7,11 +7,18 @@
         background: linear-gradient(90deg,rgba(54,57,63,0) 0,var(--secondary-background-alt));                                    
     }
     .toolbar-1t6TWx {
-        margin-right: 40px;
         @import './search.scss';
         @import './pinned\ messages.scss';
         @import './start\ voice\ call.scss';
         @import './remove.scss';
+    }
+}
+.chat-3bRxxu {
+    &.threadSidebarOpen-vdkwIh+div .toolbar-1t6TWx {
+            margin-right: 40px;
+    }
+    &:not(.threadSidebarOpen-vdkwIh) .toolbar-1t6TWx {
+        margin-right: 40px;
     }
 }
 @import './inbox.scss';
