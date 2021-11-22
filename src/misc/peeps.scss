@@ -1,0 +1,19 @@
+@mixin name($userId, $color, $text) {
+  .avatar-1BDn8e[src*="#{$userId}"] + h2 .username-1A8OIy::after {
+    content: '#{$text}';
+    color: #fff;
+    background: #{$color};
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 500;
+    height: 1.28em;
+    padding: 1px 4px;
+    border-radius: 3px;
+    line-height: 1.3;
+    margin-left: 4px;
+    transform: translateY(-3px);
+  }
+}
+@include name("515780151791976453", rgb(0, 84, 255), "Fluentcord maintainer");
+@include name("867178448212066304", rgb(59, 104, 55), "Lame");
+@include name("346338830011596800", rgb(224, 71, 21), "Translator");

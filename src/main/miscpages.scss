@@ -11,6 +11,20 @@
     background: var(--primary-background);
     border-left: var(--border) 2px solid;
 }
+#app-mount .vz-dashboard {
+    background-color: var(--primary-background);
+    border-left: var(--border) 2px solid;
+    .vz-dashboard-home .vz-wave-divider {
+        color: var(--primary-background);
+    }
+    .vz-dashboard-home-features-icon-wrapper.vz-icon-wrapper {
+        border: 20px solid var(--primary-background);
+    }
+    .vz-dashboard-home-features-card:hover .vz-dashboard-home-features-icon-wrapper,
+    .vz-dashboard-settings-search-outer-wrapper {
+        background-color: var(--primary-background);
+    }
+}
 .pageWrapper-1PgVDX>.scroller-1d5FgU{
     background: var(--primary-background);
     .footer-2jdoRS{

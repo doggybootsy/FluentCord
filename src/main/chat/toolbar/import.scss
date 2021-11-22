@@ -15,10 +15,13 @@
 }
 .chat-3bRxxu {
     &.threadSidebarOpen-vdkwIh+div .toolbar-1t6TWx {
-            margin-right: 40px;
+        margin-right: 40px;
     }
     &:not(.threadSidebarOpen-vdkwIh) .toolbar-1t6TWx {
         margin-right: 40px;
     }
+}
+.container-1D34oG .toolbar-1t6TWx {
+    margin-right: 40px;
 }
 @import './inbox.scss';

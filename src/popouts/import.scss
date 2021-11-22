@@ -1,6 +1,4 @@
 .layerContainer-yqaFcK{
-    width: calc(100vw - 72px);
-    margin-left: 72px;
     visibility: hidden;
     &>* {
         visibility: visible;
@@ -8,5 +6,4 @@
     @import './users.scss';
     @import './modals.scss';
     @import './perks.scss';
-    @import './menus.scss';
 }

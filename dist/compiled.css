@@ -1,1 +1,1217 @@
-﻿@import"https://nyri4.github.io/Discolored/main.css";.platform-osx .wrapper-3NnKdC{margin-top:0;padding-top:32px}.platform-osx .unreadMentionsIndicatorTop-2-tcdU{top:32px}.platform-win .wordmarkWindows-1v0lYD{display:none}.platform-win .toolbar-1t6TWx:last-child,.platform-win .toolbar-1t6TWx:nth-last-child(2){margin-right:120px !important}.platform-win .sidebar-2K8pFh{border-radius:0}.platform-win .typeWindows-1za-n7{position:fixed;top:15px;right:8px;margin:0;-webkit-app-region:none}.platform-win .typeWindows-1za-n7 .winButton-iRh8-Z{height:26px}.platform-win .avatarWrapper-2yR4wp{right:88px !important}.platform-win .panels-j1Uci_>.container-3baos1>.flex-1xMQg5{right:96px !important;-webkit-app-region:none}.platform-win .title-3qD0b-{-webkit-app-region:drag}.platform-win .title-3qD0b- *{-webkit-app-region:none}.layerContainer-yqaFcK{width:calc(100vw - 72px);margin-left:72px;visibility:hidden}.layerContainer-yqaFcK>*{visibility:visible}.layerContainer-yqaFcK .userPopout-xaxa6l .avatar-37jOim{border:6px solid #1c1c1d;background-color:#1c1c1d}.layerContainer-yqaFcK .userPopout-xaxa6l .avatar-37jOim>*{transform:translateX(1px)}.layerContainer-yqaFcK .userPopout-xaxa6l .avatar-37jOim+*{transform:translateX(1px)}.layerContainer-yqaFcK .userPopout-xaxa6l .note-1oo11U~div>.colorStandard-2KCXvj{font-size:.85em}.layerContainer-yqaFcK .userPopout-xaxa6l .avatarWrapper-3r9PdD{left:100px}.layerContainer-yqaFcK .userPopout-xaxa6l .profileBadges-ohc0Vu{max-width:92px}.layerContainer-yqaFcK .userPopout-xaxa6l .headerTag-3GFl76,.layerContainer-yqaFcK .userPopout-xaxa6l .colorLink-2vG20E{width:fit-content;margin:auto}.layerContainer-yqaFcK .userPopout-xaxa6l .customStatus-oN4ZZY,.layerContainer-yqaFcK .userPopout-xaxa6l .nickname-3M3Jfa{width:fit-content;margin-left:auto;margin-right:auto;text-align:center}.layerContainer-yqaFcK .userPopout-xaxa6l .role-2irmRk{position:relative;border-radius:6px}.layerContainer-yqaFcK .userPopout-xaxa6l .role-2irmRk .roleCircle-3xAZ1j{position:absolute;content:"";top:0;left:0;right:0;bottom:0;width:unset;height:unset;margin:0;border-radius:5px;z-index:0;opacity:.4}.layerContainer-yqaFcK .userPopout-xaxa6l .role-2irmRk .roleCircle-3xAZ1j:not(:empty):hover{z-index:2;opacity:1;cursor:pointer}.layerContainer-yqaFcK .userPopout-xaxa6l .role-2irmRk .roleCircle-3xAZ1j+div{z-index:1;margin:0}.layerContainer-yqaFcK .focusLock-Ns3yie .avatar-AvHqJA{border:8px solid #1c1c1d;background-color:#1c1c1d;left:220px}.layerContainer-yqaFcK .focusLock-Ns3yie .body-r6_QPy,.layerContainer-yqaFcK .focusLock-Ns3yie .topSection-y3p-_D{background-color:#1c1c1d}.layerContainer-yqaFcK .focusLock-Ns3yie .modal-3O0aXp{background:var(--primary-background)}.layerContainer-yqaFcK .perksModal-fSYqOq{background:var(--primary-background)}.layerContainer-yqaFcK .perksModal-fSYqOq::-webkit-scrollbar{display:none}.layerContainer-yqaFcK .menu-3sdvDG [id=message-actions-pin] path{d:path("M 18.490234 3.9882812 A 1.50015 1.50015 0 0 0 17.685547 4.2402344 C 11.858859 8.0105649 7.3440265 12.509956 4.2128906 17.728516 A 1.5006126 1.5006126 0 1 0 6.7871094 19.271484 C 7.0116514 18.897248 7.2968064 18.552264 7.5371094 18.185547 C 8.3297502 19.01346 13.716739 24.640715 16.066406 27.095703 C 16.169734 27.203716 16.216708 27.337956 16.195312 27.511719 L 16.197266 27.511719 C 16.067101 28.563422 16.004391 29.674443 16 30.492188 C 15.98569 33.39309 16.750905 36.045436 18.097656 38.269531 C 19.283005 40.226735 22.058785 40.513481 23.658203 38.914062 L 30.226562 32.347656 L 40.439453 42.560547 A 1.50015 1.50015 0 1 0 42.560547 40.439453 L 32.347656 30.226562 L 38.914062 23.658203 C 40.513481 22.058785 40.226735 19.283005 38.269531 18.097656 C 36.045391 16.751554 33.394252 15.986053 30.494141 16 L 30.492188 16 C 29.637805 16.0038 28.599773 16.121762 27.611328 16.275391 C 27.439998 16.301921 27.287467 16.251531 27.175781 16.144531 L 18.257812 7.6054688 C 18.644754 7.3393819 18.913153 7.0194385 19.314453 6.7597656 A 1.50015 1.50015 0 0 0 18.490234 3.9882812 z M 15.892578 9.4960938 L 25.101562 18.310547 C 25.895878 19.071545 27.001644 19.405706 28.070312 19.240234 A 1.50015 1.50015 0 0 0 28.070312 19.238281 C 28.958606 19.100212 29.943143 19.002381 30.505859 19 A 1.50015 1.50015 0 0 0 30.507812 19 C 32.876913 18.98831 34.9575 19.600476 36.714844 20.664062 C 37.02964 20.854713 37.071546 21.258528 36.792969 21.537109 L 21.537109 36.792969 C 21.258476 37.071551 20.854714 37.02964 20.664062 36.714844 C 19.600814 34.958939 18.988312 32.876911 19 30.507812 C 19.0036 29.835556 19.06195 28.785156 19.173828 27.880859 A 1.50015 1.50015 0 0 0 19.173828 27.878906 C 19.300433 26.850669 18.969047 25.789471 18.234375 25.021484 C 15.769681 22.446314 9.5747171 15.976099 9.2890625 15.677734 C 11.075322 13.425416 13.43404 11.438384 15.892578 9.4960938 z");transform:scale(0.5)}.layerContainer-yqaFcK .menu-3sdvDG .submenuContainer-2gbm7M .layer-v9HyYc{transform:translate(70px)}.chat-3bRxxu{border-left:var(--border) 2px solid}.chat-3bRxxu .content-yTz4x3{background:var(--primary-background)}.chat-3bRxxu .content-yTz4x3::before{display:none}.chat-3bRxxu+div::after{content:"";background:var(--primary-background);top:0;left:-10px;right:0;bottom:0;position:absolute;z-index:-1;opacity:var(--channel_opacity)}.chat-3bRxxu:not(.threadSidebarOpen-vdkwIh) .chatContent-a9vAAp{border-right:var(--border) 2px solid}.chat-3bRxxu .wrapper-3vR61M,.chat-3bRxxu .wrapper-1F5TKx{background:var(--primary-background) !important}.chat-3bRxxu .form-2fGMdU{padding-top:10px;border-top:var(--border2) 2px solid}.chat-3bRxxu .form-2fGMdU::before{background:-webkit-gradient(linear, left top, left bottom, from(rgba(54, 57, 63, 0)), to(var(--primary-background))) !important}.chat-3bRxxu .form-2fGMdU .hasConnectedBar-1MrFne{border-radius:8px}.chat-3bRxxu .form-2fGMdU .stickerButton-3OEgwj,.chat-3bRxxu .form-2fGMdU [aria-label="Send a gift"],.chat-3bRxxu .form-2fGMdU [aria-label=发送礼物],.chat-3bRxxu .form-2fGMdU [aria-label=發送禮物],.chat-3bRxxu .form-2fGMdU [aria-label="Odeslat dárek"],.chat-3bRxxu .form-2fGMdU [aria-label="Send en gave"],.chat-3bRxxu .form-2fGMdU [aria-label="Verstuur een cadeau"],.chat-3bRxxu .form-2fGMdU [aria-label="Envoyer un cadeau"],.chat-3bRxxu .form-2fGMdU [aria-label="Ein Geschenk senden"],.chat-3bRxxu .form-2fGMdU [aria-label="Στείλτε ένα δώρο"],.chat-3bRxxu .form-2fGMdU [aria-label="Ajándék küldése"],.chat-3bRxxu .form-2fGMdU [aria-label="Invia un regalo"],.chat-3bRxxu .form-2fGMdU [aria-label=ギフトを贈る],.chat-3bRxxu .form-2fGMdU [aria-label="선물 보내기"],.chat-3bRxxu .form-2fGMdU [aria-label="Wyślij prezent"],.chat-3bRxxu .form-2fGMdU [aria-label="Enviar um presente"],.chat-3bRxxu .form-2fGMdU [aria-label="Отправить подарок"],.chat-3bRxxu .form-2fGMdU [aria-label="Enviar un regalo"],.chat-3bRxxu .form-2fGMdU [aria-label="Skicka en gåva"],.chat-3bRxxu .form-2fGMdU [aria-label="Bir hediye gönder"],.chat-3bRxxu .form-2fGMdU [aria-label="Изпрати подарък"],.chat-3bRxxu .form-2fGMdU [aria-label="Надіслати подарунок"],.chat-3bRxxu .form-2fGMdU [aria-label="Lähetä lahja"],.chat-3bRxxu .form-2fGMdU [aria-label="Pošalji poklon"],.chat-3bRxxu .form-2fGMdU [aria-label="Trimite un cadou"],.chat-3bRxxu .form-2fGMdU [aria-label="Siųsti dovaną"],.chat-3bRxxu .form-2fGMdU [aria-label=ส่งของขวัญ],.chat-3bRxxu .form-2fGMdU [aria-label="Tặng một món quà"],.chat-3bRxxu .form-2fGMdU [aria-label="गिफ्ट भेजें"]{display:none}.chat-3bRxxu .form-2fGMdU .attachedBars-tZDmyV{position:absolute;top:0;transform:translateY(-150%);border-radius:8px !important;border:var(--border) 2px solid}.chat-3bRxxu .form-2fGMdU .attachedBars-tZDmyV .replyBar-1YLQ2F{border-radius:8px !important}.chat-3bRxxu [d="M2 2C0.895431 2 0 2.89543 0 4V20C0 21.1046 0.89543 22 2 22H22C23.1046 22 24 21.1046 24 20V4C24 2.89543 23.1046 2 22 2H2ZM9.76445 11.448V15.48C8.90045 16.044 7.88045 16.356 6.74045 16.356C4.11245 16.356 2.66045 14.628 2.66045 12.072C2.66045 9.504 4.23245 7.764 6.78845 7.764C7.80845 7.764 8.66045 8.004 9.32045 8.376L9.04445 10.164C8.42045 9.768 7.68845 9.456 6.83645 9.456C5.40845 9.456 4.71245 10.512 4.71245 12.06C4.71245 13.62 5.43245 14.712 6.86045 14.712C7.31645 14.712 7.64045 14.616 7.97645 14.448V12.972H6.42845V11.448H9.76445ZM11.5481 7.92H13.6001V16.2H11.5481V7.92ZM20.4724 7.92V9.636H17.5564V11.328H19.8604V13.044H17.5564V16.2H15.5164V7.92H20.4724Z"]{d:path("M5.052 6.706c.481-.05.853.037.986.103a.5.5 0 1 0 .447-.894c-.351-.176-.928-.267-1.537-.203c-.96.1-1.948.934-1.948 2.297c0 1.385 1.054 2.3 2.3 2.3c.58 0 1.1-.272 1.397-.553c.262-.248.303-.577.303-.783v-.964a.5.5 0 0 0-.5-.5h-.807a.5.5 0 1 0 0 1H6v.464a.427.427 0 0 1-.006.071a1.126 1.126 0 0 1-.694.265c-.731 0-1.3-.505-1.3-1.3c0-.818.567-1.252 1.052-1.303zM9 6.21a.5.5 0 0 0-1 0v3.6a.5.5 0 1 0 1 0v-3.6zm1.5-.5a.5.5 0 0 0-.5.5v3.6a.5.5 0 0 0 1 0V8.506l1.003-.006a.5.5 0 0 0-.006-1L11 7.506v-.797h1.5a.5.5 0 0 0 0-1h-2zM3.5 2A2.5 2.5 0 0 0 1 4.5v7A2.5 2.5 0 0 0 3.5 14h9a2.5 2.5 0 0 0 2.5-2.5v-7A2.5 2.5 0 0 0 12.5 2h-9zM2 4.5A1.5 1.5 0 0 1 3.5 3h9A1.5 1.5 0 0 1 14 4.5v7a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 11.5v-7z");transform:scale(1.6)}.chat-3bRxxu .emojiButton-3uL3Aw{width:36px}.chat-3bRxxu .emojiButton-3uL3Aw .contents-18-Yxp{top:0;bottom:0;right:0;left:0;position:absolute;background:var(--interactive-normal);content:"";-webkit-mask-image:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30" height="30" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="none"><path d="M6.25 7.75a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5z" fill="currentColor"></path><path d="M6.136 9.667a.5.5 0 1 0-.745.667A3.493 3.493 0 0 0 8 11.5a3.493 3.493 0 0 0 2.609-1.166a.5.5 0 0 0-.745-.667A2.492 2.492 0 0 1 8 10.5c-.74 0-1.405-.321-1.864-.833z" fill="currentColor"></path><path d="M10.5 7A.75.75 0 1 1 9 7a.75.75 0 0 1 1.5 0z" fill="currentColor"></path><path d="M14 8A6 6 0 1 0 2 8a6 6 0 0 0 12 0zM3 8a5 5 0 1 1 10 0A5 5 0 0 1 3 8z" fill="currentColor"></path></g></svg>');-webkit-mask-position:3px 8px;-webkit-mask-repeat:no-repeat}.chat-3bRxxu .emojiButton-3uL3Aw .contents-18-Yxp:hover{background:var(--interactive-hover)}.chat-3bRxxu .emojiButton-3uL3Aw .contents-18-Yxp>div{display:none}.chat-3bRxxu .buttons-3JBrkn::before{top:8px;bottom:8px;position:absolute;content:"";width:1px;background:var(--border2)}.chat-3bRxxu .attachWrapper-2TRKBi{order:1;padding-left:8px}.chat-3bRxxu .attachWrapper-2TRKBi .attachButton-2WznTc{padding-right:0}.chat-3bRxxu .attachWrapper-2TRKBi path{d:path("M 38.1875 6.71875 C 36.261719 6.8125 34.34375 7.648438 32.84375 9.09375 C 32.8125 9.125 32.78125 9.15625 32.75 9.1875 C 32.746094 9.191406 32.722656 9.183594 32.71875 9.1875 C 32.675781 9.238281 32.632813 9.289063 32.59375 9.34375 C 32.550781 9.394531 32.507813 9.445313 32.46875 9.5 L 13.65625 28.40625 C 13.613281 28.457031 13.570313 28.507813 13.53125 28.5625 C 11.761719 30.480469 11.796875 33.515625 13.65625 35.375 C 15.5625 37.285156 18.75 37.285156 20.65625 35.375 C 20.75 35.28125 20.832031 35.175781 20.90625 35.0625 C 20.996094 34.996094 21.078125 34.921875 21.15625 34.84375 L 35.25 20.9375 C 35.878906 20.34375 36.054688 19.410156 35.683594 18.628906 C 35.3125 17.847656 34.484375 17.390625 33.625 17.5 C 33.171875 17.558594 32.753906 17.765625 32.4375 18.09375 L 18.34375 32 C 18.285156 32.070313 18.234375 32.140625 18.1875 32.21875 C 18.167969 32.230469 18.144531 32.238281 18.125 32.25 C 18.113281 32.269531 18.105469 32.292969 18.09375 32.3125 C 17.992188 32.375 17.898438 32.449219 17.8125 32.53125 C 17.433594 32.910156 16.878906 32.914063 16.5 32.53125 C 16.121094 32.152344 16.117188 31.601563 16.5 31.21875 L 35.59375 12.03125 C 35.636719 11.980469 35.679688 11.929688 35.71875 11.875 C 37.363281 10.359375 39.558594 10.371094 40.78125 11.59375 C 40.867188 11.675781 40.960938 11.75 41.0625 11.8125 C 41.074219 11.824219 41.082031 11.832031 41.09375 11.84375 C 41.152344 11.921875 41.214844 11.996094 41.28125 12.0625 C 42.425781 13.207031 42.234375 15.621094 40.625 17.3125 C 40.59375 17.34375 40.5625 17.375 40.53125 17.40625 L 19.84375 38.625 C 19.777344 38.671875 19.714844 38.726563 19.65625 38.78125 C 16.972656 41.464844 12.351563 41.789063 9.78125 39.21875 C 7.261719 36.699219 7.523438 32.140625 10.09375 29.4375 C 10.136719 29.398438 10.179688 29.355469 10.21875 29.3125 L 27.25 12.46875 C 27.878906 11.875 28.054688 10.941406 27.683594 10.160156 C 27.3125 9.378906 26.484375 8.921875 25.625 9.03125 C 25.171875 9.089844 24.753906 9.296875 24.4375 9.625 L 7.5 26.375 C 7.46875 26.40625 7.4375 26.4375 7.40625 26.46875 C 7.363281 26.519531 7.320313 26.570313 7.28125 26.625 C 3.234375 30.820313 2.683594 37.78125 6.9375 42.03125 C 11.160156 46.253906 18.082031 45.804688 22.28125 41.8125 C 22.324219 41.78125 22.367188 41.75 22.40625 41.71875 C 22.417969 41.707031 22.425781 41.699219 22.4375 41.6875 C 22.457031 41.667969 22.480469 41.644531 22.5 41.625 C 22.5 41.613281 22.5 41.605469 22.5 41.59375 L 22.625 41.46875 C 22.667969 41.417969 22.710938 41.367188 22.75 41.3125 L 43.40625 20.21875 C 43.554688 20.082031 43.679688 19.925781 43.78125 19.75 C 46.417969 16.734375 46.992188 12.148438 44.09375 9.25 C 44.042969 9.207031 43.992188 9.164063 43.9375 9.125 C 43.847656 8.988281 43.742188 8.863281 43.625 8.75 C 42.148438 7.273438 40.160156 6.621094 38.1875 6.71875 Z");transform:scale(0.5) translate(-12px, -12px)}.chat-3bRxxu .container-NdaZbY{position:sticky;bottom:0;z-index:1;background-color:var(--secondary-background)}.chat-3bRxxu .searchResultsWrap-3-pOjs{z-index:0;background-color:var(--secondary-background)}.chat-3bRxxu .messagesWrapper-1sRNjr{margin-bottom:10px}.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU::-webkit-scrollbar{display:none}.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU .mentioned-xhSam7{background:transparent}.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU .mentioned-xhSam7::before{background:var(--main-color)}.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU .mentioned-xhSam7::after{content:"";top:0;left:0;right:0;bottom:0;position:absolute;background:var(--main-color);opacity:.2;z-index:-1}.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU .message-2qnXI6:not(.systemMessage-1I9LCe)>div:not(.repliedTextPreview-2NBljf)>.markup-2BOw-j.messageContent-2qWWxC:not(:empty){background:var(--background-tertiary2);margin-left:0;padding-left:0;width:fit-content;padding:8px;border-radius:0 4px 4px 0;display:inline-block}.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU .message-2qnXI6:not(.systemMessage-1I9LCe)>div:not(.repliedTextPreview-2NBljf)>.markup-2BOw-j.messageContent-2qWWxC:not(:empty) blockquote,.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU .message-2qnXI6:not(.systemMessage-1I9LCe)>div:not(.repliedTextPreview-2NBljf)>.markup-2BOw-j.messageContent-2qWWxC:not(:empty) pre{max-width:100%}.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU .systemMessage-1I9LCe>div{width:fit-content;margin:auto}.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU .systemMessage-1I9LCe>div>.markup-2BOw-j.messageContent-2qWWxC:not(:empty){background:var(--background-tertiary2);margin-left:0;padding-left:0;width:fit-content;padding:4px 8px;border-radius:4px;display:inline-block}.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU .systemMessage-1I9LCe .welcomeCTAButtonOuter-2VwxSF{margin:auto}.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU .embedFull-2tM8--{background:var(--secondary-background-alt)}.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU .wrapper-2aW0bm{background:transparent;box-shadow:unset}.chat-3bRxxu .messagesWrapper-1sRNjr .scroller-2LSbBU .wrapper-2aW0bm>div{margin-left:8px;box-shadow:var(--elevation-stroke);border-radius:16px;background:var(--secondary-background-alt);border:none;height:24px}.chat-3bRxxu .jumpToPresentBar-G1R9s6{visibility:hidden;bottom:15px}.chat-3bRxxu .jumpToPresentBar-G1R9s6 .barButtonIcon-3t4V3d{border:var(--border) 2px solid;visibility:visible;padding:2px;background-color:var(--background-tertiary2);border-radius:50%;transform:scale(1.7)}.chat-3bRxxu .jumpToPresentBar-G1R9s6 .barButtonIcon-3t4V3d:hover,.chat-3bRxxu .jumpToPresentBar-G1R9s6 .barButtonIcon-3t4V3d:focus{opacity:.4}.container-1r6BKw.themed-ANHk51{background:var(--secondary-background-alt);z-index:0;border-bottom:var(--border) 2px solid;height:50px}.container-1r6BKw.themed-ANHk51 .children-19S4PO::after{background:linear-gradient(90deg, rgba(54, 57, 63, 0) 0, var(--secondary-background-alt))}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv-{order:1}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- .iconContainer-O4O2CN{bottom:4px}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- .iconContainer-O4O2CN .icon-3cZ1F_{transition:all .6s ease}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- .search-2oPWTC:not(.open-6_Y_aH) .searchBar-3dMhjb{width:28px;transition:all .6s ease-in-out;background:none}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- .search-2oPWTC:not(.open-6_Y_aH) .searchBar-3dMhjb .icon-3cZ1F_{color:var(--interactive-normal);height:23px;width:23px;transform:translateX(-3px)}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- .search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb{width:240px;background:var(--primary-background);transition:all .6s ease-in-out}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- .search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb .icon-3cZ1F_{height:16px;width:16px;top:4px}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Pinned Messages"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=已标注消息],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=已釘選的訊息],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Připnuté zprávy"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Fastgjorte beskeder"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Vastgepinde berichten"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Messages épinglés"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Angepinnte Nachrichten"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Καρφιτσωμένα μηνύματα"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Kitűzött üzenetek"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Messaggi attaccati"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=ピン留めされたメッセージ],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="고정된 메시지"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Przypięte wiadomości"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mensagens fixadas"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закреплённые сообщения"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mensajes fijados"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Fästa meddelanden"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Sabitlenmiş Mesajlar"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закачени съобщения"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закріплені повідомлення"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Kiinnitetyt viestit"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Festede meldinger"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Prikvačene poruke"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mesaje fixate"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Prisegtos Žinutės"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=ข้อความที่ปักหมุด],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Tin Nhắn Đã Được Ghim"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="पिन किए गए मैसेज"]{display:flex}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Pinned Messages"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=已标注消息] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=已釘選的訊息] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Připnuté zprávy"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Fastgjorte beskeder"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Vastgepinde berichten"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Messages épinglés"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Angepinnte Nachrichten"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Καρφιτσωμένα μηνύματα"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Kitűzött üzenetek"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Messaggi attaccati"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=ピン留めされたメッセージ] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="고정된 메시지"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Przypięte wiadomości"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mensagens fixadas"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закреплённые сообщения"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mensajes fijados"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Fästa meddelanden"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Sabitlenmiş Mesajlar"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закачени съобщения"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закріплені повідомлення"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Kiinnitetyt viestit"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Festede meldinger"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Prikvačene poruke"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mesaje fixate"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Prisegtos Žinutės"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=ข้อความที่ปักหมุด] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Tin Nhắn Đã Được Ghim"] .iconBadge-qZ4Ksk,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="पिन किए गए मैसेज"] .iconBadge-qZ4Ksk{position:absolute;left:14px}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Pinned Messages"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=已标注消息]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=已釘選的訊息]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Připnuté zprávy"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Fastgjorte beskeder"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Vastgepinde berichten"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Messages épinglés"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Angepinnte Nachrichten"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Καρφιτσωμένα μηνύματα"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Kitűzött üzenetek"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Messaggi attaccati"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=ピン留めされたメッセージ]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="고정된 메시지"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Przypięte wiadomości"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mensagens fixadas"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закреплённые сообщения"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mensajes fijados"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Fästa meddelanden"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Sabitlenmiş Mesajlar"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закачени съобщения"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закріплені повідомлення"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Kiinnitetyt viestit"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Festede meldinger"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Prikvačene poruke"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mesaje fixate"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Prisegtos Žinutės"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=ข้อความที่ปักหมุด]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Tin Nhắn Đã Được Ghim"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="पिन किए गए मैसेज"]::after{content:var(--pins-text);height:50%;transform:translateY(-75%);top:50%;position:relative;padding:0 4px}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx path[d="M22 12L12.101 2.10101L10.686 3.51401L12.101 4.92901L7.15096 9.87801V9.88001L5.73596 8.46501L4.32196 9.88001L8.56496 14.122L2.90796 19.778L4.32196 21.192L9.97896 15.536L14.222 19.778L15.636 18.364L14.222 16.95L19.171 12H19.172L20.586 13.414L22 12Z"]{d:path("M10.059 2.445a1.5 1.5 0 0 0-2.386.354l-2.02 3.79l-2.811.937a.5.5 0 0 0-.196.828L4.793 10.5l-2.647 2.647L2 14l.854-.146L5.5 11.207l2.146 2.147a.5.5 0 0 0 .828-.196l.937-2.81l3.779-2.024a1.5 1.5 0 0 0 .354-2.38L10.06 2.444zm-1.504.824a.5.5 0 0 1 .796-.118l3.485 3.498a.5.5 0 0 1-.118.794L8.764 9.559a.5.5 0 0 0-.238.283l-.744 2.233l-3.856-3.856l2.232-.744a.5.5 0 0 0 .283-.24L8.555 3.27z");transform:scale(1.5)}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start Voice Call"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=开始语音通话],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=開始語音通話],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Zahájit hlasový hovor"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start taleopkald"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Spraakoproep starten"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Démarrer un appel vocal"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Sprachanruf starten"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Έναρξη φωνητικής κλήσης"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Hanghívás indítása"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Avvia la chiamata vocale"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=音声通話を開始],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="음성 통화 시작하기"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Rozpocznij połączenie głosowe"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Iniciar chamada de voz"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Начать голосовой звонок"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Iniciar llamada de voz"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Påbörja röstsamtal"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Sesli Arama Başlat"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Започни гласово обаждане"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Почати голосовий виклик"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Aloita äänipuhelu"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start et taleanrop"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Započni glasovni poziv"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Începe un apel vocal"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Pradėti skambutį"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=เริ่มการโทรด้วยเสียง],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Bắt Đầu Cuộc Gọi Thoại"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="वॉयस कॉल को स्टार्ट करें"]{display:flex}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start Voice Call"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=开始语音通话] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=開始語音通話] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Zahájit hlasový hovor"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start taleopkald"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Spraakoproep starten"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Démarrer un appel vocal"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Sprachanruf starten"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Έναρξη φωνητικής κλήσης"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Hanghívás indítása"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Avvia la chiamata vocale"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=音声通話を開始] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="음성 통화 시작하기"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Rozpocznij połączenie głosowe"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Iniciar chamada de voz"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Начать голосовой звонок"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Iniciar llamada de voz"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Påbörja röstsamtal"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Sesli Arama Başlat"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Започни гласово обаждане"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Почати голосовий виклик"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Aloita äänipuhelu"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start et taleanrop"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Započni glasovni poziv"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Începe un apel vocal"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Pradėti skambutį"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=เริ่มการโทรด้วยเสียง] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Bắt Đầu Cuộc Gọi Thoại"] path,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="वॉयस कॉल को स्टार्ट करें"] path{d:path("M 27.216797 6.1015625 C 27.084935 6.1013567 26.952471 6.1110209 26.820312 6.1289062 C 26.29168 6.2004472 25.770296 6.4185563 25.339844 6.8007812 A 1.50015 1.50015 0 0 0 25.339844 6.8027344 L 16.117188 15 L 9.5 15 C 7.0324991 15 5 17.032499 5 19.5 L 5 28.5 C 5 30.967501 7.0324991 33 9.5 33 L 16.117188 33 L 25.339844 41.197266 C 26.200649 41.96254 27.421458 42.075139 28.345703 41.660156 C 29.269948 41.245173 30 40.257378 30 39.105469 L 30 8.8945312 C 30 7.7430679 29.271967 6.7549754 28.347656 6.3398438 C 28.00104 6.1841693 27.612384 6.10218 27.216797 6.1015625 z M 27 9.3398438 L 27 38.660156 L 17.683594 30.378906 A 1.50015 1.50015 0 0 0 16.6875 30 L 9.5 30 C 8.6535009 30 8 29.346499 8 28.5 L 8 19.5 C 8 18.653501 8.6535009 18 9.5 18 L 16.6875 18 A 1.50015 1.50015 0 0 0 17.683594 17.621094 L 27 9.3398438 z M 38.755859 11.980469 A 1.50015 1.50015 0 0 0 37.429688 14.193359 C 40.888956 20.818098 40.888956 27.181902 37.429688 33.806641 A 1.50015 1.50015 0 1 0 40.089844 35.193359 C 43.930574 27.838098 43.930574 20.161902 40.089844 12.806641 A 1.50015 1.50015 0 0 0 38.755859 11.980469 z M 34.171875 16.996094 A 1.50015 1.50015 0 0 0 32.880859 19.138672 C 34.397398 22.45712 34.395303 25.559819 32.873047 28.878906 A 1.50015 1.50015 0 1 0 35.599609 30.130859 C 37.437342 26.123947 37.440802 21.898177 35.609375 17.890625 A 1.50015 1.50015 0 0 0 34.171875 16.996094 z");transform:scale(0.5)}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start Voice Call"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=开始语音通话]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=開始語音通話]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Zahájit hlasový hovor"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start taleopkald"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Spraakoproep starten"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Démarrer un appel vocal"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Sprachanruf starten"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Έναρξη φωνητικής κλήσης"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Hanghívás indítása"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Avvia la chiamata vocale"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=音声通話を開始]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="음성 통화 시작하기"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Rozpocznij połączenie głosowe"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Iniciar chamada de voz"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Начать голосовой звонок"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Iniciar llamada de voz"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Påbörja röstsamtal"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Sesli Arama Başlat"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Започни гласово обаждане"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Почати голосовий виклик"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Aloita äänipuhelu"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start et taleanrop"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Započni glasovni poziv"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Începe un apel vocal"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Pradėti skambutį"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=เริ่มการโทรด้วยเสียง]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Bắt Đầu Cuộc Gọi Thoại"]::after,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="वॉयस कॉल को स्टार्ट करें"]::after{content:var(--audio-text);height:50%;transform:translateY(-75%);top:50%;position:relative}.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx a,.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Mute channel "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="静音频道 "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="靜音頻道 "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Ztlumit kanál "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Gør kanal stum "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Kanaal  dempen"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Rendre le salon  muet"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Kanal  stummschalten"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Σίγαση καναλιού "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^=" csatorna némítása"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Silenzia canale "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^=チャンネルをミュートする],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^=" 채널 알림 끄기"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Wycisz kanał "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Silenciar canal "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Заглушить канал "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Tysta kanal "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^=" kanalını sustur"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Заглушаване на канал "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Заглушити канал "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Mykistä kanava "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Demp kanal "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Utišaj kanal "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Amuțește canalul "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Nutildyti kanalą "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="ปิดการแจ้งเตือนช่อง "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Tắt âm kênh "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="चैनल म्यूट करें "],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Member List"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=成员名单],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=成員名單],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Seznam členů"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=Medlemsliste],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=Ledenlijst],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Liste des membres"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=Mitgliederliste],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Λίστα μελών"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Tagok listája"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Lista dei membri"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=メンバーリスト],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="멤버 목록"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Lista członków"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Lista de membros"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Список участников"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Lista de miembros"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=Medlemslista],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Üye Listesi"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Списък с членове"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Список учасників"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=Jäsenluettelo],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Popis članova"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Lista membrilor"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Narių Sąrašas"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=รายชื่อสมาชิก],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Danh sách thành viên"],.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="मेम्बर लिस्ट"]{display:none}.chat-3bRxxu.threadSidebarOpen-vdkwIh+div .toolbar-1t6TWx{margin-right:40px}.chat-3bRxxu:not(.threadSidebarOpen-vdkwIh) .toolbar-1t6TWx{margin-right:40px}[aria-label=Inbox],[aria-label=收件箱],[aria-label=收件匣],[aria-label=Příchozí],[aria-label=Indbakke],[aria-label="Boîte de réception"],[aria-label=Posteingang],[aria-label=Εισερχόμενα],[aria-label="Bejövő üzenetek"],[aria-label="Messaggi ricevuti"],[aria-label=受信ボックス],[aria-label="받은 편지함"],[aria-label="Skrzynka odbiorcza"],[aria-label="Caixa de Entrada"],[aria-label=Почта],[aria-label="Bandeja de entrada"],[aria-label=Inkorg],[aria-label="Gelen Kutusu"],[aria-label="Входяща поща"],[aria-label=Вхідні],[aria-label=Saapuneet],[aria-label=Innboks],[aria-label="Ulazna pošta"],[aria-label="Gautos žinutės"],[aria-label=กล่องขาเข้า],[aria-label="Hộp thư đến"],[aria-label=इनबॉक्स]{display:flex}[aria-label=Inbox]::after,[aria-label=收件箱]::after,[aria-label=收件匣]::after,[aria-label=Příchozí]::after,[aria-label=Indbakke]::after,[aria-label="Boîte de réception"]::after,[aria-label=Posteingang]::after,[aria-label=Εισερχόμενα]::after,[aria-label="Bejövő üzenetek"]::after,[aria-label="Messaggi ricevuti"]::after,[aria-label=受信ボックス]::after,[aria-label="받은 편지함"]::after,[aria-label="Skrzynka odbiorcza"]::after,[aria-label="Caixa de Entrada"]::after,[aria-label=Почта]::after,[aria-label="Bandeja de entrada"]::after,[aria-label=Inkorg]::after,[aria-label="Gelen Kutusu"]::after,[aria-label="Входяща поща"]::after,[aria-label=Вхідні]::after,[aria-label=Saapuneet]::after,[aria-label=Innboks]::after,[aria-label="Ulazna pošta"]::after,[aria-label="Gautos žinutės"]::after,[aria-label=กล่องขาเข้า]::after,[aria-label="Hộp thư đến"]::after,[aria-label=इनबॉक्स]::after{content:var(--inbox-text);height:50%;transform:translateY(-75%);top:50%;position:relative}path[d="M19 3H4.99C3.88 3 3.01 3.89 3.01 5L3 19C3 20.1 3.88 21 4.99 21H19C20.1 21 21 20.1 21 19V5C21 3.89 20.1 3 19 3ZM19 15H15C15 16.66 13.65 18 12 18C10.35 18 9 16.66 9 15H4.99V5H19V15Z"]{d:path("M 12 2 C 6.486 2 2 6.486 2 12 C 2 17.515 6.486 22 12 22 C 14.039 22 15.993 21.398 17.652 20.259 L 16.521 18.611 C 15.195 19.519 13.633 20 12 20 C 7.589 20 4 16.411 4 12 C 4 7.589 7.589 4 12 4 C 16.411 4 20 7.589 20 12 V 12.782 C 20 14.17 19.402 15 18.4 15 L 18.398 15.018 C 18.338 15.005 18.273 15 18.209 15 H 18 C 17.437 15 16.6 14.182 16.6 13.631 V 12 C 16.6 9.464 14.537 7.4 12 7.4 C 9.463 7.4 7.4 9.463 7.4 12 C 7.4 14.537 9.463 16.6 12 16.6 C 13.234 16.6 14.35 16.106 15.177 15.313 C 15.826 16.269 16.93 17 18 17 L 18.002 16.981 C 18.064 16.994 18.129 17 18.195 17 H 18.4 C 20.552 17 22 15.306 22 12.782 V 12 C 22 6.486 17.514 2 12 2 Z M 12 14.599 C 10.566 14.599 9.4 13.433 9.4 11.999 C 9.4 10.565 10.566 9.399 12 9.399 C 13.434 9.399 14.6 10.565 14.6 11.999 C 14.6 13.433 13.434 14.599 12 14.599 Z")}.membersWrap-2h-GB4{background-color:var(--secondary-background)}.membersWrap-2h-GB4 .members-1998pB::-webkit-scrollbar{display:none}.membersWrap-2h-GB4 .members-1998pB .membersGroup-v9BXpm{position:relative;background-color:var(--secondary-background)}.membersWrap-2h-GB4 .members-1998pB .membersGroup-v9BXpm::after{content:"";left:10px;width:220px;height:1px;position:absolute;top:10px;background:var(--border2)}.wrapper-3NnKdC{background:transparent}.wrapper-3NnKdC::after{content:"";background:var(--primary-background);top:0;left:0;right:0;bottom:0;position:absolute;z-index:-1;opacity:var(--guilds_opacity)}.wrapper-3NnKdC .tree-2wKJdG:focus{outline:none}.wrapper-3NnKdC .unreadMentionsIndicatorBottom-2mDYbI{margin-bottom:130px}.wrapper-3NnKdC .scroller-1Bvpku{background:transparent;margin-bottom:140px;contain:unset}.wrapper-3NnKdC .scroller-1Bvpku::after{content:"";left:11px;width:50px;height:1px;position:fixed;bottom:130px;background:var(--border2)}.wrapper-3NnKdC .scroller-1Bvpku .listItem-GuPuDH .numberBadge-2s8kKX{background-color:var(--main-color) !important}.wrapper-3NnKdC .scroller-1Bvpku .listItem-GuPuDH .item-2hkk8m{width:2px;margin:0 4px;border-radius:10px}.wrapper-3NnKdC .scroller-1Bvpku .listItem-GuPuDH .item-2hkk8m[style*="height: 40px;"],.wrapper-3NnKdC .scroller-1Bvpku .listItem-GuPuDH .item-2hkk8m[style*="height: 39px;"],.wrapper-3NnKdC .scroller-1Bvpku .listItem-GuPuDH .item-2hkk8m[style*="height: 38px;"],.wrapper-3NnKdC .scroller-1Bvpku .listItem-GuPuDH .item-2hkk8m[style*="height: 37px;"]{background:var(--main-color)}.wrapper-3NnKdC .scroller-1Bvpku .listItem-GuPuDH foreignObject{mask:none;border-radius:50%}.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp{position:fixed;bottom:64px}.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp .circleIconButton-1QV--U{background:transparent !important}.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp .circleIconButton-1QV--U path{fill:hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%) !important;transform:scale(1.5) translate(-15%, -15%)}.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp .item-2hkk8m{width:2px;margin:4px;border-radius:10px}.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp .item-2hkk8m[style*="height: 40px;"],.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp .item-2hkk8m[style*="height: 39px;"],.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp .item-2hkk8m[style*="height: 38px;"],.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp .item-2hkk8m[style*="height: 37px;"]{background:hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%)}.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp+div{position:fixed;bottom:8px}.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp+div .circleIconButton-1QV--U{background:transparent !important}.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp+div .circleIconButton-1QV--U path{fill:hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%) !important;transform:scale(1.5) translate(-15%, -15%);d:path("M6,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM12,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM6,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM6,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM12,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM16,6c0,1.1 0.9,2 2,2s2,-0.9 2,-2 -0.9,-2 -2,-2 -2,0.9 -2,2zM12,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM18,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM18,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2z")}.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp+div .item-2hkk8m{width:2px;margin:4px;border-radius:10px}.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp+div .item-2hkk8m[style*="height: 40px;"],.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp+div .item-2hkk8m[style*="height: 39px;"],.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp+div .item-2hkk8m[style*="height: 38px;"],.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-30WoTp+div .item-2hkk8m[style*="height: 37px;"]{background:hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%)}.sidebar-2K8pFh{position:relative;background:transparent}.sidebar-2K8pFh .privateChannels-1nO12o{background:transparent}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels{background:transparent;margin-right:10px}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels::-webkit-scrollbar{display:none}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .privateChannelsHeaderContainer-3NB1K1{position:relative}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .privateChannelsHeaderContainer-3NB1K1::after{content:"";left:0;width:223px;height:1px;position:absolute;top:10px;background:var(--border2)}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .privateChannelsHeaderContainer-3NB1K1~.channel-2QD9_O{margin:0}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .privateChannelsHeaderContainer-3NB1K1~.channel-2QD9_O .layout-2DM8Md{border-radius:0;border-left:2px solid transparent}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .privateChannelsHeaderContainer-3NB1K1~.channel-2QD9_O.selected-aXhQR6 .layout-2DM8Md,.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .privateChannelsHeaderContainer-3NB1K1~.channel-2QD9_O:hover .layout-2DM8Md{border-radius:0;border-left:2px solid var(--main-color)}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .privateChannelsHeaderContainer-3NB1K1~.channel-2QD9_O.selected-aXhQR6 .layout-2DM8Md .closeIcon-rycxaQ,.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .privateChannelsHeaderContainer-3NB1K1~.channel-2QD9_O:hover .layout-2DM8Md .closeIcon-rycxaQ{color:var(--main-color)}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .content-3YMskv{display:flex;flex-wrap:wrap;align-content:flex-start}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .content-3YMskv a:not([href*="/channels/@me/"]){flex-grow:1;margin-top:8px !important;margin-left:0}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .content-3YMskv a:not([href*="/channels/@me/"]):first-of-type{margin-left:8px !important}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .content-3YMskv a:not([href*="/channels/@me/"]) .layout-2DM8Md{justify-content:center;padding:0 !important}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .content-3YMskv a:not([href*="/channels/@me/"]) .avatar-3uk_u9{margin:0 !important}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .content-3YMskv a:not([href*="/channels/@me/"]) .content-3QAtGj{display:none}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .content-3YMskv a:not([href*="/channels/@me/"]) .children-gzQq2t{position:absolute;transform:translate(4px, 8px);border-radius:100px}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .content-3YMskv a[href*="/channels/@me/"]{width:100%}.sidebar-2K8pFh .privateChannels-1nO12o #private-channels .content-3YMskv h2{width:100%}.sidebar-2K8pFh .container-3w7J-x{background:transparent}.sidebar-2K8pFh .container-3w7J-x .scroller-RmtA4e::-webkit-scrollbar{display:none}.sidebar-2K8pFh .container-3w7J-x .spine--Wla_O+div .name-23GUGE{margin-left:30px}.sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN .content-1x5b-n{margin-left:0;margin-right:17px;border-radius:0;border-left:transparent 2px solid}.sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN .list-2luk8a{padding-left:8px;padding-right:16px}.sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN.selected-3LIHYU .content-1x5b-n,.sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN:hover .content-1x5b-n{border-left:var(--main-color) 2px solid}.sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN.selected-3LIHYU .content-1x5b-n .icon-1DeIlz,.sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN:hover .content-1x5b-n .icon-1DeIlz{color:var(--main-color)}.sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN .unread-2lAfLh{display:none}.sidebar-2K8pFh .categoryItem-1QIroW{margin:0;border-radius:0;height:34px}.sidebar-2K8pFh .categoryItem-1QIroW>div{background:transparent;width:223px;border-left:2px solid transparent;height:32px;margin-top:1px;padding:0}.sidebar-2K8pFh .categoryItem-1QIroW>div .avatar-3uk_u9>svg{transform:scale(0.8)}.sidebar-2K8pFh .categoryItem-1QIroW.selectedCategoryItem-FHKU_o>div,.sidebar-2K8pFh .categoryItem-1QIroW:hover>div{background:var(--background-modifier-selected);border-radius:0;border-left:2px solid var(--main-color)}.sidebar-2K8pFh .categoryItem-1QIroW.selectedCategoryItem-FHKU_o>div .avatar-3uk_u9>svg,.sidebar-2K8pFh .categoryItem-1QIroW:hover>div .avatar-3uk_u9>svg{color:var(--main-color)}.sidebar-2K8pFh .panels-j1Uci_{background:transparent}.sidebar-2K8pFh .panels-j1Uci_>*{position:relative}.sidebar-2K8pFh .panels-j1Uci_>.container-3baos1{height:0;-webkit-app-region:none}.sidebar-2K8pFh .panels-j1Uci_>.container-3baos1:hover .flex-1xMQg5 *,.sidebar-2K8pFh .panels-j1Uci_>.container-3baos1:hover .avatarWrapper-2yR4wp{display:unset !important}.sidebar-2K8pFh .panels-j1Uci_>.container-3baos1 .avatarWrapper-2yR4wp{position:fixed;right:0;z-index:1;display:none;top:136px}.sidebar-2K8pFh .panels-j1Uci_>.container-3baos1 .avatarWrapper-2yR4wp foreignObject{mask:none;border-radius:0 0 4px 4px}.sidebar-2K8pFh .panels-j1Uci_>.container-3baos1 .canCopy-2VBT7N{display:none}.sidebar-2K8pFh .panels-j1Uci_>.container-3baos1 .flex-1xMQg5{position:fixed;right:8px;flex-direction:column-reverse;background:var(--secondary-background-alt);border-radius:4px 4px 0 0;top:8px}.sidebar-2K8pFh .panels-j1Uci_>.container-3baos1 .flex-1xMQg5::after{content:"" !important;-webkit-mask-image:url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><path fill="rgb(185,187,190)" d="M39 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S42.309 30 39 30zM9 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S12.309 30 9 30zM24 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S27.309 30 24 30z"></path></svg>');-webkit-mask-repeat:no-repeat;background:var(--interactive-normal);width:26px;height:26px;padding:3px}.sidebar-2K8pFh .panels-j1Uci_>.container-3baos1 .flex-1xMQg5 *{display:none}.sidebar-2K8pFh .containerDefault-3tr_sE::after{content:"";left:0;width:223px;height:1px;position:absolute;top:10px;background:var(--border2)}.sidebar-2K8pFh::after{content:"";background:var(--primary-background);top:0;left:0;right:0;bottom:0;position:absolute;z-index:-1;opacity:var(--channel_opacity)}.libraryHeader-3g95kE~.scrollerBase-289Jih,.stickyHeader-1pqx0j,.headerBar-1YYOfi~.scrollerBase-289Jih{background:var(--primary-background)}.libraryHeader-3g95kE~.scrollerBase-289Jih::-webkit-scrollbar,.stickyHeader-1pqx0j::-webkit-scrollbar,.headerBar-1YYOfi~.scrollerBase-289Jih::-webkit-scrollbar{display:none}.peopleList-3c4jOR::-webkit-scrollbar{display:none}.applicationStore-1pNvnv{background:var(--primary-background);border-left:var(--border) 2px solid}.pageWrapper-1PgVDX>.scroller-1d5FgU{background:var(--primary-background)}.pageWrapper-1PgVDX>.scroller-1d5FgU .footer-2jdoRS{padding-bottom:20px}.pageWrapper-1PgVDX>.scroller-1d5FgU::-webkit-scrollbar{display:none}.pageContent-1xgXch .stageSection-3mAD8V{background:var(--primary-background)}.pageContent-1xgXch .nowPlayingSidebar-2OFn0o{background-color:var(--secondary-background)}.pageContent-1xgXch .nowPlayingSidebar-2OFn0o .container-lRFx4q{background-color:var(--secondary-background)}.pageContent-1xgXch .nowPlayingSidebar-2OFn0o .container-lRFx4q .scroller-2ZPeAD{border-left:2px solid var(--border)}.container-1D34oG,.container-1a3EgQ,.container-3Mxszk{border-left:var(--border) 2px solid}.tabBody-3YRQ8W{background:var(--primary-background)}.tabBody-3YRQ8W::before{display:none}.tabBody-3YRQ8W .nowPlayingColumn-2sl4cE{background-color:var(--secondary-background)}.tabBody-3YRQ8W .nowPlayingColumn-2sl4cE .container-lRFx4q{background-color:var(--secondary-background)}.tabBody-3YRQ8W .nowPlayingColumn-2sl4cE .container-lRFx4q .scroller-2ZPeAD{border-left:2px solid var(--border)}html[lang^=da]{--pins-text: "Pins";--inbox-text: "Indbakke";--video-text: "Video";--audio-text: "Lyd"}html[lang^=de]{--pins-text: "Stecknadeln";--inbox-text: "Posteingang";--video-text: "Video";--audio-text: "Audio"}html[lang^=en]{--pins-text: "Pins";--inbox-text: "Inbox";--video-text: "Video";--audio-text: "Audio"}html[lang^=es]{--pins-text: "Patas";--inbox-text: "Bandeja de entrada";--video-text: "Video";--audio-text: "Audio"}html[lang^=fr]{--pins-text: "Épingles";--inbox-text: "Boîte de réception";--video-text: "Vidéo";--audio-text: "l'audio"}html[lang^=hr]{--pins-text: "Igle";--inbox-text: "Pristigla pošta";--video-text: "Video";--audio-text: "Audio"}html[lang^=it]{--pins-text: "Messaggi attaccati";--inbox-text: "Messaggi ricevuti";--video-text: "Video";--audio-text: "Audio"}html[lang^=lt]{--pins-text: "Kaiščiai";--inbox-text: "Pašto dėžutę";--video-text: "Vaizdo įrašas";--audio-text: "Garso įrašas"}html[lang^=hu]{--pins-text: "Csapok";--inbox-text: "Beérkező levelek";--video-text: "Videó";--audio-text: "Hang"}html[lang^=nl]{--pins-text: "Pinnen";--inbox-text: "Postvak IN";--video-text: "Video";--audio-text: "Audio"}html[lang^=no]{--pins-text: "Pins";--inbox-text: "Innboks";--video-text: "Video";--audio-text: "Lyd"}html[lang^=pl]{--pins-text: "Szpilki";--inbox-text: "W pudełku";--video-text: "Wideo";--audio-text: "Audio"}html[lang^=pt]{--pins-text: "Alfinetes";--inbox-text: "Caixa de entrada";--video-text: "Vídeo";--audio-text: "Áudio"}html[lang^=ro]{--pins-text: "Pinii";--inbox-text: "Inbox";--video-text: "Video";--audio-text: "Audio"}html[lang^=fi]{--pins-text: "Nastat";--inbox-text: "Saapuneet";--video-text: "Video";--audio-text: "Audio"}html[lang^=sv]{--pins-text: "Stift";--inbox-text: "Inkorg";--video-text: "Video";--audio-text: "Audio"}html[lang^=vi]{--pins-text: "Ghim";--inbox-text: "Hộp thư đến";--video-text: "Video";--audio-text: "Âm thanh"}html[lang^=tr]{--pins-text: "Pimler";--inbox-text: "Gelen kutusu";--video-text: "Video";--audio-text: "Ses"}html[lang^=cs]{--pins-text: "Špendlíky";--inbox-text: "Doručená pošta";--video-text: "Video";--audio-text: "Zvuk"}html[lang^=el]{--pins-text: "Καρφίτσες";--inbox-text: "Εισερχόμενα";--video-text: "Βίντεο";--audio-text: "Ήχος"}html[lang^=bg]{--pins-text: "Щифтове";--inbox-text: "Входящи";--video-text: "Видео";--audio-text: "Аудио"}html[lang^=ru]{--pins-text: "Булавки";--inbox-text: "Входящие";--video-text: "видео";--audio-text: "Аудио"}html[lang^=uk]{--pins-text: "Шпильки";--inbox-text: "Вхідні";--video-text: "Відео";--audio-text: "Аудіо"}html[lang^=hi]{--pins-text: "पिंस";--inbox-text: "इनबॉक्स";--video-text: "वीडियो";--audio-text: "ऑडियो"}html[lang^=th]{--pins-text: "พิน";--inbox-text: "กล่องจดหมาย";--video-text: "วีดีโอ";--audio-text: "เครื่องเสียง"}html[lang^=zh]{--pins-text: "引脚";--inbox-text: "收件箱";--video-text: "视频";--audio-text: "音频"}html[lang^=ja]{--pins-text: "ピン";--inbox-text: "受信トレイ";--video-text: "ビデオ";--audio-text: "オーディオ"}html[lang^=ko]{--pins-text: "다리";--inbox-text: "받은 편지함";--video-text: "비디오";--audio-text: "오디오"}.botTag-2WPJ74{padding-right:0;background:transparent}.botTag-2WPJ74 .botText-1526X_{padding-right:3px;padding-left:4px;border-radius:4px;background:var(--brand-experiment)}.botTag-2WPJ74 .botText-1526X_:not(:only-child){display:none}.botTag-2WPJ74 .botTagVerified-1klIIt{border-radius:50%;-webkit-mask-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 16 15.2' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m16 7.6c0 .79-1.28 1.38-1.52 2.09s.44 2 0 2.59-1.84.35-2.46.8-.79 1.84-1.54 2.09-1.67-.8-2.47-.8-1.75 1-2.47.8-.92-1.64-1.54-2.09-2-.18-2.46-.8.23-1.84 0-2.59-1.54-1.3-1.54-2.09 1.28-1.38 1.52-2.09-.44-2 0-2.59 1.85-.35 2.48-.8.78-1.84 1.53-2.12 1.67.83 2.47.83 1.75-1 2.47-.8.91 1.64 1.53 2.09 2 .18 2.46.8-.23 1.84 0 2.59 1.54 1.3 1.54 2.09z' fill='white'/%3E%3C/svg%3E%0A");-webkit-mask-repeat:no-repeat;-webkit-mask-size:15px;background:var(--brand-experiment)}[mask="url(#svg-mask-status-idle)"],[mask="url(#svg-mask-status-dnd)"],[mask="url(#svg-mask-status-offline)"],[mask="url(#svg-mask-status-streaming)"]{mask:url(#svg-mask-status-online)}.lookFilled-1Gx00P.colorBrand-3pXr91{background:var(--main-color) !important}.lookFilled-1Gx00P.colorBrand-3pXr91:hover{opacity:.9}.lookFilled-1Gx00P.colorBrand-3pXr91:hover:active{opacity:.8}.mention-1f5kbO{background:var(--main-color) !important}.mention-1f5kbO:active{opacity:.9}.container-3auIfb[style*="67"],.container-3auIfb[style*="68"],.container-3auIfb[style*="69"],.container-3auIfb[style*="70"],.container-3auIfb[style*="71"],.container-3auIfb[style*="72"],.container-3auIfb[style*="73"],.container-3auIfb[style*="74"],.container-3auIfb[style*="75"],.container-3auIfb[style*="76"],.container-3auIfb[style*="77"],.container-3auIfb[style*="78"],.container-3auIfb[style*="79"],.container-3auIfb[style*="80"],.container-3auIfb[style*="81"],.container-3auIfb[style*="82"],.container-3auIfb[style*="83"],.container-3auIfb[style*="84"],.container-3auIfb[style*="85"],.container-3auIfb[style*="86"],.container-3auIfb[style*="87"],.container-3auIfb[style*="88"],.container-3auIfb[style*="89"],.container-3auIfb[style*="90"],.container-3auIfb[style*="91"],.container-3auIfb[style*="92"],.container-3auIfb[style*="93"],.container-3auIfb[style*="94"],.container-3auIfb[style*="95"],.container-3auIfb[style*="96"],.container-3auIfb[style*="97"],.container-3auIfb[style*="98"],.container-3auIfb[style*="99"],.container-3auIfb[style*="100"],.container-3auIfb[style*="101"],.container-3auIfb[style*="102"],.container-3auIfb[style*="103"],.container-3auIfb[style*="104"],.container-3auIfb[style*="105"],.container-3auIfb[style*="106"],.container-3auIfb[style="opacity: 1; background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"]{background:var(--main-color) !important}.container-3auIfb[style*="67"] svg>path,.container-3auIfb[style*="68"] svg>path,.container-3auIfb[style*="69"] svg>path,.container-3auIfb[style*="70"] svg>path,.container-3auIfb[style*="71"] svg>path,.container-3auIfb[style*="72"] svg>path,.container-3auIfb[style*="73"] svg>path,.container-3auIfb[style*="74"] svg>path,.container-3auIfb[style*="75"] svg>path,.container-3auIfb[style*="76"] svg>path,.container-3auIfb[style*="77"] svg>path,.container-3auIfb[style*="78"] svg>path,.container-3auIfb[style*="79"] svg>path,.container-3auIfb[style*="80"] svg>path,.container-3auIfb[style*="81"] svg>path,.container-3auIfb[style*="82"] svg>path,.container-3auIfb[style*="83"] svg>path,.container-3auIfb[style*="84"] svg>path,.container-3auIfb[style*="85"] svg>path,.container-3auIfb[style*="86"] svg>path,.container-3auIfb[style*="87"] svg>path,.container-3auIfb[style*="88"] svg>path,.container-3auIfb[style*="89"] svg>path,.container-3auIfb[style*="90"] svg>path,.container-3auIfb[style*="91"] svg>path,.container-3auIfb[style*="92"] svg>path,.container-3auIfb[style*="93"] svg>path,.container-3auIfb[style*="94"] svg>path,.container-3auIfb[style*="95"] svg>path,.container-3auIfb[style*="96"] svg>path,.container-3auIfb[style*="97"] svg>path,.container-3auIfb[style*="98"] svg>path,.container-3auIfb[style*="99"] svg>path,.container-3auIfb[style*="100"] svg>path,.container-3auIfb[style*="101"] svg>path,.container-3auIfb[style*="102"] svg>path,.container-3auIfb[style*="103"] svg>path,.container-3auIfb[style*="104"] svg>path,.container-3auIfb[style*="105"] svg>path,.container-3auIfb[style*="106"] svg>path,.container-3auIfb[style="opacity: 1; background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"] svg>path{fill:var(--main-color) !important}.standardSidebarView-3F1I7i::after{content:"Fluentcord is outdated. Reinstall from https://github.com/doggybootsy/FluentCord/blob/main/Fluentcord.theme.css";position:absolute;z-index:100;padding:1rem;background:var(--primary-background);color:var(--text-normal);left:220px;max-width:calc(100vw - 292px);display:var(--version-1-0-0, block)}.layer-3QrUeG:last-child:not(:first-child){width:calc(100vw - 72px);margin-left:72px}.layer-3QrUeG:last-child:not(:first-child)::before{content:"";position:fixed;left:292px;top:0;right:102px;height:32px;-webkit-app-region:drag}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i{background:transparent}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .bd-addon-card{border:2px solid var(--border2)}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i #bd-editor-panel{border:2px solid var(--border2)}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e{background:var(--primary-background);border-left:var(--border) 2px solid}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .item-26Dhrx,.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .connection-1fbD7X,.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .powercord-entities-manage-tabs,.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .guild-Hq0WWA,.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .paymentPane-3bwJ6A{border:2px solid var(--border)}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .banner-2QYc2d.bannerPremium-2hSAwz{height:240px}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .banner-2QYc2d.bannerPremium-2hSAwz+.userInfo-iCloHO>.avatar-1uQSZT{top:200px}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .powercord-quickcss{border:var(--border) 2px solid;border-radius:6px}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN{flex:0 0 auto;position:relative}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN::after{content:"";top:0;left:0;right:0;bottom:0;position:absolute;background:var(--primary-background);opacity:var(--channel_opacity);z-index:-1}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP{background:transparent}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP::-webkit-scrollbar{display:none}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .info-1VyQPT .colorMuted-HdFt4q:nth-child(2)::after{content:"\a" "Fluentcord 1.0.0 " var(--version-type, "Stable");white-space:pre}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e{padding-top:10px;padding-bottom:10px;padding-left:10px}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e .item-PXvHYJ{border-radius:0;border-left:2px solid transparent}.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e .item-PXvHYJ:hover,.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e .item-PXvHYJ.selected-3s45Ha{border-left:2px solid var(--main-color)}.layer-3QrUeG.animating-rRxada *,.layer-3QrUeG.animating-rRxada{pointer-events:auto !important;will-change:unset}.layer-3QrUeG:not(:only-child) .base-3dtUhz{display:none}html{--primary-background:#2e3136;--secondary-background:#2d3035;--secondary-background-alt:#2a2b2f;--background-tertiary2:#383d43;--border:#202022;--border2:#4f5257;--main-color: #7289DA;--guilds_opacity: .95;--channel_opacity: .95;--version-1-0-0: none;background:transparent !important;--brand-experiment: var(--main-color)}html body{background:transparent !important}html body #app-mount{background:transparent !important}html body #app-mount .app-2rEoOp{background:transparent !important}html body #app-mount .app-2rEoOp .bg-h5JY_x{background:transparent !important}html body #app-mount .app-2rEoOp .layers-3iHuyZ{background:transparent !important}html body #app-mount .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG{background:transparent;transform:none !important;opacity:1 !important}/*# sourceMappingURL=compiled.css.map */
+@charset "UTF-8";
+@import url("https://nyri4.github.io/Discolored/main.css");
+.platform-osx .wrapper-3NnKdC {
+  margin-top: 0;
+  padding-top: 32px;
+}
+.platform-osx .unreadMentionsIndicatorTop-2-tcdU {
+  top: 32px;
+}
+
+.platform-win .wordmarkWindows-1v0lYD {
+  display: none;
+}
+.platform-win .toolbar-1t6TWx:last-child, .platform-win .toolbar-1t6TWx:nth-last-child(2) {
+  margin-right: 120px !important;
+}
+.platform-win .sidebar-2K8pFh {
+  border-radius: 0;
+}
+.platform-win .typeWindows-1za-n7 {
+  position: fixed;
+  top: 15px;
+  right: 8px;
+  margin: 0;
+  -webkit-app-region: none;
+}
+.platform-win .typeWindows-1za-n7 .winButton-iRh8-Z {
+  height: 26px;
+}
+.platform-win .avatarWrapper-2yR4wp {
+  right: 88px !important;
+}
+.platform-win .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
+  right: 96px !important;
+  -webkit-app-region: none;
+}
+.platform-win .title-3qD0b- {
+  -webkit-app-region: drag;
+}
+.platform-win .title-3qD0b- * {
+  -webkit-app-region: none;
+}
+
+.layerContainer-yqaFcK {
+  visibility: hidden;
+}
+.layerContainer-yqaFcK > * {
+  visibility: visible;
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l {
+  background: #1c1c1d;
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .bodyInnerWrapper-26fQXj, .layerContainer-yqaFcK .userPopout-xaxa6l .footer-3UKYOU {
+  background: #1c1c1d;
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .avatar-37jOim {
+  border: 6px solid #1c1c1d;
+  background-color: #1c1c1d;
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .avatar-37jOim > * {
+  transform: translateX(1px);
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .avatar-37jOim + * {
+  transform: translateX(1px);
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .note-1oo11U ~ div > .colorStandard-2KCXvj {
+  font-size: 0.85em;
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .avatarWrapper-3r9PdD {
+  left: 100px;
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .profileBadges-ohc0Vu {
+  max-width: 92px;
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .headerTag-3GFl76, .layerContainer-yqaFcK .userPopout-xaxa6l .colorLink-2vG20E {
+  width: fit-content;
+  margin: auto;
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .customStatus-oN4ZZY, .layerContainer-yqaFcK .userPopout-xaxa6l .nickname-3M3Jfa {
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .role-2irmRk {
+  position: relative;
+  border-radius: 6px;
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .role-2irmRk .roleCircle-3xAZ1j {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: unset;
+  height: unset;
+  margin: 0;
+  border-radius: 5px;
+  z-index: 0;
+  opacity: 0.4;
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .role-2irmRk .roleCircle-3xAZ1j:not(:empty):hover {
+  z-index: 2;
+  opacity: 1;
+  cursor: pointer;
+}
+.layerContainer-yqaFcK .userPopout-xaxa6l .role-2irmRk .roleCircle-3xAZ1j + div {
+  z-index: 1;
+  margin: 0;
+}
+.layerContainer-yqaFcK .focusLock-Ns3yie .avatar-AvHqJA {
+  border: 8px solid #1c1c1d;
+  background-color: #1c1c1d;
+  left: 220px;
+}
+.layerContainer-yqaFcK .focusLock-Ns3yie .body-r6_QPy, .layerContainer-yqaFcK .focusLock-Ns3yie .topSection-y3p-_D {
+  background-color: #1c1c1d;
+}
+.layerContainer-yqaFcK .focusLock-Ns3yie .modal-3O0aXp {
+  background: var(--primary-background);
+}
+.layerContainer-yqaFcK .perksModal-fSYqOq {
+  background: var(--primary-background);
+}
+.layerContainer-yqaFcK .perksModal-fSYqOq::-webkit-scrollbar {
+  display: none;
+}
+
+.chat-3bRxxu {
+  border-left: var(--border) 2px solid;
+}
+.chat-3bRxxu .content-yTz4x3 {
+  background: var(--primary-background);
+}
+.chat-3bRxxu .content-yTz4x3::before {
+  display: none;
+}
+.chat-3bRxxu + div::after {
+  content: "";
+  background: var(--primary-background);
+  top: 0;
+  left: -10px;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  z-index: -1;
+  opacity: var(--channel_opacity);
+}
+.chat-3bRxxu:not(.threadSidebarOpen-vdkwIh) .chatContent-a9vAAp {
+  border-right: var(--border) 2px solid;
+}
+.chat-3bRxxu .wrapper-3vR61M, .chat-3bRxxu .wrapper-1F5TKx {
+  background: var(--primary-background) !important;
+}
+.chat-3bRxxu .form-2fGMdU {
+  padding-top: 10px;
+  border-top: var(--border2) 2px solid;
+}
+.chat-3bRxxu .form-2fGMdU::before {
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(54, 57, 63, 0)), to(var(--primary-background))) !important;
+}
+.chat-3bRxxu .form-2fGMdU .hasConnectedBar-1MrFne {
+  border-radius: 8px;
+}
+.chat-3bRxxu .form-2fGMdU .stickerButton-3OEgwj,
+.chat-3bRxxu .form-2fGMdU [aria-label="Send a gift"], .chat-3bRxxu .form-2fGMdU [aria-label=发送礼物], .chat-3bRxxu .form-2fGMdU [aria-label=發送禮物], .chat-3bRxxu .form-2fGMdU [aria-label="Odeslat dárek"], .chat-3bRxxu .form-2fGMdU [aria-label="Send en gave"], .chat-3bRxxu .form-2fGMdU [aria-label="Verstuur een cadeau"], .chat-3bRxxu .form-2fGMdU [aria-label="Envoyer un cadeau"], .chat-3bRxxu .form-2fGMdU [aria-label="Ein Geschenk senden"], .chat-3bRxxu .form-2fGMdU [aria-label="Στείλτε ένα δώρο"], .chat-3bRxxu .form-2fGMdU [aria-label="Ajándék küldése"], .chat-3bRxxu .form-2fGMdU [aria-label="Invia un regalo"], .chat-3bRxxu .form-2fGMdU [aria-label=ギフトを贈る], .chat-3bRxxu .form-2fGMdU [aria-label="선물 보내기"], .chat-3bRxxu .form-2fGMdU [aria-label="Wyślij prezent"], .chat-3bRxxu .form-2fGMdU [aria-label="Enviar um presente"], .chat-3bRxxu .form-2fGMdU [aria-label="Отправить подарок"], .chat-3bRxxu .form-2fGMdU [aria-label="Enviar un regalo"], .chat-3bRxxu .form-2fGMdU [aria-label="Skicka en gåva"], .chat-3bRxxu .form-2fGMdU [aria-label="Bir hediye gönder"], .chat-3bRxxu .form-2fGMdU [aria-label="Изпрати подарък"], .chat-3bRxxu .form-2fGMdU [aria-label="Надіслати подарунок"], .chat-3bRxxu .form-2fGMdU [aria-label="Lähetä lahja"], .chat-3bRxxu .form-2fGMdU [aria-label="Pošalji poklon"], .chat-3bRxxu .form-2fGMdU [aria-label="Trimite un cadou"], .chat-3bRxxu .form-2fGMdU [aria-label="Siųsti dovaną"], .chat-3bRxxu .form-2fGMdU [aria-label=ส่งของขวัญ], .chat-3bRxxu .form-2fGMdU [aria-label="Tặng một món quà"], .chat-3bRxxu .form-2fGMdU [aria-label="गिफ्ट भेजें"] {
+  display: none;
+}
+.chat-3bRxxu .form-2fGMdU .attachedBars-tZDmyV {
+  position: absolute;
+  top: 0;
+  transform: translateY(-150%);
+  border-radius: 8px !important;
+  border: var(--border) 2px solid;
+}
+.chat-3bRxxu .form-2fGMdU .attachedBars-tZDmyV .replyBar-1YLQ2F {
+  border-radius: 8px !important;
+}
+.chat-3bRxxu [d="M2 2C0.895431 2 0 2.89543 0 4V20C0 21.1046 0.89543 22 2 22H22C23.1046 22 24 21.1046 24 20V4C24 2.89543 23.1046 2 22 2H2ZM9.76445 11.448V15.48C8.90045 16.044 7.88045 16.356 6.74045 16.356C4.11245 16.356 2.66045 14.628 2.66045 12.072C2.66045 9.504 4.23245 7.764 6.78845 7.764C7.80845 7.764 8.66045 8.004 9.32045 8.376L9.04445 10.164C8.42045 9.768 7.68845 9.456 6.83645 9.456C5.40845 9.456 4.71245 10.512 4.71245 12.06C4.71245 13.62 5.43245 14.712 6.86045 14.712C7.31645 14.712 7.64045 14.616 7.97645 14.448V12.972H6.42845V11.448H9.76445ZM11.5481 7.92H13.6001V16.2H11.5481V7.92ZM20.4724 7.92V9.636H17.5564V11.328H19.8604V13.044H17.5564V16.2H15.5164V7.92H20.4724Z"] {
+  d: path("M5.052 6.706c.481-.05.853.037.986.103a.5.5 0 1 0 .447-.894c-.351-.176-.928-.267-1.537-.203c-.96.1-1.948.934-1.948 2.297c0 1.385 1.054 2.3 2.3 2.3c.58 0 1.1-.272 1.397-.553c.262-.248.303-.577.303-.783v-.964a.5.5 0 0 0-.5-.5h-.807a.5.5 0 1 0 0 1H6v.464a.427.427 0 0 1-.006.071a1.126 1.126 0 0 1-.694.265c-.731 0-1.3-.505-1.3-1.3c0-.818.567-1.252 1.052-1.303zM9 6.21a.5.5 0 0 0-1 0v3.6a.5.5 0 1 0 1 0v-3.6zm1.5-.5a.5.5 0 0 0-.5.5v3.6a.5.5 0 0 0 1 0V8.506l1.003-.006a.5.5 0 0 0-.006-1L11 7.506v-.797h1.5a.5.5 0 0 0 0-1h-2zM3.5 2A2.5 2.5 0 0 0 1 4.5v7A2.5 2.5 0 0 0 3.5 14h9a2.5 2.5 0 0 0 2.5-2.5v-7A2.5 2.5 0 0 0 12.5 2h-9zM2 4.5A1.5 1.5 0 0 1 3.5 3h9A1.5 1.5 0 0 1 14 4.5v7a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 11.5v-7z");
+  transform: scale(1.6);
+}
+.chat-3bRxxu .emojiButton-3uL3Aw {
+  width: 36px;
+}
+.chat-3bRxxu .emojiButton-3uL3Aw .contents-18-Yxp {
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  position: absolute;
+  background: var(--interactive-normal);
+  content: "";
+  -webkit-mask-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="30" height="30" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><g fill="none"><path d="M6.25 7.75a.75.75 0 1 0 0-1.5a.75.75 0 0 0 0 1.5z" fill="currentColor"></path><path d="M6.136 9.667a.5.5 0 1 0-.745.667A3.493 3.493 0 0 0 8 11.5a3.493 3.493 0 0 0 2.609-1.166a.5.5 0 0 0-.745-.667A2.492 2.492 0 0 1 8 10.5c-.74 0-1.405-.321-1.864-.833z" fill="currentColor"></path><path d="M10.5 7A.75.75 0 1 1 9 7a.75.75 0 0 1 1.5 0z" fill="currentColor"></path><path d="M14 8A6 6 0 1 0 2 8a6 6 0 0 0 12 0zM3 8a5 5 0 1 1 10 0A5 5 0 0 1 3 8z" fill="currentColor"></path></g></svg>');
+  -webkit-mask-position: 3px 8px;
+  -webkit-mask-repeat: no-repeat;
+}
+.chat-3bRxxu .emojiButton-3uL3Aw .contents-18-Yxp:hover {
+  background: var(--interactive-hover);
+}
+.chat-3bRxxu .emojiButton-3uL3Aw .contents-18-Yxp > div {
+  display: none;
+}
+.chat-3bRxxu .buttons-3JBrkn::before {
+  top: 8px;
+  bottom: 8px;
+  position: absolute;
+  content: "";
+  width: 1px;
+  background: var(--border2);
+}
+.chat-3bRxxu .attachWrapper-2TRKBi {
+  order: 1;
+  padding-left: 8px;
+}
+.chat-3bRxxu .attachWrapper-2TRKBi .attachButton-2WznTc {
+  padding-right: 0;
+}
+.chat-3bRxxu .attachWrapper-2TRKBi path {
+  d: path("M 38.1875 6.71875 C 36.261719 6.8125 34.34375 7.648438 32.84375 9.09375 C 32.8125 9.125 32.78125 9.15625 32.75 9.1875 C 32.746094 9.191406 32.722656 9.183594 32.71875 9.1875 C 32.675781 9.238281 32.632813 9.289063 32.59375 9.34375 C 32.550781 9.394531 32.507813 9.445313 32.46875 9.5 L 13.65625 28.40625 C 13.613281 28.457031 13.570313 28.507813 13.53125 28.5625 C 11.761719 30.480469 11.796875 33.515625 13.65625 35.375 C 15.5625 37.285156 18.75 37.285156 20.65625 35.375 C 20.75 35.28125 20.832031 35.175781 20.90625 35.0625 C 20.996094 34.996094 21.078125 34.921875 21.15625 34.84375 L 35.25 20.9375 C 35.878906 20.34375 36.054688 19.410156 35.683594 18.628906 C 35.3125 17.847656 34.484375 17.390625 33.625 17.5 C 33.171875 17.558594 32.753906 17.765625 32.4375 18.09375 L 18.34375 32 C 18.285156 32.070313 18.234375 32.140625 18.1875 32.21875 C 18.167969 32.230469 18.144531 32.238281 18.125 32.25 C 18.113281 32.269531 18.105469 32.292969 18.09375 32.3125 C 17.992188 32.375 17.898438 32.449219 17.8125 32.53125 C 17.433594 32.910156 16.878906 32.914063 16.5 32.53125 C 16.121094 32.152344 16.117188 31.601563 16.5 31.21875 L 35.59375 12.03125 C 35.636719 11.980469 35.679688 11.929688 35.71875 11.875 C 37.363281 10.359375 39.558594 10.371094 40.78125 11.59375 C 40.867188 11.675781 40.960938 11.75 41.0625 11.8125 C 41.074219 11.824219 41.082031 11.832031 41.09375 11.84375 C 41.152344 11.921875 41.214844 11.996094 41.28125 12.0625 C 42.425781 13.207031 42.234375 15.621094 40.625 17.3125 C 40.59375 17.34375 40.5625 17.375 40.53125 17.40625 L 19.84375 38.625 C 19.777344 38.671875 19.714844 38.726563 19.65625 38.78125 C 16.972656 41.464844 12.351563 41.789063 9.78125 39.21875 C 7.261719 36.699219 7.523438 32.140625 10.09375 29.4375 C 10.136719 29.398438 10.179688 29.355469 10.21875 29.3125 L 27.25 12.46875 C 27.878906 11.875 28.054688 10.941406 27.683594 10.160156 C 27.3125 9.378906 26.484375 8.921875 25.625 9.03125 C 25.171875 9.089844 24.753906 9.296875 24.4375 9.625 L 7.5 26.375 C 7.46875 26.40625 7.4375 26.4375 7.40625 26.46875 C 7.363281 26.519531 7.320313 26.570313 7.28125 26.625 C 3.234375 30.820313 2.683594 37.78125 6.9375 42.03125 C 11.160156 46.253906 18.082031 45.804688 22.28125 41.8125 C 22.324219 41.78125 22.367188 41.75 22.40625 41.71875 C 22.417969 41.707031 22.425781 41.699219 22.4375 41.6875 C 22.457031 41.667969 22.480469 41.644531 22.5 41.625 C 22.5 41.613281 22.5 41.605469 22.5 41.59375 L 22.625 41.46875 C 22.667969 41.417969 22.710938 41.367188 22.75 41.3125 L 43.40625 20.21875 C 43.554688 20.082031 43.679688 19.925781 43.78125 19.75 C 46.417969 16.734375 46.992188 12.148438 44.09375 9.25 C 44.042969 9.207031 43.992188 9.164063 43.9375 9.125 C 43.847656 8.988281 43.742188 8.863281 43.625 8.75 C 42.148438 7.273438 40.160156 6.621094 38.1875 6.71875 Z");
+  transform: scale(0.5) translate(-12px, -12px);
+}
+.chat-3bRxxu .container-NdaZbY {
+  position: sticky;
+  bottom: 0;
+  z-index: 1;
+  background-color: var(--secondary-background);
+}
+.chat-3bRxxu .searchResultsWrap-3-pOjs {
+  z-index: 0;
+  background-color: var(--secondary-background);
+}
+.chat-3bRxxu .jumpToPresentBar-G1R9s6 {
+  visibility: hidden;
+  bottom: 15px;
+}
+.chat-3bRxxu .jumpToPresentBar-G1R9s6 .barButtonIcon-3t4V3d {
+  border: var(--border) 2px solid;
+  visibility: visible;
+  padding: 2px;
+  background-color: var(--background-tertiary2);
+  border-radius: 50%;
+  transform: scale(1.7);
+}
+.chat-3bRxxu .jumpToPresentBar-G1R9s6 .barButtonIcon-3t4V3d:hover, .chat-3bRxxu .jumpToPresentBar-G1R9s6 .barButtonIcon-3t4V3d:focus {
+  opacity: 0.4;
+}
+
+.container-1r6BKw.themed-ANHk51 {
+  background: var(--secondary-background-alt);
+  z-index: 0;
+  border-bottom: var(--border) 2px solid;
+  height: 50px;
+}
+.container-1r6BKw.themed-ANHk51 .children-19S4PO::after {
+  background: linear-gradient(90deg, rgba(54, 57, 63, 0) 0, var(--secondary-background-alt));
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- {
+  order: 1;
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- .iconContainer-O4O2CN {
+  bottom: 4px;
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- .iconContainer-O4O2CN .icon-3cZ1F_ {
+  transition: all 0.6s ease;
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- .search-2oPWTC:not(.open-6_Y_aH) .searchBar-3dMhjb {
+  width: 28px;
+  transition: all 0.2s ease-in-out;
+  background: none;
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- .search-2oPWTC:not(.open-6_Y_aH) .searchBar-3dMhjb .icon-3cZ1F_ {
+  color: var(--interactive-normal);
+  height: 23px;
+  width: 23px;
+  transform: translateX(-3px);
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- .search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb {
+  width: 240px;
+  background: var(--primary-background);
+  transition: all 0.6s ease-in-out;
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .search-36MZv- .search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb .icon-3cZ1F_ {
+  height: 16px;
+  width: 16px;
+  top: 4px;
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Pinned Messages"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=已标注消息], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=已釘選的訊息], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Připnuté zprávy"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Fastgjorte beskeder"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Vastgepinde berichten"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Messages épinglés"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Angepinnte Nachrichten"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Καρφιτσωμένα μηνύματα"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Kitűzött üzenetek"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Messaggi attaccati"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=ピン留めされたメッセージ], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="고정된 메시지"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Przypięte wiadomości"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mensagens fixadas"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закреплённые сообщения"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mensajes fijados"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Fästa meddelanden"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Sabitlenmiş Mesajlar"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закачени съобщения"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закріплені повідомлення"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Kiinnitetyt viestit"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Festede meldinger"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Prikvačene poruke"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mesaje fixate"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Prisegtos Žinutės"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=ข้อความที่ปักหมุด], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Tin Nhắn Đã Được Ghim"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="पिन किए गए मैसेज"] {
+  display: flex;
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Pinned Messages"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=已标注消息] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=已釘選的訊息] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Připnuté zprávy"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Fastgjorte beskeder"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Vastgepinde berichten"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Messages épinglés"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Angepinnte Nachrichten"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Καρφιτσωμένα μηνύματα"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Kitűzött üzenetek"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Messaggi attaccati"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=ピン留めされたメッセージ] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="고정된 메시지"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Przypięte wiadomości"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mensagens fixadas"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закреплённые сообщения"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mensajes fijados"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Fästa meddelanden"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Sabitlenmiş Mesajlar"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закачени съобщения"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закріплені повідомлення"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Kiinnitetyt viestit"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Festede meldinger"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Prikvačene poruke"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mesaje fixate"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Prisegtos Žinutės"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=ข้อความที่ปักหมุด] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Tin Nhắn Đã Được Ghim"] .iconBadge-qZ4Ksk, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="पिन किए गए मैसेज"] .iconBadge-qZ4Ksk {
+  position: absolute;
+  left: 14px;
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Pinned Messages"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=已标注消息]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=已釘選的訊息]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Připnuté zprávy"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Fastgjorte beskeder"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Vastgepinde berichten"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Messages épinglés"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Angepinnte Nachrichten"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Καρφιτσωμένα μηνύματα"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Kitűzött üzenetek"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Messaggi attaccati"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=ピン留めされたメッセージ]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="고정된 메시지"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Przypięte wiadomości"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mensagens fixadas"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закреплённые сообщения"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mensajes fijados"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Fästa meddelanden"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Sabitlenmiş Mesajlar"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закачени съобщения"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Закріплені повідомлення"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Kiinnitetyt viestit"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Festede meldinger"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Prikvačene poruke"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Mesaje fixate"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Prisegtos Žinutės"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=ข้อความที่ปักหมุด]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Tin Nhắn Đã Được Ghim"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="पिन किए गए मैसेज"]::after {
+  content: var(--pins-text);
+  height: 50%;
+  transform: translateY(-75%);
+  top: 50%;
+  position: relative;
+  padding: 0 4px;
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx path[d="M22 12L12.101 2.10101L10.686 3.51401L12.101 4.92901L7.15096 9.87801V9.88001L5.73596 8.46501L4.32196 9.88001L8.56496 14.122L2.90796 19.778L4.32196 21.192L9.97896 15.536L14.222 19.778L15.636 18.364L14.222 16.95L19.171 12H19.172L20.586 13.414L22 12Z"] {
+  d: path("M10.059 2.445a1.5 1.5 0 0 0-2.386.354l-2.02 3.79l-2.811.937a.5.5 0 0 0-.196.828L4.793 10.5l-2.647 2.647L2 14l.854-.146L5.5 11.207l2.146 2.147a.5.5 0 0 0 .828-.196l.937-2.81l3.779-2.024a1.5 1.5 0 0 0 .354-2.38L10.06 2.444zm-1.504.824a.5.5 0 0 1 .796-.118l3.485 3.498a.5.5 0 0 1-.118.794L8.764 9.559a.5.5 0 0 0-.238.283l-.744 2.233l-3.856-3.856l2.232-.744a.5.5 0 0 0 .283-.24L8.555 3.27z");
+  transform: scale(1.5);
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start Voice Call"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=开始语音通话], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=開始語音通話], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Zahájit hlasový hovor"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start taleopkald"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Spraakoproep starten"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Démarrer un appel vocal"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Sprachanruf starten"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Έναρξη φωνητικής κλήσης"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Hanghívás indítása"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Avvia la chiamata vocale"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=音声通話を開始], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="음성 통화 시작하기"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Rozpocznij połączenie głosowe"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Iniciar chamada de voz"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Начать голосовой звонок"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Iniciar llamada de voz"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Påbörja röstsamtal"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Sesli Arama Başlat"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Започни гласово обаждане"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Почати голосовий виклик"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Aloita äänipuhelu"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start et taleanrop"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Započni glasovni poziv"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Începe un apel vocal"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Pradėti skambutį"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=เริ่มการโทรด้วยเสียง], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Bắt Đầu Cuộc Gọi Thoại"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="वॉयस कॉल को स्टार्ट करें"] {
+  display: flex;
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start Voice Call"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=开始语音通话] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=開始語音通話] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Zahájit hlasový hovor"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start taleopkald"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Spraakoproep starten"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Démarrer un appel vocal"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Sprachanruf starten"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Έναρξη φωνητικής κλήσης"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Hanghívás indítása"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Avvia la chiamata vocale"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=音声通話を開始] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="음성 통화 시작하기"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Rozpocznij połączenie głosowe"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Iniciar chamada de voz"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Начать голосовой звонок"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Iniciar llamada de voz"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Påbörja röstsamtal"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Sesli Arama Başlat"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Започни гласово обаждане"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Почати голосовий виклик"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Aloita äänipuhelu"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start et taleanrop"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Započni glasovni poziv"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Începe un apel vocal"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Pradėti skambutį"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=เริ่มการโทรด้วยเสียง] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Bắt Đầu Cuộc Gọi Thoại"] path, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="वॉयस कॉल को स्टार्ट करें"] path {
+  d: path("M 27.216797 6.1015625 C 27.084935 6.1013567 26.952471 6.1110209 26.820312 6.1289062 C 26.29168 6.2004472 25.770296 6.4185563 25.339844 6.8007812 A 1.50015 1.50015 0 0 0 25.339844 6.8027344 L 16.117188 15 L 9.5 15 C 7.0324991 15 5 17.032499 5 19.5 L 5 28.5 C 5 30.967501 7.0324991 33 9.5 33 L 16.117188 33 L 25.339844 41.197266 C 26.200649 41.96254 27.421458 42.075139 28.345703 41.660156 C 29.269948 41.245173 30 40.257378 30 39.105469 L 30 8.8945312 C 30 7.7430679 29.271967 6.7549754 28.347656 6.3398438 C 28.00104 6.1841693 27.612384 6.10218 27.216797 6.1015625 z M 27 9.3398438 L 27 38.660156 L 17.683594 30.378906 A 1.50015 1.50015 0 0 0 16.6875 30 L 9.5 30 C 8.6535009 30 8 29.346499 8 28.5 L 8 19.5 C 8 18.653501 8.6535009 18 9.5 18 L 16.6875 18 A 1.50015 1.50015 0 0 0 17.683594 17.621094 L 27 9.3398438 z M 38.755859 11.980469 A 1.50015 1.50015 0 0 0 37.429688 14.193359 C 40.888956 20.818098 40.888956 27.181902 37.429688 33.806641 A 1.50015 1.50015 0 1 0 40.089844 35.193359 C 43.930574 27.838098 43.930574 20.161902 40.089844 12.806641 A 1.50015 1.50015 0 0 0 38.755859 11.980469 z M 34.171875 16.996094 A 1.50015 1.50015 0 0 0 32.880859 19.138672 C 34.397398 22.45712 34.395303 25.559819 32.873047 28.878906 A 1.50015 1.50015 0 1 0 35.599609 30.130859 C 37.437342 26.123947 37.440802 21.898177 35.609375 17.890625 A 1.50015 1.50015 0 0 0 34.171875 16.996094 z");
+  transform: scale(0.5);
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start Voice Call"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=开始语音通话]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=開始語音通話]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Zahájit hlasový hovor"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start taleopkald"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Spraakoproep starten"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Démarrer un appel vocal"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Sprachanruf starten"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Έναρξη φωνητικής κλήσης"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Hanghívás indítása"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Avvia la chiamata vocale"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=音声通話を開始]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="음성 통화 시작하기"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Rozpocznij połączenie głosowe"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Iniciar chamada de voz"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Начать голосовой звонок"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Iniciar llamada de voz"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Påbörja röstsamtal"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Sesli Arama Başlat"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Започни гласово обаждане"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Почати голосовий виклик"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Aloita äänipuhelu"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Start et taleanrop"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Započni glasovni poziv"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Începe un apel vocal"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Pradėti skambutį"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label=เริ่มการโทรด้วยเสียง]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="Bắt Đầu Cuộc Gọi Thoại"]::after, .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx .iconWrapper-2OrFZ1[aria-label="वॉयस कॉल को स्टार्ट करें"]::after {
+  content: var(--audio-text);
+  height: 50%;
+  transform: translateY(-75%);
+  top: 50%;
+  position: relative;
+}
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx a,
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Mute channel "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="静音频道 "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="靜音頻道 "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Ztlumit kanál "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Gør kanal stum "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Kanaal  dempen"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Rendre le salon  muet"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Kanal  stummschalten"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Σίγαση καναλιού "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^=" csatorna némítása"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Silenzia canale "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^=チャンネルをミュートする], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^=" 채널 알림 끄기"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Wycisz kanał "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Silenciar canal "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Заглушить канал "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Tysta kanal "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^=" kanalını sustur"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Заглушаване на канал "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Заглушити канал "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Mykistä kanava "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Demp kanal "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Utišaj kanal "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Amuțește canalul "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Nutildyti kanalą "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="ปิดการแจ้งเตือนช่อง "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="Tắt âm kênh "], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label^="चैनल म्यूट करें "],
+.container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Member List"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=成员名单], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=成員名單], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Seznam členů"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=Medlemsliste], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=Ledenlijst], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Liste des membres"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=Mitgliederliste], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Λίστα μελών"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Tagok listája"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Lista dei membri"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=メンバーリスト], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="멤버 목록"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Lista członków"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Lista de membros"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Список участников"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Lista de miembros"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=Medlemslista], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Üye Listesi"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Списък с членове"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Список учасників"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=Jäsenluettelo], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Popis članova"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Lista membrilor"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Narių Sąrašas"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label=รายชื่อสมาชิก], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="Danh sách thành viên"], .container-1r6BKw.themed-ANHk51 .toolbar-1t6TWx [aria-label="मेम्बर लिस्ट"] {
+  display: none;
+}
+
+.chat-3bRxxu.threadSidebarOpen-vdkwIh + div .toolbar-1t6TWx {
+  margin-right: 40px;
+}
+.chat-3bRxxu:not(.threadSidebarOpen-vdkwIh) .toolbar-1t6TWx {
+  margin-right: 40px;
+}
+
+.container-1D34oG .toolbar-1t6TWx {
+  margin-right: 40px;
+}
+
+[aria-label=Inbox], [aria-label=收件箱], [aria-label=收件匣], [aria-label=Příchozí], [aria-label=Indbakke], [aria-label="Boîte de réception"], [aria-label=Posteingang], [aria-label=Εισερχόμενα], [aria-label="Bejövő üzenetek"], [aria-label="Messaggi ricevuti"], [aria-label=受信ボックス], [aria-label="받은 편지함"], [aria-label="Skrzynka odbiorcza"], [aria-label="Caixa de Entrada"], [aria-label=Почта], [aria-label="Bandeja de entrada"], [aria-label=Inkorg], [aria-label="Gelen Kutusu"], [aria-label="Входяща поща"], [aria-label=Вхідні], [aria-label=Saapuneet], [aria-label=Innboks], [aria-label="Ulazna pošta"], [aria-label="Gautos žinutės"], [aria-label=กล่องขาเข้า], [aria-label="Hộp thư đến"], [aria-label=इनबॉक्स] {
+  display: flex;
+}
+[aria-label=Inbox]::after, [aria-label=收件箱]::after, [aria-label=收件匣]::after, [aria-label=Příchozí]::after, [aria-label=Indbakke]::after, [aria-label="Boîte de réception"]::after, [aria-label=Posteingang]::after, [aria-label=Εισερχόμενα]::after, [aria-label="Bejövő üzenetek"]::after, [aria-label="Messaggi ricevuti"]::after, [aria-label=受信ボックス]::after, [aria-label="받은 편지함"]::after, [aria-label="Skrzynka odbiorcza"]::after, [aria-label="Caixa de Entrada"]::after, [aria-label=Почта]::after, [aria-label="Bandeja de entrada"]::after, [aria-label=Inkorg]::after, [aria-label="Gelen Kutusu"]::after, [aria-label="Входяща поща"]::after, [aria-label=Вхідні]::after, [aria-label=Saapuneet]::after, [aria-label=Innboks]::after, [aria-label="Ulazna pošta"]::after, [aria-label="Gautos žinutės"]::after, [aria-label=กล่องขาเข้า]::after, [aria-label="Hộp thư đến"]::after, [aria-label=इनबॉक्स]::after {
+  content: var(--inbox-text);
+  height: 50%;
+  transform: translateY(-75%);
+  top: 50%;
+  position: relative;
+}
+
+path[d="M19 3H4.99C3.88 3 3.01 3.89 3.01 5L3 19C3 20.1 3.88 21 4.99 21H19C20.1 21 21 20.1 21 19V5C21 3.89 20.1 3 19 3ZM19 15H15C15 16.66 13.65 18 12 18C10.35 18 9 16.66 9 15H4.99V5H19V15Z"] {
+  d: path("M 12 2 C 6.486 2 2 6.486 2 12 C 2 17.515 6.486 22 12 22 C 14.039 22 15.993 21.398 17.652 20.259 L 16.521 18.611 C 15.195 19.519 13.633 20 12 20 C 7.589 20 4 16.411 4 12 C 4 7.589 7.589 4 12 4 C 16.411 4 20 7.589 20 12 V 12.782 C 20 14.17 19.402 15 18.4 15 L 18.398 15.018 C 18.338 15.005 18.273 15 18.209 15 H 18 C 17.437 15 16.6 14.182 16.6 13.631 V 12 C 16.6 9.464 14.537 7.4 12 7.4 C 9.463 7.4 7.4 9.463 7.4 12 C 7.4 14.537 9.463 16.6 12 16.6 C 13.234 16.6 14.35 16.106 15.177 15.313 C 15.826 16.269 16.93 17 18 17 L 18.002 16.981 C 18.064 16.994 18.129 17 18.195 17 H 18.4 C 20.552 17 22 15.306 22 12.782 V 12 C 22 6.486 17.514 2 12 2 Z M 12 14.599 C 10.566 14.599 9.4 13.433 9.4 11.999 C 9.4 10.565 10.566 9.399 12 9.399 C 13.434 9.399 14.6 10.565 14.6 11.999 C 14.6 13.433 13.434 14.599 12 14.599 Z");
+}
+
+.membersWrap-2h-GB4 {
+  background-color: var(--secondary-background);
+}
+.membersWrap-2h-GB4 .members-1998pB::-webkit-scrollbar {
+  display: none;
+}
+.membersWrap-2h-GB4 .members-1998pB .membersGroup-v9BXpm {
+  position: relative;
+  background-color: var(--secondary-background);
+}
+.membersWrap-2h-GB4 .members-1998pB .membersGroup-v9BXpm::after {
+  content: "";
+  left: 10px;
+  width: 220px;
+  height: 1px;
+  position: absolute;
+  top: 10px;
+  background: var(--border2);
+}
+
+.messagesWrapper-1sRNjr {
+  margin-bottom: 10px;
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU::-webkit-scrollbar {
+  display: none;
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU .mentioned-xhSam7 {
+  background: transparent;
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU .mentioned-xhSam7::before {
+  background: var(--main-color);
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU .mentioned-xhSam7::after {
+  content: "";
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  background: var(--main-color);
+  opacity: 0.2;
+  z-index: -1;
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU .message-2qnXI6:not(.systemMessage-1I9LCe) > div:not(.repliedTextPreview-2NBljf) > .markup-2BOw-j.messageContent-2qWWxC:not(:empty) {
+  background: var(--background-tertiary2);
+  margin-left: 0;
+  padding-left: 0;
+  width: fit-content;
+  padding: 8px;
+  border-radius: 0 4px 4px 0;
+  display: inline-block;
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU .message-2qnXI6:not(.systemMessage-1I9LCe) > div:not(.repliedTextPreview-2NBljf) > .markup-2BOw-j.messageContent-2qWWxC:not(:empty) blockquote, .messagesWrapper-1sRNjr .scroller-2LSbBU .message-2qnXI6:not(.systemMessage-1I9LCe) > div:not(.repliedTextPreview-2NBljf) > .markup-2BOw-j.messageContent-2qWWxC:not(:empty) pre {
+  max-width: 100%;
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU .systemMessage-1I9LCe > div {
+  width: fit-content;
+  margin: auto;
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU .systemMessage-1I9LCe > div > .markup-2BOw-j.messageContent-2qWWxC:not(:empty) {
+  background: var(--background-tertiary2);
+  margin-left: 0;
+  padding-left: 0;
+  width: fit-content;
+  padding: 4px 8px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU .systemMessage-1I9LCe .welcomeCTAButtonOuter-2VwxSF {
+  margin: auto;
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU .embedFull-2tM8-- {
+  background: var(--secondary-background-alt);
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU .wrapper-2aW0bm {
+  background: transparent;
+  box-shadow: unset;
+}
+.messagesWrapper-1sRNjr .scroller-2LSbBU .wrapper-2aW0bm > div {
+  margin-left: 8px;
+  box-shadow: var(--elevation-stroke);
+  border-radius: 16px;
+  background: var(--secondary-background-alt);
+  border: none;
+  height: 24px;
+}
+
+.wrapper-3NnKdC {
+  background: transparent;
+}
+.wrapper-3NnKdC::after {
+  content: "";
+  background: var(--primary-background);
+  top: -32px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  z-index: -1;
+  opacity: var(--guilds_opacity);
+}
+.wrapper-3NnKdC .tree-2wKJdG:focus {
+  outline: none;
+}
+.wrapper-3NnKdC .unreadMentionsIndicatorBottom-2mDYbI {
+  margin-bottom: 130px;
+}
+.wrapper-3NnKdC .scroller-1Bvpku {
+  background: transparent;
+  margin-bottom: 140px;
+  contain: unset;
+}
+.wrapper-3NnKdC .scroller-1Bvpku::after {
+  content: "";
+  left: 11px;
+  width: 50px;
+  height: 1px;
+  position: fixed;
+  bottom: 130px;
+  background: var(--border2);
+}
+.wrapper-3NnKdC .scroller-1Bvpku .listItem-2Ig28I .numberBadge-2s8kKX {
+  background-color: var(--main-color) !important;
+}
+.wrapper-3NnKdC .scroller-1Bvpku .listItem-2Ig28I .item-2hkk8m {
+  width: 2px;
+  margin: 0 4px;
+  border-radius: 10px;
+}
+.wrapper-3NnKdC .scroller-1Bvpku .listItem-2Ig28I .item-2hkk8m[style*="height: 40px;"], .wrapper-3NnKdC .scroller-1Bvpku .listItem-2Ig28I .item-2hkk8m[style*="height: 39px;"], .wrapper-3NnKdC .scroller-1Bvpku .listItem-2Ig28I .item-2hkk8m[style*="height: 38px;"], .wrapper-3NnKdC .scroller-1Bvpku .listItem-2Ig28I .item-2hkk8m[style*="height: 37px;"] {
+  background: var(--main-color);
+}
+.wrapper-3NnKdC .scroller-1Bvpku .listItem-2Ig28I foreignObject {
+  mask: none;
+  border-radius: 50%;
+}
+.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm {
+  position: fixed;
+  bottom: 64px;
+}
+.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm .circleIconButton-1QV--U {
+  background: transparent !important;
+}
+.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm .circleIconButton-1QV--U path {
+  fill: hsl(139, calc(var(--saturation-factor, 1)*47.3%), 43.9%) !important;
+  transform: scale(1.5) translate(-15%, -15%);
+}
+.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm .item-2hkk8m {
+  width: 2px;
+  margin: 4px;
+  border-radius: 10px;
+}
+.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm .item-2hkk8m[style*="height: 40px;"], .wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm .item-2hkk8m[style*="height: 39px;"], .wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm .item-2hkk8m[style*="height: 38px;"], .wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm .item-2hkk8m[style*="height: 37px;"] {
+  background: hsl(139, calc(var(--saturation-factor, 1)*47.3%), 43.9%);
+}
+.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm + div {
+  position: fixed;
+  bottom: 8px;
+}
+.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm + div .circleIconButton-1QV--U {
+  background: transparent !important;
+}
+.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm + div .circleIconButton-1QV--U path {
+  fill: hsl(139, calc(var(--saturation-factor, 1)*47.3%), 43.9%) !important;
+  transform: scale(1.5) translate(-15%, -15%);
+  d: path("M6,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM12,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM6,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM6,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM12,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM16,6c0,1.1 0.9,2 2,2s2,-0.9 2,-2 -0.9,-2 -2,-2 -2,0.9 -2,2zM12,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM18,14c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2zM18,20c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2z");
+}
+.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm + div .item-2hkk8m {
+  width: 2px;
+  margin: 4px;
+  border-radius: 10px;
+}
+.wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm + div .item-2hkk8m[style*="height: 40px;"], .wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm + div .item-2hkk8m[style*="height: 39px;"], .wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm + div .item-2hkk8m[style*="height: 38px;"], .wrapper-3NnKdC .scroller-1Bvpku .tutorialContainer-3alCZm + div .item-2hkk8m[style*="height: 37px;"] {
+  background: hsl(139, calc(var(--saturation-factor, 1)*47.3%), 43.9%);
+}
+
+.sidebar-2K8pFh {
+  position: relative;
+  background: transparent;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o {
+  background: transparent;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe {
+  background: transparent;
+  margin-right: 10px;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe::-webkit-scrollbar {
+  display: none;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .privateChannelsHeaderContainer-3NB1K1 {
+  position: relative;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .privateChannelsHeaderContainer-3NB1K1::after {
+  content: "";
+  left: 0;
+  width: 223px;
+  height: 1px;
+  position: absolute;
+  top: 10px;
+  background: var(--border2);
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .privateChannelsHeaderContainer-3NB1K1 ~ .channel-2QD9_O {
+  margin: 0;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .privateChannelsHeaderContainer-3NB1K1 ~ .channel-2QD9_O .layout-2DM8Md {
+  border-radius: 0;
+  border-left: 2px solid transparent;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .privateChannelsHeaderContainer-3NB1K1 ~ .channel-2QD9_O.selected-aXhQR6 .layout-2DM8Md, .sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .privateChannelsHeaderContainer-3NB1K1 ~ .channel-2QD9_O:hover .layout-2DM8Md {
+  border-radius: 0;
+  border-left: 2px solid var(--main-color);
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .privateChannelsHeaderContainer-3NB1K1 ~ .channel-2QD9_O.selected-aXhQR6 .layout-2DM8Md .closeIcon-rycxaQ, .sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .privateChannelsHeaderContainer-3NB1K1 ~ .channel-2QD9_O:hover .layout-2DM8Md .closeIcon-rycxaQ {
+  color: var(--main-color);
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .content-3YMskv {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .content-3YMskv a:not([href*="/channels/@me/"]) {
+  flex-grow: 1;
+  margin-top: 8px !important;
+  margin-left: 0;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .content-3YMskv a:not([href*="/channels/@me/"]):first-of-type {
+  margin-left: 8px !important;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .content-3YMskv a:not([href*="/channels/@me/"]) .layout-2DM8Md {
+  justify-content: center;
+  padding: 0 !important;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .content-3YMskv a:not([href*="/channels/@me/"]) .avatar-3uk_u9 {
+  margin: 0 !important;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .content-3YMskv a:not([href*="/channels/@me/"]) .content-3QAtGj {
+  display: none;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .content-3YMskv a:not([href*="/channels/@me/"]) .children-gzQq2t {
+  position: absolute;
+  transform: translate(4px, 8px);
+  border-radius: 100px;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .content-3YMskv a[href*="/channels/@me/"] {
+  width: 100%;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o .scroller-1JbKMe .content-3YMskv h2 {
+  width: 100%;
+}
+.sidebar-2K8pFh .container-3w7J-x {
+  background: transparent;
+}
+.sidebar-2K8pFh .container-3w7J-x .scroller-RmtA4e::-webkit-scrollbar {
+  display: none;
+}
+.sidebar-2K8pFh .container-3w7J-x .spine--Wla_O + div .name-23GUGE {
+  margin-left: 30px;
+}
+.sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN .content-1x5b-n {
+  margin-left: 0;
+  margin-right: 17px;
+  border-radius: 0;
+  border-left: transparent 2px solid;
+}
+.sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN .list-2luk8a {
+  padding-left: 8px;
+  padding-right: 16px;
+}
+.sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN.selected-3LIHYU .content-1x5b-n, .sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN:hover .content-1x5b-n {
+  border-left: var(--main-color) 2px solid;
+}
+.sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN.selected-3LIHYU .content-1x5b-n .icon-1DeIlz, .sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN:hover .content-1x5b-n .icon-1DeIlz {
+  color: var(--main-color);
+}
+.sidebar-2K8pFh .container-3w7J-x .containerDefault--pIXnN .unread-2lAfLh {
+  display: none;
+}
+.sidebar-2K8pFh .categoryItem-ONe8JV {
+  margin: 0;
+  border-radius: 0;
+  height: 34px;
+}
+.sidebar-2K8pFh .categoryItem-ONe8JV > div {
+  background: transparent;
+  width: 223px;
+  border-left: 2px solid transparent;
+  height: 32px;
+  margin-top: 1px;
+  padding: 0;
+}
+.sidebar-2K8pFh .categoryItem-ONe8JV > div .avatar-3uk_u9 > svg {
+  transform: scale(0.8);
+}
+.sidebar-2K8pFh .categoryItem-ONe8JV.selectedCategoryItem-28UllF > div, .sidebar-2K8pFh .categoryItem-ONe8JV:hover > div {
+  background: var(--background-modifier-selected);
+  border-radius: 0;
+  border-left: 2px solid var(--main-color);
+}
+.sidebar-2K8pFh .categoryItem-ONe8JV.selectedCategoryItem-28UllF > div .avatar-3uk_u9 > svg, .sidebar-2K8pFh .categoryItem-ONe8JV:hover > div .avatar-3uk_u9 > svg {
+  color: var(--main-color);
+}
+.sidebar-2K8pFh .panels-j1Uci_ {
+  background: transparent;
+}
+.sidebar-2K8pFh .panels-j1Uci_ > * {
+  position: relative;
+}
+.sidebar-2K8pFh .panels-j1Uci_ > .container-3baos1 {
+  height: 0;
+  -webkit-app-region: none;
+}
+.sidebar-2K8pFh .panels-j1Uci_ > .container-3baos1:hover .flex-1xMQg5 *, .sidebar-2K8pFh .panels-j1Uci_ > .container-3baos1:hover .avatarWrapper-2yR4wp {
+  display: unset !important;
+}
+.sidebar-2K8pFh .panels-j1Uci_ > .container-3baos1 .avatarWrapper-2yR4wp {
+  position: fixed;
+  right: 0;
+  z-index: 1;
+  display: none;
+  top: 136px;
+  margin-right: 8px;
+}
+.sidebar-2K8pFh .panels-j1Uci_ > .container-3baos1 .avatarWrapper-2yR4wp foreignObject {
+  mask: none;
+  border-radius: 0 0 4px 4px;
+}
+.sidebar-2K8pFh .panels-j1Uci_ > .container-3baos1 .canCopy-2VBT7N {
+  display: none;
+}
+.sidebar-2K8pFh .panels-j1Uci_ > .container-3baos1 .flex-1xMQg5 {
+  position: fixed;
+  right: 8px;
+  flex-direction: column-reverse;
+  background: var(--secondary-background-alt);
+  border-radius: 4px 4px 0 0;
+  top: 8px;
+  display: flex;
+}
+.sidebar-2K8pFh .panels-j1Uci_ > .container-3baos1 .flex-1xMQg5::after {
+  content: "" !important;
+  -webkit-mask-image: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><path fill="rgb(185,187,190)" d="M39 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S42.309 30 39 30zM9 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S12.309 30 9 30zM24 30c-3.309 0-6-2.691-6-6s2.691-6 6-6 6 2.691 6 6S27.309 30 24 30z"></path></svg>');
+  -webkit-mask-repeat: no-repeat;
+  background: var(--interactive-normal);
+  width: 26px;
+  height: 26px;
+  padding: 3px;
+}
+.sidebar-2K8pFh .panels-j1Uci_ > .container-3baos1 .flex-1xMQg5 * {
+  display: none;
+}
+.sidebar-2K8pFh .containerDefault-3tr_sE::after {
+  content: "";
+  left: 0;
+  width: 223px;
+  height: 1px;
+  position: absolute;
+  top: 10px;
+  background: var(--border2);
+}
+.sidebar-2K8pFh .container-3fNISf {
+  margin: -8px 8px 0 8px;
+}
+.sidebar-2K8pFh::after {
+  content: "";
+  background: var(--primary-background);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  z-index: -1;
+  opacity: var(--channel_opacity);
+}
+
+.libraryHeader-3g95kE ~ .scrollerBase-289Jih, .stickyHeader-1pqx0j, .headerBar-1YYOfi ~ .scrollerBase-289Jih {
+  background: var(--primary-background);
+}
+.libraryHeader-3g95kE ~ .scrollerBase-289Jih::-webkit-scrollbar, .stickyHeader-1pqx0j::-webkit-scrollbar, .headerBar-1YYOfi ~ .scrollerBase-289Jih::-webkit-scrollbar {
+  display: none;
+}
+
+.peopleList-3c4jOR::-webkit-scrollbar {
+  display: none;
+}
+
+.applicationStore-1pNvnv {
+  background: var(--primary-background);
+  border-left: var(--border) 2px solid;
+}
+
+#app-mount .vz-dashboard {
+  background-color: var(--primary-background);
+  border-left: var(--border) 2px solid;
+}
+#app-mount .vz-dashboard .vz-dashboard-home .vz-wave-divider {
+  color: var(--primary-background);
+}
+#app-mount .vz-dashboard .vz-dashboard-home-features-icon-wrapper.vz-icon-wrapper {
+  border: 20px solid var(--primary-background);
+}
+#app-mount .vz-dashboard .vz-dashboard-home-features-card:hover .vz-dashboard-home-features-icon-wrapper,
+#app-mount .vz-dashboard .vz-dashboard-settings-search-outer-wrapper {
+  background-color: var(--primary-background);
+}
+
+.pageWrapper-1PgVDX > .scroller-1d5FgU {
+  background: var(--primary-background);
+}
+.pageWrapper-1PgVDX > .scroller-1d5FgU .footer-2jdoRS {
+  padding-bottom: 20px;
+}
+.pageWrapper-1PgVDX > .scroller-1d5FgU::-webkit-scrollbar {
+  display: none;
+}
+
+.pageContent-1xgXch .stageSection-3mAD8V {
+  background: var(--primary-background);
+}
+.pageContent-1xgXch .nowPlayingSidebar-2OFn0o {
+  background-color: var(--secondary-background);
+}
+.pageContent-1xgXch .nowPlayingSidebar-2OFn0o .container-lRFx4q {
+  background-color: var(--secondary-background);
+}
+.pageContent-1xgXch .nowPlayingSidebar-2OFn0o .container-lRFx4q .scroller-2ZPeAD {
+  border-left: 2px solid var(--border);
+}
+
+.container-1D34oG, .container-1a3EgQ, .container-3Mxszk {
+  border-left: var(--border) 2px solid;
+}
+
+.tabBody-3YRQ8W {
+  background: var(--primary-background);
+}
+.tabBody-3YRQ8W::before {
+  display: none;
+}
+.tabBody-3YRQ8W .nowPlayingColumn-2sl4cE {
+  background-color: var(--secondary-background);
+}
+.tabBody-3YRQ8W .nowPlayingColumn-2sl4cE .container-lRFx4q {
+  background-color: var(--secondary-background);
+}
+.tabBody-3YRQ8W .nowPlayingColumn-2sl4cE .container-lRFx4q .scroller-2ZPeAD {
+  border-left: 2px solid var(--border);
+}
+
+html[lang^=da] {
+  --pins-text: "Pins";
+  --inbox-text: "Indbakke";
+  --video-text: "Video";
+  --audio-text: "Lyd";
+}
+html[lang^=de] {
+  --pins-text: "Stecknadeln";
+  --inbox-text: "Posteingang";
+  --video-text: "Video";
+  --audio-text: "Audio";
+}
+html[lang^=en] {
+  --pins-text: "Pins";
+  --inbox-text: "Inbox";
+  --video-text: "Video";
+  --audio-text: "Audio";
+}
+html[lang^=es] {
+  --pins-text: "Patas";
+  --inbox-text: "Bandeja de entrada";
+  --video-text: "Video";
+  --audio-text: "Audio";
+}
+html[lang^=fr] {
+  --pins-text: "Épingles";
+  --inbox-text: "Boîte de réception";
+  --video-text: "Vidéo";
+  --audio-text: "l'audio";
+}
+html[lang^=hr] {
+  --pins-text: "Igle";
+  --inbox-text: "Pristigla pošta";
+  --video-text: "Video";
+  --audio-text: "Audio";
+}
+html[lang^=it] {
+  --pins-text: "Messaggi attaccati";
+  --inbox-text: "Messaggi ricevuti";
+  --video-text: "Video";
+  --audio-text: "Audio";
+}
+html[lang^=lt] {
+  --pins-text: "Kaiščiai";
+  --inbox-text: "Pašto dėžutę";
+  --video-text: "Vaizdo įrašas";
+  --audio-text: "Garso įrašas";
+}
+html[lang^=hu] {
+  --pins-text: "Csapok";
+  --inbox-text: "Beérkező levelek";
+  --video-text: "Videó";
+  --audio-text: "Hang";
+}
+html[lang^=nl] {
+  --pins-text: "Pinnen";
+  --inbox-text: "Postvak IN";
+  --video-text: "Video";
+  --audio-text: "Audio";
+}
+html[lang^=no] {
+  --pins-text: "Pins";
+  --inbox-text: "Innboks";
+  --video-text: "Video";
+  --audio-text: "Lyd";
+}
+html[lang^=pl] {
+  --pins-text: "Szpilki";
+  --inbox-text: "W pudełku";
+  --video-text: "Wideo";
+  --audio-text: "Audio";
+}
+html[lang^=pt] {
+  --pins-text: "Alfinetes";
+  --inbox-text: "Caixa de entrada";
+  --video-text: "Vídeo";
+  --audio-text: "Áudio";
+}
+html[lang^=ro] {
+  --pins-text: "Pinii";
+  --inbox-text: "Inbox";
+  --video-text: "Video";
+  --audio-text: "Audio";
+}
+html[lang^=fi] {
+  --pins-text: "Nastat";
+  --inbox-text: "Saapuneet";
+  --video-text: "Video";
+  --audio-text: "Audio";
+}
+html[lang^=sv] {
+  --pins-text: "Stift";
+  --inbox-text: "Inkorg";
+  --video-text: "Video";
+  --audio-text: "Audio";
+}
+html[lang^=vi] {
+  --pins-text: "Ghim";
+  --inbox-text: "Hộp thư đến";
+  --video-text: "Video";
+  --audio-text: "Âm thanh";
+}
+html[lang^=tr] {
+  --pins-text: "Pimler";
+  --inbox-text: "Gelen kutusu";
+  --video-text: "Video";
+  --audio-text: "Ses";
+}
+html[lang^=cs] {
+  --pins-text: "Špendlíky";
+  --inbox-text: "Doručená pošta";
+  --video-text: "Video";
+  --audio-text: "Zvuk";
+}
+html[lang^=el] {
+  --pins-text: "Καρφίτσες";
+  --inbox-text: "Εισερχόμενα";
+  --video-text: "Βίντεο";
+  --audio-text: "Ήχος";
+}
+html[lang^=bg] {
+  --pins-text: "Щифтове";
+  --inbox-text: "Входящи";
+  --video-text: "Видео";
+  --audio-text: "Аудио";
+}
+html[lang^=ru] {
+  --pins-text: "Булавки";
+  --inbox-text: "Входящие";
+  --video-text: "видео";
+  --audio-text: "Аудио";
+}
+html[lang^=uk] {
+  --pins-text: "Шпильки";
+  --inbox-text: "Вхідні";
+  --video-text: "Відео";
+  --audio-text: "Аудіо";
+}
+html[lang^=hi] {
+  --pins-text: "पिंस";
+  --inbox-text: "इनबॉक्स";
+  --video-text: "वीडियो";
+  --audio-text: "ऑडियो";
+}
+html[lang^=th] {
+  --pins-text: "พิน";
+  --inbox-text: "กล่องจดหมาย";
+  --video-text: "วีดีโอ";
+  --audio-text: "เครื่องเสียง";
+}
+html[lang^=zh] {
+  --pins-text: "引脚";
+  --inbox-text: "收件箱";
+  --video-text: "视频";
+  --audio-text: "音频";
+}
+html[lang^=ja] {
+  --pins-text: "ピン";
+  --inbox-text: "受信トレイ";
+  --video-text: "ビデオ";
+  --audio-text: "オーディオ";
+}
+html[lang^=ko] {
+  --pins-text: "다리";
+  --inbox-text: "받은 편지함";
+  --video-text: "비디오";
+  --audio-text: "오디오";
+}
+
+.botTag-2WPJ74 {
+  padding-right: 0;
+  background: transparent;
+}
+.botTag-2WPJ74 .botText-1526X_ {
+  padding-right: 3px;
+  padding-left: 4px;
+  border-radius: 4px;
+  background: var(--brand-experiment);
+}
+.botTag-2WPJ74 .botText-1526X_:not(:only-child) {
+  display: none;
+}
+.botTag-2WPJ74 .botTagVerified-1klIIt {
+  border-radius: 50%;
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 15.2' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m16 7.6c0 .79-1.28 1.38-1.52 2.09s.44 2 0 2.59-1.84.35-2.46.8-.79 1.84-1.54 2.09-1.67-.8-2.47-.8-1.75 1-2.47.8-.92-1.64-1.54-2.09-2-.18-2.46-.8.23-1.84 0-2.59-1.54-1.3-1.54-2.09 1.28-1.38 1.52-2.09-.44-2 0-2.59 1.85-.35 2.48-.8.78-1.84 1.53-2.12 1.67.83 2.47.83 1.75-1 2.47-.8.91 1.64 1.53 2.09 2 .18 2.46.8-.23 1.84 0 2.59 1.54 1.3 1.54 2.09z' fill='white'/%3E%3C/svg%3E%0A");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: 15px;
+  background: var(--brand-experiment);
+}
+
+[mask="url(#svg-mask-status-idle)"], [mask="url(#svg-mask-status-dnd)"], [mask="url(#svg-mask-status-offline)"], [mask="url(#svg-mask-status-streaming)"] {
+  mask: url(#svg-mask-status-online);
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+  background: var(--main-color) !important;
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+  opacity: 0.9;
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover:active {
+  opacity: 0.8;
+}
+
+.mention-1f5kbO {
+  background: var(--main-color) !important;
+}
+.mention-1f5kbO:active {
+  opacity: 0.9;
+}
+
+.container-3auIfb[style*="67"], .container-3auIfb[style*="68"], .container-3auIfb[style*="69"], .container-3auIfb[style*="70"], .container-3auIfb[style*="71"], .container-3auIfb[style*="72"], .container-3auIfb[style*="73"], .container-3auIfb[style*="74"], .container-3auIfb[style*="75"], .container-3auIfb[style*="76"], .container-3auIfb[style*="77"], .container-3auIfb[style*="78"], .container-3auIfb[style*="79"], .container-3auIfb[style*="80"], .container-3auIfb[style*="81"], .container-3auIfb[style*="82"], .container-3auIfb[style*="83"], .container-3auIfb[style*="84"], .container-3auIfb[style*="85"], .container-3auIfb[style*="86"], .container-3auIfb[style*="87"], .container-3auIfb[style*="88"], .container-3auIfb[style*="89"], .container-3auIfb[style*="90"], .container-3auIfb[style*="91"], .container-3auIfb[style*="92"], .container-3auIfb[style*="93"], .container-3auIfb[style*="94"], .container-3auIfb[style*="95"], .container-3auIfb[style*="96"], .container-3auIfb[style*="97"], .container-3auIfb[style*="98"], .container-3auIfb[style*="99"], .container-3auIfb[style*="100"], .container-3auIfb[style*="101"], .container-3auIfb[style*="102"], .container-3auIfb[style*="103"], .container-3auIfb[style*="104"], .container-3auIfb[style*="105"], .container-3auIfb[style*="106"], .container-3auIfb[style="opacity: 1; background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"] {
+  background: var(--main-color) !important;
+}
+.container-3auIfb[style*="67"] svg > path, .container-3auIfb[style*="68"] svg > path, .container-3auIfb[style*="69"] svg > path, .container-3auIfb[style*="70"] svg > path, .container-3auIfb[style*="71"] svg > path, .container-3auIfb[style*="72"] svg > path, .container-3auIfb[style*="73"] svg > path, .container-3auIfb[style*="74"] svg > path, .container-3auIfb[style*="75"] svg > path, .container-3auIfb[style*="76"] svg > path, .container-3auIfb[style*="77"] svg > path, .container-3auIfb[style*="78"] svg > path, .container-3auIfb[style*="79"] svg > path, .container-3auIfb[style*="80"] svg > path, .container-3auIfb[style*="81"] svg > path, .container-3auIfb[style*="82"] svg > path, .container-3auIfb[style*="83"] svg > path, .container-3auIfb[style*="84"] svg > path, .container-3auIfb[style*="85"] svg > path, .container-3auIfb[style*="86"] svg > path, .container-3auIfb[style*="87"] svg > path, .container-3auIfb[style*="88"] svg > path, .container-3auIfb[style*="89"] svg > path, .container-3auIfb[style*="90"] svg > path, .container-3auIfb[style*="91"] svg > path, .container-3auIfb[style*="92"] svg > path, .container-3auIfb[style*="93"] svg > path, .container-3auIfb[style*="94"] svg > path, .container-3auIfb[style*="95"] svg > path, .container-3auIfb[style*="96"] svg > path, .container-3auIfb[style*="97"] svg > path, .container-3auIfb[style*="98"] svg > path, .container-3auIfb[style*="99"] svg > path, .container-3auIfb[style*="100"] svg > path, .container-3auIfb[style*="101"] svg > path, .container-3auIfb[style*="102"] svg > path, .container-3auIfb[style*="103"] svg > path, .container-3auIfb[style*="104"] svg > path, .container-3auIfb[style*="105"] svg > path, .container-3auIfb[style*="106"] svg > path, .container-3auIfb[style="opacity: 1; background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"] svg > path {
+  fill: var(--main-color) !important;
+}
+
+.standardSidebarView-3F1I7i::after {
+  content: "Fluentcord is outdated. Reinstall from https://github.com/doggybootsy/FluentCord/blob/main/Fluentcord.theme.css";
+  position: absolute;
+  z-index: 100;
+  padding: 1rem;
+  background: var(--primary-background);
+  color: var(--text-normal);
+  left: 220px;
+  max-width: calc(100vw - 292px);
+  display: var(--version-1-0-0, block);
+}
+
+.avatar-1BDn8e[src*="515780151791976453"] + h2 .username-1A8OIy::after {
+  content: "Fluentcord maintainer";
+  color: #fff;
+  background: #0054ff;
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 500;
+  height: 1.28em;
+  padding: 1px 4px;
+  border-radius: 3px;
+  line-height: 1.3;
+  margin-left: 4px;
+  transform: translateY(-3px);
+}
+
+.avatar-1BDn8e[src*="867178448212066304"] + h2 .username-1A8OIy::after {
+  content: "Lame";
+  color: #fff;
+  background: #3b6837;
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 500;
+  height: 1.28em;
+  padding: 1px 4px;
+  border-radius: 3px;
+  line-height: 1.3;
+  margin-left: 4px;
+  transform: translateY(-3px);
+}
+
+.avatar-1BDn8e[src*="346338830011596800"] + h2 .username-1A8OIy::after {
+  content: "Translator";
+  color: #fff;
+  background: #e04715;
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 500;
+  height: 1.28em;
+  padding: 1px 4px;
+  border-radius: 3px;
+  line-height: 1.3;
+  margin-left: 4px;
+  transform: translateY(-3px);
+}
+
+.menu-3sdvDG {
+  border-radius: 10px;
+}
+.menu-3sdvDG .scroller-3BxosC {
+  padding: 0;
+  border-radius: 10px;
+}
+.menu-3sdvDG .scroller-3BxosC .labelContainer-1BLJti {
+  margin: 0;
+  border-radius: 0;
+}
+.menu-3sdvDG .scroller-3BxosC::-webkit-scrollbar, .menu-3sdvDG .scroller-3BxosC [role=separator] {
+  display: none;
+}
+.menu-3sdvDG [id=message-actions-pin] path {
+  d: path("M 18.490234 3.9882812 A 1.50015 1.50015 0 0 0 17.685547 4.2402344 C 11.858859 8.0105649 7.3440265 12.509956 4.2128906 17.728516 A 1.5006126 1.5006126 0 1 0 6.7871094 19.271484 C 7.0116514 18.897248 7.2968064 18.552264 7.5371094 18.185547 C 8.3297502 19.01346 13.716739 24.640715 16.066406 27.095703 C 16.169734 27.203716 16.216708 27.337956 16.195312 27.511719 L 16.197266 27.511719 C 16.067101 28.563422 16.004391 29.674443 16 30.492188 C 15.98569 33.39309 16.750905 36.045436 18.097656 38.269531 C 19.283005 40.226735 22.058785 40.513481 23.658203 38.914062 L 30.226562 32.347656 L 40.439453 42.560547 A 1.50015 1.50015 0 1 0 42.560547 40.439453 L 32.347656 30.226562 L 38.914062 23.658203 C 40.513481 22.058785 40.226735 19.283005 38.269531 18.097656 C 36.045391 16.751554 33.394252 15.986053 30.494141 16 L 30.492188 16 C 29.637805 16.0038 28.599773 16.121762 27.611328 16.275391 C 27.439998 16.301921 27.287467 16.251531 27.175781 16.144531 L 18.257812 7.6054688 C 18.644754 7.3393819 18.913153 7.0194385 19.314453 6.7597656 A 1.50015 1.50015 0 0 0 18.490234 3.9882812 z M 15.892578 9.4960938 L 25.101562 18.310547 C 25.895878 19.071545 27.001644 19.405706 28.070312 19.240234 A 1.50015 1.50015 0 0 0 28.070312 19.238281 C 28.958606 19.100212 29.943143 19.002381 30.505859 19 A 1.50015 1.50015 0 0 0 30.507812 19 C 32.876913 18.98831 34.9575 19.600476 36.714844 20.664062 C 37.02964 20.854713 37.071546 21.258528 36.792969 21.537109 L 21.537109 36.792969 C 21.258476 37.071551 20.854714 37.02964 20.664062 36.714844 C 19.600814 34.958939 18.988312 32.876911 19 30.507812 C 19.0036 29.835556 19.06195 28.785156 19.173828 27.880859 A 1.50015 1.50015 0 0 0 19.173828 27.878906 C 19.300433 26.850669 18.969047 25.789471 18.234375 25.021484 C 15.769681 22.446314 9.5747171 15.976099 9.2890625 15.677734 C 11.075322 13.425416 13.43404 11.438384 15.892578 9.4960938 z");
+  transform: scale(0.5);
+}
+
+.layer-3QrUeG:last-child:not(:first-child) {
+  width: calc(100vw - 72px);
+  margin-left: 72px;
+}
+.layer-3QrUeG:last-child:not(:first-child)::before {
+  content: "";
+  position: fixed;
+  left: 292px;
+  top: 0;
+  right: 102px;
+  height: 32px;
+  -webkit-app-region: drag;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i {
+  background: transparent;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .bd-addon-card {
+  border: 2px solid var(--border2);
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i #bd-editor-panel {
+  border: 2px solid var(--border2);
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e {
+  background: var(--primary-background);
+  border-left: var(--border) 2px solid;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .item-26Dhrx, .layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .connection-1fbD7X, .layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .powercord-entities-manage-tabs, .layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .guild-Hq0WWA, .layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .paymentPane-3bwJ6A {
+  border: 2px solid var(--border);
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .banner-2QYc2d.bannerPremium-2hSAwz {
+  height: 240px;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .contentRegionScroller-26nc1e .banner-2QYc2d.bannerPremium-2hSAwz + .userInfo-iCloHO > .avatar-1uQSZT {
+  top: 200px;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .powercord-quickcss {
+  border: var(--border) 2px solid;
+  border-radius: 6px;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN {
+  flex: 0 0 auto;
+  position: relative;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN::after {
+  content: "";
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  background: var(--primary-background);
+  opacity: var(--channel_opacity);
+  z-index: -1;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP {
+  background: transparent;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP::-webkit-scrollbar {
+  display: none;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .info-1VyQPT .colorMuted-HdFt4q:nth-child(2)::after {
+  content: "\a" "Fluentcord 1.0.0 " var(--version-type, "Stable");
+  white-space: pre;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e .item-PXvHYJ {
+  border-radius: 0;
+  border-left: 2px solid transparent;
+}
+.layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e .item-PXvHYJ:hover, .layer-3QrUeG:last-child:not(:first-child) .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP .sidebar-CFHs9e .item-PXvHYJ.selected-3s45Ha {
+  border-left: 2px solid var(--main-color);
+}
+.layer-3QrUeG.animating-rRxada *, .layer-3QrUeG.animating-rRxada {
+  pointer-events: auto !important;
+  will-change: unset;
+}
+.layer-3QrUeG:not(:only-child) .base-3dtUhz {
+  display: none;
+}
+
+html {
+  --primary-background:#2e3136;
+  --secondary-background:#2d3035;
+  --secondary-background-alt:#2a2b2f;
+  --background-tertiary2:#383d43;
+  --border:#202022;
+  --border2:#4f5257;
+  --main-color: #7289DA;
+  --guilds_opacity: .95;
+  --channel_opacity: .95;
+  /* DONT TOUCH */
+  --version-1-0-0: none;
+  background: transparent !important;
+  --brand-experiment: var(--main-color);
+}
+html body {
+  background: transparent !important;
+}
+html body #app-mount {
+  background: transparent !important;
+}
+html body #app-mount .app-2rEoOp {
+  background: transparent !important;
+}
+html body #app-mount .app-2rEoOp .bg-h5JY_x {
+  background: transparent !important;
+}
+html body #app-mount .app-2rEoOp .layers-3iHuyZ {
+  background: transparent !important;
+}
+html body #app-mount .app-2rEoOp .layers-3iHuyZ .layer-3QrUeG {
+  background: transparent;
+  transform: none !important;
+  opacity: 1 !important;
+}
+
+/*# sourceMappingURL=compiled.css.map */
