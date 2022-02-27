@@ -1,9 +1,9 @@
-.layerContainer-yqaFcK{
+.layer-1Ixpg3 {
     visibility: hidden;
     &>* {
         visibility: visible;
     }
-    @import './users.scss';
     @import './modals.scss';
-    @import './perks.scss';
 }
+@import './perks.scss';
+@import './users.scss';

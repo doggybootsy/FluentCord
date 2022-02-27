@@ -1,12 +1,12 @@
-.privateChannels-1nO12o {
+.privateChannels-oVe7HL {
     background: transparent;
-    .scroller-1JbKMe {
+    .scroller-WSmht3 {
         background: transparent;
         margin-right: 10px;
         &::-webkit-scrollbar {
             display: none;
         }
-        .privateChannelsHeaderContainer-3NB1K1 {
+        .privateChannelsHeaderContainer-1UWASm {
             position: relative;
             &::after{
                 content: '';
@@ -17,27 +17,28 @@
                 top: 10px;
                 background: var(--border2);
             }
-            &~.channel-2QD9_O {
+            &~.channel-1Shao0 {
                 margin: 0;
-                .layout-2DM8Md {
+                .layout-1LjVue {
                     border-radius: 0;
                     border-left: 2px solid transparent;
                 }
-                &.selected-aXhQR6, &:hover {
-                    .layout-2DM8Md {
+                & > .interactiveSelected-29CP8y, &:hover {
+                    .layout-1LjVue {
                         border-radius: 0;
                         border-left: 2px solid var(--main-color);
-                        .closeIcon-rycxaQ{
+                        .closeButton-mupH76 {
                             color: var(--main-color);
                         }
                     }
                 }
             }
         }
-        .content-3YMskv {
+        .content-2a4AW9 {
             display: flex;
             flex-wrap: wrap;
             align-content: flex-start;
+            margin-top: 5px;
             a {
                 &:not([href*="/channels/@me/"]) {
                     flex-grow: 1;
@@ -46,24 +47,16 @@
                     &:first-of-type {
                         margin-left: 8px !important;
                     }
-                    .layout-2DM8Md {
+                    .layout-1LjVue {
                         justify-content: center;
                         padding: 0 !important;
                     }
-                    .avatar-3uk_u9 {
+                    .avatar-1HDIsL {
                         margin: 0 !important;
                     }
-                    .content-3QAtGj {
+                    .content-66wMin {
                         display: none;
                     }
-                    .children-gzQq2t {
-                        position: absolute;
-                        transform: translate(4px, 8px);
-                        border-radius: 100px;
-                    }
-                }
-                &[href*="/channels/@me/"] {
-                    width: 100%;
                 }
             }
             h2 {

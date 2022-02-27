@@ -1,16 +1,16 @@
-.form-2fGMdU {
+.form-3gdLxP {
     padding-top: 10px;
     border-top: var(--border2) 2px solid;
     &::before{
         background: -webkit-gradient(linear,left top,left bottom,from(rgba(54,57,63,0)),to(var(--primary-background))) !important;
     }
-    .hasConnectedBar-1MrFne{
+    .hasConnectedBar-1vN2JH{
         border-radius: 8px;
     }
-    @import './remove.scss';
-    @import './reply.scss';
 }
 @import './gif.scss';
 @import './emoji.scss';
 @import './border.scss';
 @import './attach.scss';
+@import './remove.scss';
+@import './reply.scss';

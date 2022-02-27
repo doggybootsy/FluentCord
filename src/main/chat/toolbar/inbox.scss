@@ -1,7 +1,7 @@
 [aria-label='Inbox'], [aria-label='收件箱'], [aria-label='收件匣'], [aria-label='Příchozí'], [aria-label='Indbakke'], [aria-label='Boîte de réception'], [aria-label='Posteingang'], [aria-label='Εισερχόμενα'], [aria-label='Bejövő üzenetek'], [aria-label='Messaggi ricevuti'], [aria-label='受信ボックス'], [aria-label='받은 편지함'], [aria-label='Skrzynka odbiorcza'], [aria-label='Caixa de Entrada'], [aria-label='Почта'], [aria-label='Bandeja de entrada'], [aria-label='Inkorg'], [aria-label='Gelen Kutusu'], [aria-label='Входяща поща'], [aria-label='Вхідні'], [aria-label='Saapuneet'], [aria-label='Innboks'], [aria-label='Ulazna pošta'], [aria-label='Gautos žinutės'], [aria-label='กล่องขาเข้า'], [aria-label='Hộp thư đến'], [aria-label='इनबॉक्स']{
     display: flex;
     &::after {
-        content: var(--inbox-text);
+        content: attr(aria-label);
         height: 50%;
         transform: translateY(-75%);
         top: 50%;

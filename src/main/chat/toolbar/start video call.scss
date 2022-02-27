@@ -1,0 +1,10 @@
+[aria-label='Start Video Call'], [aria-label='开始视频通话'], [aria-label='開始視訊通話'], [aria-label='Zahájit videohovor'], [aria-label='Start videoopkald'], [aria-label='Videogesprek starten'], [aria-label='Démarrer un appel vidéo'], [aria-label='Videoanruf starten'], [aria-label='Έναρξη βιντεοκλήσης'], [aria-label='Videohívás indítása'], [aria-label='Avvia la videochiamata'], [aria-label='ビデオ通話を開始'], [aria-label='영상 통화 시작하기'], [aria-label='Rozpocznij rozmowę wideo'], [aria-label='Iniciar chamada de vídeo'], [aria-label='Начать видеозвонок'], [aria-label='Iniciar videollamada'], [aria-label='Påbörja videosamtal'], [aria-label='Görüntülü Arama Başlat'], [aria-label='Започни видео обаждане'], [aria-label='Розпочати відеовиклик'], [aria-label='Aloita videopuhelu'], [aria-label='Start en videosamtale'], [aria-label='Započni video poziv'], [aria-label='Începe un apel video'], [aria-label='Pradėti vaizdo skambutį'], [aria-label='เริ่มวิดีโอคอล'], [aria-label='Bắt Đầu Cuộc Gọi Video'], [aria-label='वीडियो कॉल स्टार्ट करें']{
+    display: flex;
+    &::after {
+        content: var(--video-text);
+        height: 50%;
+        transform: translateY(-75%);
+        top: 50%;
+        position: relative;
+    }
+}

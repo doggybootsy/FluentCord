@@ -5,7 +5,7 @@
         left: 14px;
     }
     &::after {
-        content: var(--pins-text);
+        content: attr(aria-label);
         height: 50%;
         transform: translateY(-75%);
         top: 50%;

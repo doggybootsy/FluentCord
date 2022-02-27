@@ -1,4 +1,4 @@
-.layer-3QrUeG{
+.layer-86YKbF{
     &:last-child:not(:first-child) {
         width: calc(100vw - 72px);
         margin-left: 72px;
@@ -11,19 +11,18 @@
             height: 32px;
             -webkit-app-region: drag;
         }
-        .standardSidebarView-3F1I7i{
+        .standardSidebarView-E9Pc3j{
             background: transparent;
             @import './bd.scss';
             @import './content.scss';
-            @import './pc.scss';
             @import './sidebar.scss';
         }
     }
-    &.animating-rRxada *, &.animating-rRxada{
+    &.animating-1rIrGV *, &.animating-1rIrGV{
         pointer-events: auto !important;
         will-change: unset;
     }
-    &:not(:only-child) .base-3dtUhz{
+    &:not(:only-child) .base-2jDfDU {
         display: none;
     }
 }

@@ -1,27 +1,28 @@
-.container-1r6BKw.themed-ANHk51 {
+.container-ZMc96U.themed-Hp1KC_ {
     background: var(--secondary-background-alt);
     z-index: 0;
     border-bottom: var(--border) 2px solid;
     height: 50px;
-    .children-19S4PO::after{
+    .children-3xh0VB::after{
         background: linear-gradient(90deg,rgba(54,57,63,0) 0,var(--secondary-background-alt));                                    
     }
-    .toolbar-1t6TWx {
+    .toolbar-3_r2xA {
         @import './search.scss';
         @import './pinned\ messages.scss';
         @import './start\ voice\ call.scss';
+        @import './start\ video\ call.scss';
         @import './remove.scss';
     }
 }
-.chat-3bRxxu {
-    &.threadSidebarOpen-vdkwIh+div .toolbar-1t6TWx {
+.chat-2ZfjoI {
+    &.threadSidebarOpen-1LSXvU+div .toolbar-3_r2xA {
         margin-right: 40px;
     }
-    &:not(.threadSidebarOpen-vdkwIh) .toolbar-1t6TWx {
+    &:not(.threadSidebarOpen-1LSXvU) .toolbar-3_r2xA {
         margin-right: 40px;
     }
 }
-.container-1D34oG .toolbar-1t6TWx {
+.container-1D34oG .toolbar-3_r2xA {
     margin-right: 40px;
 }
 @import './inbox.scss';
